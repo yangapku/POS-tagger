@@ -2,7 +2,7 @@ import numpy as np
 from postagger import indicator
 from postagger import decoder
 
-class ChineseTagger:
+class ChineseTagger(object):
 	def __init__(self):
 		#final average alpha vector for perceptron
 		self.learnedWeightVector=np.zeros(indicator.featuredim)
@@ -68,10 +68,10 @@ class ChineseTagger:
 				sumWeightVector=np.zeros(indicator.featuredim)
 				for j in range(len(self.trainSentenceList)):
 					#estimate tag sequence using Viterbi
-					estimatedTagSeq=decoder.solver(self.trainSentenceList[j])
+					estimatedTagSeq=decoder.solver(self.trainSentenceList[j],tempWeightVector)
 					#update tempWeightVector
 					if(estimatedTagSeq!=self.trainTagList[j]):
-						tempWeightVector=tempWeightVector+indicator.totalphi(self.trainSentenceList[j],self.trainTagList[j])-indicator.totalphi(self.trainSentenceList[j],estimatedTagSeq)
+						tempWeightVector=tempWeightVector+learnRate*(indicator.totalphi(self.trainSentenceList[j],self.trainTagList[j])-indicator.totalphi(self.trainSentenceList[j],estimatedTagSeq))
 					sumWeightVector+=tempWeightVector
 				resisualSqsum=np.sum((self.learnedWeightVector-sumWeightVector/len(self.trainSentenceList))**2)
 				if(resisualSqsum<eps):
