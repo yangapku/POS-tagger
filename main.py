@@ -4,9 +4,9 @@ from postagger import tagger
 t=tagger.ChineseTagger()
 
 #train and develop the tagger
+t.readinTrainData()
 t.trainTagger()
-t.developTagger()
 
 #predict tag for input sentence
-result=t.predictTag(['欢迎','来','美丽','的','中国','玩','。'])
-print(result)
+t.developTagger()
+t.predictTag()

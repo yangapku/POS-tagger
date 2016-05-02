@@ -1,0 +1,13905 @@
+	START	P					PU
+	CC	PU					NN
+	NN	VE					JJ
+	NN	PU					AD
+	LC	PU					DT
+	NR	LC					DEC
+	NT	AD					VC
+	NN	DEC					NR
+	CS	AD					VV
+	AS	PU					NR
+	START	START					CD
+	VV	CD					NN
+	NT	NN					CC
+	START	AD					DT
+	NT	NR					NR
+	PU	NN					DT
+	CC	CD					M
+	NR	NR					DEG
+	VV	VA					DEV
+	NN	PU					BA
+	CD	LC					PU
+	AS	NN					PU
+	VA	DEC					NR
+	AS	AD					VA
+	PU	DT					NN
+	NR	NN					DT
+	PU	VC					AD
+	NN	NR					ETC
+	VC	JJ					DEG
+	VV	NT					PU
+	PU	JJ					JJ
+	VC	NN					JJ
+	NN	PU					DEC
+	NT	AD					VV
+	NT-SHORT	CC					NT
+	CD	PU					P
+	ETC	NN					PU
+	AD	VV					VC
+	VV	DEC					VA
+	JJ	PU					JJ
+	CC	NR					NN
+	CC	NR					AD
+	AS	PN					NN
+	NR	P					NR
+	NN	LC					VV
+	PU	PU					P
+	VC	VV					NN
+	VA	DEC					VV
+	OD	M					NN
+	NN	DEC					VE
+	NN	CC					NN
+	VV	VV					NT
+	AD	VA					VV
+	P	JJ					NN
+	NT	PU					AD
+	PU	VV					NN
+	LC	DEG					NR
+	NN	VC					PN
+	P	NT					OD
+	VE	VA					DEC
+	VV	VA					PU
+	DEG	NN					CC
+	NR	PU					PN
+	PU	PN					AD
+	CD	PU					AD
+	NN	DEC					AD
+	CD	NN					VV
+	NN	OD					M
+	DEV	VV					NR
+	START	P					NT
+	VV	DEG					NN
+	P	VV					PN
+	START	NN					LC
+	START	P					VV
+	DEG	PU					JJ
+	VV	BA					PN
+	NR	PU					VV
+	LC	NN					VA
+	VV	PN					NN
+	PU	CC					CD
+	CC	NR					CD
+	PU	NN					JJ
+	CD	CD					CD
+	VV	NR					CD
+	VV	OD					M
+	NN	PU					DT
+	PN	VC					DT
+	M	LC					NR
+	NR	P					JJ
+	VC	NN					AD
+	AD	P					AD
+	START	NN					CD
+	NN	VV					MSP
+	START	JJ					NN
+	CC	VV					AD
+	NR	PU					NT
+	NT	NR					JJ
+	PU	CD					VC
+	VV	VV					PN
+	NN	VA					VV
+	P	PU					NR
+	NT	LC					NN
+	P	NN					DEG
+	VV	NN					P
+	AS	CD					NN
+	PU	NR					OD
+	P	P					NR
+	VV	NN					DEC
+	LC	OD					M
+	VC	NR					VV
+	OD	NN					NR
+	NN	NN					NN
+	P	VV					DEC
+	PU	VV					DEC
+	START	NR					PU
+	VC	VV					VV
+	DEV	VV					NN
+	NN	NN					DT
+	VA	PU					NN
+	VC	NN					CC
+	CC	OD					NN
+	NT	P					PN
+	NN	P					VV
+	PU	VA					VA
+	DEC	NR					AD
+	VV	NR					JJ
+	VV	CD					LC
+	DEC	PU					JJ
+	CC	NN					VA
+	AD	VE					AD
+	PN	VV					NN
+	CD	DEG					JJ
+	VA	PU					NR
+	AD	VE					AS
+	PU	CS					NT
+	NN	VV					LC
+	DEC	NN					NN
+	VV	PN					JJ
+	OD	NN					VV
+	NN	VC					NN
+	VV	DEC					NN
+	AS	VA					DEC
+	NT	AD					VA
+	START	START					CS
+	AS	JJ					NN
+	DEC	NN					MSP
+	LC	DEG					NN
+	DT	M					NN
+	NN	VA					DEV
+	DEC	NR					CC
+	NT	NN					VV
+	VE	AS					VA
+	OD	JJ					NN
+	AD	P					PN
+	PN	VV					NR
+	PU	OD					PU
+	AS	CD					M
+	PU	NN					VC
+	NT	LC					PU
+	PU	NN					AD
+	AD	NR					VV
+	NN	NR					DEG
+	NT	PU					NR
+	NN	PU					OD
+	NR	VV					AS
+	CC	NT					NN
+	VV	DEC					DT
+	DEG	NN					PU
+	M	CC					OD
+	DT	CD					NN
+	M	VV					DEC
+	AD	VE					JJ
+	AD	PU					NN
+	BA	DT					NN
+	OD	M					OD
+	VC	VV					JJ
+	AD	VC					PN
+	PN	PU					NN
+	VV	DEV					VV
+	DEC	NR					NN
+	PU	VC					CD
+	AD	VA					AD
+	CD	NN					CD
+	PN	P					PN
+	START	PU					NT
+	VC	PU					CD
+	VA	CD					M
+	M	CD					NN
+	START	START					VA
+	NR	VC					VV
+	PN	P					AD
+	AS	VV					NR
+	VV	DER					AD
+	ETC	NN					VV
+	PU	NT					P
+	PN	VC					CD
+	NR	VC					P
+	PU	CS					NN
+	PU	NR					NN
+	PU	NT					NR
+	NN	PU					JJ
+	NT	PU					P
+	START	P					AD
+	CS	NN					VV
+	PU	BA					NR
+	VV	VV					JJ
+	NT	LC					NR
+	VV	AS					PU
+	DT	NN					DEC
+	CC	NN					DEC
+	NR	MSP					VV
+	JJ	NN					NN
+	P	NR					NT
+	PU	AD					CD
+	DEC	NN					NR
+	PU	LB					NN
+	P	JJ					DEG
+	VV	NR					DT
+	CD	VC					VV
+	NN	VV					BA
+	NN	NT					P
+	NN	VV					CC
+	NT	NT					PU
+	LC	AD					P
+	AS	AD					VV
+	P	CD					NN
+	AD	VV					NT
+	AS	CD					PU
+	NR	DEC					NR
+	P	PN					P
+	VC	PU					AD
+	BA	NR					NN
+	M	NN					VC
+	AD	CD					NN
+	VC	PU					VV
+	AS	P					NR
+	VV	LC					DEG
+	CD	M					NN
+	AS	NN					NN
+	NN	JJ					NN
+	DEG	NR					VV
+	CS	NN					NN
+	P	VA					DEC
+	DT	VA					DEC
+	START	NR					DEG
+	DEC	NN					AD
+	NN	PU					NT
+	M	DEG					NN
+	M	AD					VA
+	PU	NN					CD
+	DEC	NN					CC
+	START	P					DT
+	VV	NT					DEG
+	NR	NR					P
+	NN	AD					VA
+	NN	AD					NN
+	PU	P					VV
+	PU	VC					P
+	NN	VC					PU
+	DEG	NN					P
+	START	NT					OD
+	NR	PU					NR
+	VC	NN					NN
+	VV	DEC					NR
+	PU	PN					DEG
+	P	NR					VV
+	VV	AD					JJ
+	START	VV					NR
+	LC	CD					M
+	VV	NR					P
+	JJ	DEG					PU
+	AD	VA					VA
+	M	NR					NN
+	PU	VV					CD
+	CC	NN					VV
+	PU	CC					VC
+	CD	NN					VC
+	NN	PU					VC
+	NN	NR					NN
+	PN	VC					VV
+	NN	VA					DEC
+	AD	BA					NR
+	NR	NR					PU
+	NR	ETC					JJ
+	DEG	NN					MSP
+	PN	P					VV
+	NN	VC					JJ
+	AS	NN					AD
+	M	LC					PU
+	DEC	NN					PU
+	VV	AD					P
+	SB	VV					NN
+	LC	NN					DEG
+	START	START					AD
+	MSP	VV					VV
+	NN	VC					AD
+	START	NR					CD
+	NN	MSP					AD
+	NN	DEG					NR
+	VV	P					NN
+	LC	VE					CD
+	NR	NR					VV
+	CC	NR					CC
+	VV	PU					DEC
+	DEG	P					NN
+	CC	NR					ETC
+	DEC	NN					JJ
+	CD	M					P
+	NN	VE					NN
+	START	PN					P
+	VV	PN					PU
+	NN	PU					PN
+	CD	PU					NN
+	NR	CD					NN
+	NN	PU					CD
+	M	DEG					NR
+	VE	DT					NN
+	AD	VV					NR
+	PU	ETC					NN
+	M	LC					NN
+	PU	PN					P
+	NN	CC					DT
+	VV	P					P
+	M	DT					NN
+	START	AD					NR
+	DEC	PU					AD
+	NR	VV					LC
+	PU	NR					NT
+	VV	CC					NN
+	CD	M					AD
+	AD	NN					VV
+	DEC	VE					CD
+	PU	VV					AS
+	NN	VA					VA
+	NN	ETC					JJ
+	NR	AD					AD
+	M	NN					PU
+	NN	BA					NN
+	CD	NN					JJ
+	START	NN					JJ
+	VV	DEC					P
+	VC	NN					LC
+	BA	VV					NN
+	PU	PU					AD
+	NN	VV					JJ
+	NR	VE					CD
+	VC	CD					NN
+	DEC	PU					P
+	PU	CC					PU
+	P	JJ					JJ
+	CC	VV					VA
+	PN	NN					PU
+	M	AD					VE
+	VC	NT					NN
+	START	NN					AD
+	VV	P					PU
+	NN	NN					CC
+	NN	NN					CS
+	PU	DT					CD
+	START	PU					NN
+	AS	VV					NN
+	DEC	AD					VC
+	JJ	NN					SP
+	PU	JJ					NN
+	OD	M					AD
+	START	START					VE
+	NR	DEG					NN
+	VV	NT					NR
+	LC	NR					NN
+	LC	NN					NN
+	START	PN					VV
+	NN	PU					MSP
+	PU	DEG					NN
+	START	START					VV
+	MSP	VV					P
+	DEG	NN					VE
+	AD	SB					VV
+	NN	NN					DEG
+	OD	M					P
+	P	DT					M
+	PN	VV					VV
+	AS	P					NN
+	NR	P					CD
+	NT	PU					PU
+	CC	NR					DEG
+	NN	VV					AD
+	DT	M					DEG
+	DT	M					JJ
+	AD	LB					NN
+	M	VV					JJ
+	NT	LC					AD
+	NR	DT					NN
+	JJ	NN					VA
+	OD	M					VC
+	PU	AD					PU
+	NN	CC					AD
+	JJ	NN					NT
+	NT	NR					NN
+	NR	PU					JJ
+	NR	JJ					JJ
+	VV	VV					VV
+	NN	MSP					VV
+	START	VV					DT
+	NT	AD					VE
+	VV	CC					AD
+	LC	NR					NR
+	P	VV					NT
+	CC	VE					NN
+	ETC	CD					JJ
+	PU	NT					CC
+	NN	NT					NT
+	NN	CC					PU
+	DT	CD					M
+	NN	VE					CD
+	CC	P					NN
+	CC	VV					PN
+	P	NN					CD
+	NT	AD					P
+	NR	VV					NR
+	JJ	NN					VV
+	DEC	CD					M
+	PU	CC					NN
+	M	JJ					DEG
+	LC	NN					AD
+	CC	NN					DEG
+	M	P					NN
+	NN	P					DT
+	NN	DEG					DT
+	P	PU					VV
+	PU	VV					VV
+	M	VV					DT
+	M	AD					PU
+	VA	PU					VV
+	M	VC					NN
+	MSP	VV					CD
+	VV	LC					VV
+	JJ	NN					DEG
+	CC	NT					DEG
+	NR	NT					NT
+	NN	CC					P
+	PN	VV					PU
+	PN	DT					M
+	M	CC					NN
+	CD	JJ					M
+	CD	NN					DEC
+	PN	VV					AS
+	NR	NT					NN
+	AD	CD					PU
+	VA	DEC					NN
+	CC	NN					DT
+	DEG	AD					JJ
+	NR	LC					VV
+	VV	AS					NN
+	VV	BA					NN
+	DEC	NR					VV
+	VA	CC					NN
+	ETC	CD					M
+	VC	DT					NN
+	CD	VV					NN
+	LC	P					NR
+	AS	NR					NR
+	PU	BA					NN
+	START	NN					DT
+	M	PU					AD
+	LC	DEG					JJ
+	M	JJ					JJ
+	START	P					CD
+	LC	VV					AD
+	CD	M					PU
+	AD	JJ					NN
+	VV	VV					AS
+	VV	AD					PU
+	DT	M					VA
+	START	START					NT
+	VV	P					VA
+	NN	VV					NR
+	VV	JJ					PU
+	PU	P					JJ
+	PU	PU					NR
+	AD	VC					DT
+	CC	VV					DT
+	CD	JJ					JJ
+	NR	VV					VA
+	PU	VV					PN
+	M	DEG					JJ
+	PU	NR					P
+	CD	VC					P
+	PU	NR					DEG
+	NN	CC					NR
+	LC	P					NN
+	CD	M					CD
+	VV	PU					NN
+	M	PU					PU
+	PU	NN					LC
+	NN	P					OD
+	M	CD					VV
+	DEG	NN					ETC
+	CD	DEG					NN
+	LC	VV					PU
+	NN	PU					VV
+	P	PN					VV
+	NR	P					AD
+	PU	AD					NN
+	M	NN					LC
+	AD	MSP					VV
+	AD	PU					NR
+	VE	CD					M
+	VA	PU					PN
+	BA	DT					M
+	CD	M					DEG
+	VV	DT					NN
+	START	NT					DEG
+	DEC	NR					OD
+	VV	PN					VV
+	START	NN					P
+	START	PU					P
+	JJ	NN					CC
+	NN	DEG					OD
+	AD	CC					AD
+	DT	M					CD
+	PU	AD					BA
+	LC	PU					JJ
+	START	PU					CD
+	CC	AD					VA
+	NT	OD					M
+	PU	JJ					DEG
+	PU	VV					P
+	JJ	DEG					JJ
+	NN	LC					CC
+	NT	VV					CD
+	PU	LC					PU
+	NR	VC					CD
+	DEC	NR					NR
+	NT	LC					P
+	AS	PU					NN
+	PU	AD					VE
+	NN	CD					M
+	VC	VV					PU
+	START	NT					LC
+	VE	JJ					NN
+	JJ	M					NN
+	AS	DT					M
+	M	DEC					NN
+	CC	VV					AS
+	DEG	NN					VA
+	JJ	CC					JJ
+	START	NR					NT
+	VC	NN					PU
+	NR	PU					DEG
+	NN	P					CD
+	P	NT					NT
+	M	VV					NR
+	PU	CS					P
+	NN	VA					CD
+	P	NT					PU
+	VV	VV					NR
+	NN	NN					LC
+	NT	DEG					NN
+	MSP	VV					NN
+	CC	NR					PU
+	VV	AS					CD
+	NN	NN					AD
+	VV	PU					MSP
+	NN	VV					VE
+	NR	P					VV
+	VV	VV					OD
+	AD	NR					AD
+	DT	NN					VA
+	P	PU					NN
+	NR	NT					P
+	ETC	CD					NN
+	NR	VV					PU
+	P	NN					AD
+	CC	P					JJ
+	PU	CC					DT
+	DT	NN					AD
+	PU	VA					PU
+	P	AD					AD
+	NR	VV					OD
+	PU	NR					DT
+	BA	PN					VV
+	START	P					PN
+	NT	DT					NN
+	JJ	NN					OD
+	PN	NN					AD
+	LC	AD					VA
+	AS	PU					PU
+	PU	P					PN
+	VV	JJ					NR
+	NN	VA					NN
+	CC	VV					CD
+	PU	NR					AD
+	VA	DEC					VC
+	PU	CS					AD
+	CS	VV					AS
+	PU	CD					VV
+	P	CD					LC
+	VV	NR					NN
+	NN	CC					VA
+	VV	PU					CC
+	NN	VA					CC
+	NN	CD					PU
+	PU	NN					OD
+	VV	PU					CS
+	MSP	VV					PU
+	ETC	DT					M
+	M	VV					PU
+	PU	NR					PU
+	CC	P					NT
+	NR	NN					DEG
+	VA	DEC					CD
+	PU	P					NR
+	DEV	VV					VV
+	START	AD					P
+	P	NR					P
+	NT	NN					PU
+	NT	NN					NR
+	AS	NN					CC
+	NN	VV					PU
+	CC	P					DT
+	DEG	NN					DEC
+	VV	NN					NN
+	P	NR					DEC
+	VV	NT					NN
+	AD	PU					PU
+	PU	VE					NN
+	START	NN					NR
+	PU	NR					VC
+	CD	VC					NN
+	VC	PU					NR
+	PN	MSP					VV
+	CC	DT					M
+	VC	P					PN
+	NN	SB					VV
+	M	CD					PU
+	VV	NT					VV
+	PN	P					NN
+	VC	NR					NR
+	START	START					NN
+	P	DT					VV
+	OD	M					CC
+	VA	VV					PU
+	NT	P					P
+	PU	VV					DT
+	VV	VE					JJ
+	START	NR					JJ
+	AD	NN					AD
+	VV	NN					VC
+	VV	NN					PU
+	PU	NT					CD
+	AD	P					NN
+	NN	NT					NN
+	CS	NR					NN
+	NR	SB					VV
+	AD	AD					VV
+	M	NN					DEC
+	DEC	PU					PU
+	VC	VA					DEC
+	PN	NN					VV
+	CD	NN					PU
+	VV	P					CD
+	VA	VA					DEC
+	NR	NN					JJ
+	VV	CD					NR
+	DEC	OD					M
+	CD	M					JJ
+	CC	NR					JJ
+	CC	VC					VV
+	BA	NN					DEG
+	PU	PU					PN
+	AD	PU					JJ
+	PN	VV					AD
+	NN	CS					AD
+	AD	VA					CC
+	PU	AD					VA
+	LC	VV					VV
+	CC	PU					CD
+	VV	AD					CD
+	DEG	NN					CD
+	NN	NN					VV
+	NN	NR					NT
+	NN	JJ					DEG
+	P	VV					DT
+	DT	NN					NT
+	START	START					P
+	ETC	NN					NN
+	PU	NN					PU
+	VC	NT					NT
+	PU	NT					DEG
+	LC	NN					PU
+	P	OD					M
+	M	JJ					NN
+	NN	CD					CC
+	NR	NN					LC
+	CC	OD					M
+	LC	VV					CD
+	AS	PU					AD
+	VA	PU					CD
+	NR	NN					BA
+	P	CD					M
+	VE	AD					VA
+	PN	AD					VC
+	AD	P					PU
+	PU	AD					JJ
+	NT	PU					PN
+	DT	NN					VC
+	VV	AS					P
+	PN	VC					NR
+	LC	AD					VV
+	CD	VV					AS
+	DT	NN					VV
+	VV	AD					VA
+	M	NN					CC
+	VV	NN					NR
+	CD	NN					LC
+	START	CS					NN
+	NT	NT					CC
+	AD	VA					AS
+	OD	M					VV
+	PN	DEG					JJ
+	VE	CD					NN
+	PN	CD					M
+	VV	AD					VC
+	NN	NR					DT
+	AD	AD					P
+	VC	NN					P
+	VC	OD					M
+	AD	PU					P
+	BA	JJ					NN
+	NR	NT					LC
+	JJ	NN					JJ
+	LC	VV					P
+	NR	DEC					JJ
+	NN	VV					OD
+	NR	NN					MSP
+	DEC	CD					JJ
+	P	NN					PU
+	PU	M					NN
+	DEG	CD					LC
+	PN	PU					VV
+	VC	PN					VV
+	PU	P					DT
+	NT	P					VV
+	START	NT					CC
+	ETC	NN					AD
+	NT	NN					NN
+	CD	NN					P
+	AD	AD					PU
+	NR	VV					NT
+	PU	CC					PN
+	START	VV					CD
+	PU	VV					OD
+	AD	VE					NR
+	START	DT					CD
+	P	NR					DEG
+	LC	DEC					JJ
+	P	NT					LC
+	AD	NN					PU
+	DT	M					DT
+	PU	AD					NR
+	OD	NN					PU
+	AD	VV					VE
+	NT	PU					DT
+	NR	NR					OD
+	NN	DEC					PU
+	START	VV					DEC
+	AD	VV					BA
+	NR	OD					M
+	NN	DEG					P
+	AS	NN					DEG
+	VA	NN					PU
+	PU	CC					NT
+	NN	NT					VV
+	NN	NN					JJ
+	M	NN					NR
+	M	PU					OD
+	NT	NT					VV
+	VV	JJ					JJ
+	START	CD					NN
+	CD	PU					NR
+	CC	P					NR
+	START	AD					VC
+	PU	PN					VC
+	NN	VV					VV
+	AD	VA					DEV
+	CC	NT					P
+	NR	NN					P
+	M	PU					CC
+	PU	VV					LC
+	PU	CD					CC
+	DEG	CD					JJ
+	MSP	VV					DEC
+	M	DEC					JJ
+	LC	AD					AD
+	NN	AD					PU
+	VC	NR					NN
+	VC	PU					P
+	VC	AD					VV
+	P	PN					DEG
+	NR	NN					ETC
+	DEC	NN					LC
+	NN	PU					CC
+	NR	LC					PU
+	JJ	NN					DEC
+	NR	VA					PU
+	PN	VV					VA
+	PU	NN					P
+	P	NT					AD
+	START	VV					PU
+	VE	AD					CD
+	LC	VV					NR
+	VV	PU					PU
+	VE	NN					PU
+	START	NT					DT
+	PU	VA					CC
+	LC	PU					P
+	NN	OD					JJ
+	NN	VA					AD
+	VA	PU					CC
+	PN	VC					P
+	DT	M					VV
+	START	AD					NN
+	NR	NR					CD
+	START	AD					AD
+	START	PU					NR
+	NN	P					JJ
+	NN	CD					DEG
+	NN	DEG					VV
+	DEG	VV					NN
+	NN	LC					NR
+	VV	VV					DT
+	PU	PU					NN
+	LC	PU					PN
+	VV	VV					P
+	DT	M					P
+	PU	VV					PU
+	NN	LC					OD
+	AD	AD					VA
+	START	NR					P
+	VA	DEC					PU
+	START	AD					PN
+	CD	PU					DT
+	AS	PU					VV
+	AD	P					P
+	PU	AD					P
+	JJ	NN					NR
+	JJ	NR					PU
+	P	VV					CC
+	M	VV					CD
+	PU	PU					VV
+	M	PU					PN
+	VV	AS					NT
+	VV	AD					AD
+	VA	PU					PU
+	NN	NN					P
+	NR	VV					DEC
+	CC	CD					PU
+	PU	DT					M
+	P	NN					P
+	PU	PU					OD
+	M	PU					VC
+	M	PU					CD
+	NN	VV					DEC
+	AD	PN					AD
+	VV	DT					JJ
+	DEC	NR					PU
+	NR	PU					DT
+	START	VA					DEC
+	VA	PU					VA
+	START	NR					DT
+	DEG	NR					NR
+	PU	VC					VV
+	VV	CC					VV
+	CC	P					VV
+	DER	AD					VA
+	M	VV					AS
+	OD	M					PU
+	DEC	OD					NN
+	DEG	CD					VV
+	CC	NR					P
+	NN	NR					VV
+	PN	JJ					NN
+	NN	SP					PU
+	CC	DT					NN
+	CD	PU					PU
+	PU	JJ					NR
+	VA	CC					VA
+	VV	NR					VV
+	LC	DT					NN
+	NT	VV					AD
+	PU	SB					VV
+	NR	CC					NR
+	VV	VV					VA
+	PU	PU					DT
+	SP	PU					PU
+	NR	PU					NN
+	AD	VC					VA
+	PU	NR					CD
+	START	NR					NR
+	VC	NR					OD
+	VC	VV					DEC
+	PU	PU					NT
+	CC	VA					PU
+	CD	VV					NR
+	DEC	NT					PU
+	VA	PU					DT
+	AD	AD					JJ
+	VV	NN					SP
+	CD	VA					DEC
+	NR	PU					P
+	NN	LC					VE
+	VC	P					NN
+	PU	CS					VV
+	PU	CC					NR
+	NR	VC					NN
+	AS	PN					P
+	START	AD					CD
+	P	DT					NN
+	NN	CC					CD
+	VC	NT					LC
+	CC	AD					AD
+	NT	PU					VV
+	NN	JJ					PU
+	NN	LC					CD
+	NN	NN					VA
+	NR	CD					JJ
+	AD	VE					DT
+	VC	VV					NR
+	CC	NN					AD
+	P	NR					NR
+	START	START					DT
+	AS	NT					NN
+	VV	VV					DEC
+	PN	VV					P
+	START	NR					CC
+	VV	NN					JJ
+	VE	VV					NN
+	LC	PU					VV
+	DT	M					PU
+	NN	P					NN
+	START	NN					VV
+	PU	PU					CD
+	CS	VV					NN
+	AD	PU					DT
+	VV	VV					LC
+	VV	P					VV
+	VV	AS					JJ
+	DEV	VV					AS
+	VC	P					VV
+	NN	CD					LC
+	VV	DT					M
+	LC	P					CD
+	AS	JJ					DEG
+	NT	JJ					NN
+	AD	VE					CD
+	AS	NR					CC
+	VV	DEC					JJ
+	START	VV					VV
+	LC	DEC					NN
+	AD	PU					AD
+	NT	LC					VV
+	M	NN					VV
+	NN	AD					VE
+	VV	NR					DEG
+	NN	AD					DT
+	P	NN					LC
+	OD	PU					OD
+	PU	P					NT
+	NT	NT					AD
+	P	NT					DT
+	AS	NR					DEG
+	VE	NN					VV
+	CD	VV					CD
+	PU	VA					DEV
+	NN	VC					NT
+	LC	PU					PU
+	PU	PU					PU
+	DEG	JJ					NN
+	DEG	P					NR
+	CC	DT					CD
+	VC	VV					DT
+	PN	VV					CD
+	P	AD					JJ
+	AS	NN					VV
+	NN	DT					NN
+	VV	PU					VV
+	NT	VV					AS
+	PU	NT					DT
+	M	LC					AD
+	PU	P					P
+	NN	NN					PU
+	DT	M					NR
+	NN	ETC					DT
+	M	PU					JJ
+	P	CD					JJ
+	START	VV					NT
+	OD	M					JJ
+	VA	PU					AD
+	ETC	NN					CC
+	NN	CC					PN
+	ETC	NN					DEC
+	LC	VV					VA
+	NN	P					VA
+	NN	VV					VA
+	DEC	NN					VE
+	START	START					OD
+	NN	DT					CD
+	NN	CD					JJ
+	START	PU					VV
+	P	VV					NN
+	NR	NT					DEG
+	M	PU					NT
+	AD	BA					NN
+	VV	DEC					AD
+	AD	P					JJ
+	NR	NN					VA
+	DEG	PU					NN
+	VE	NN					DEV
+	VV	JJ					NN
+	LC	VV					DT
+	M	PU					NR
+	P	NT					CD
+	NT	PU					CD
+	JJ	NR					NN
+	VV	P					PN
+	P	NT					CC
+	AD	NR					NN
+	CC	NN					CC
+	NT	VV					LC
+	DT	JJ					NN
+	AD	PU					VV
+	VA	VA					PU
+	NT	LC					LC
+	CD	M					CC
+	CC	NN					JJ
+	NN	VV					NN
+	VV	CD					DEG
+	NN	JJ					CD
+	VC	CD					CC
+	LC	PU					VE
+	NN	NR					AD
+	PU	VA					DEC
+	START	NR					VC
+	JJ	DEG					CD
+	NR	DEG					DT
+	VA	PU					JJ
+	LC	AD					VE
+	NT	NT					DEG
+	NR	LC					DEG
+	VE	AS					NN
+	NR	VV					P
+	START	NT					NN
+	NR	VV					CD
+	M	VV					NN
+	VE	NR					NN
+	VE	NN					CC
+	NN	NR					JJ
+	VV	NR					OD
+	CC	NT					NT
+	NR	NN					DEC
+	NR	NR					CC
+	CC	NN					CD
+	START	NN					PU
+	VV	P					NR
+	CC	VV					P
+	DEC	CD					NN
+	NT	NT					LC
+	LC	CD					NN
+	DEG	DT					CD
+	LC	NR					VV
+	VV	AS					VV
+	AD	VE					VA
+	VA	CC					AD
+	MSP	AD					VV
+	NN	DEG					AD
+	DT	NN					JJ
+	AS	NN					LC
+	AD	VV					VA
+	VC	NT					VV
+	PU	P					CD
+	START	START					JJ
+	P	VV					NR
+	PU	NR					VA
+	VV	VC					VV
+	NT	NR					VV
+	CC	NN					VC
+	MSP	VV					PN
+	AD	VC					NR
+	NR	VV					CC
+	NR	VV					VV
+	PU	NR					VE
+	M	VA					DEC
+	PU	MSP					VV
+	NR	NR					ETC
+	NN	NR					P
+	AD	VV					VV
+	PU	CC					JJ
+	MSP	VV					NR
+	VC	NR					CD
+	START	DT					M
+	VV	NR					AD
+	PU	CD					NR
+	CD	M					DEC
+	CC	NT					PU
+	DEV	VV					PU
+	CC	NN					LC
+	NN	NN					NR
+	P	NN					MSP
+	VV	LC					PU
+	NN	PN					VV
+	CD	NN					NN
+	START	P					VA
+	NT	PU					NT
+	NN	OD					PU
+	NR	NN					VV
+	DEG	CD					CC
+	AD	VV					DEC
+	CC	CD					NN
+	PN	VV					PN
+	PU	VV					VE
+	PU	NN					VV
+	DEC	NN					VV
+	CD	PU					CD
+	NT	PN					P
+	P	DT					CD
+	PU	AD					VC
+	NR	JJ					DEG
+	CD	M					NR
+	JJ	DT					NN
+	NT	NR					DEG
+	PN	P					CD
+	DT	NN					NR
+	NN	NN					DEC
+	AS	DT					NN
+	NN	VC					CD
+	NN	VC					DT
+	DEC	NN					DEG
+	PU	NT					VV
+	PN	VA					DEC
+	VV	CD					M
+	NR	PU					PU
+	PN	P					NT
+	PU	NT					LC
+	DEG	AD					CD
+	AS	VV					JJ
+	VV	NN					DT
+	VV	VA					DEC
+	VV	PU					P
+	NR	NN					PU
+	DT	M					AD
+	DEG	NN					DEG
+	NN	DT					M
+	START	CD					PU
+	AD	P					OD
+	LC	VV					OD
+	NR	DEG					JJ
+	VV	VA					VA
+	AD	DT					M
+	NN	AD					P
+	NN	NT					LC
+	NR	NN					NT
+	CC	AD					VV
+	CC	NR					LC
+	NT	NR					AD
+	CC	VV					DEC
+	PU	NN					NN
+	NR	PU					AD
+	AD	VC					CD
+	PU	NT					NN
+	P	NN					DEC
+	VV	MSP					VV
+	CD	M					LC
+	P	NN					VV
+	PU	BA					VV
+	START	START					PN
+	M	VV					P
+	DT	NN					P
+	NN	NN					SP
+	PU	NT					PN
+	START	CD					VC
+	DEG	NR					PU
+	NN	P					PU
+	VV	PU					BA
+	DEC	DT					M
+	AD	VC					NN
+	PU	OD					NN
+	VV	CD					PU
+	CC	AD					P
+	NN	NN					MSP
+	VV	AD					VE
+	NT	VV					P
+	LC	VV					DEC
+	DEC	DT					NN
+	VC	NR					P
+	NT	NN					JJ
+	P	P					NN
+	OD	NN					AD
+	DEG	NN					AD
+	AD	VV					OD
+	VV	PU					CD
+	START	P					NR
+	NN	VV					DT
+	NN	DEG					JJ
+	NR	AD					CD
+	M	PU					P
+	VV	CD					CC
+	VV	NR					NR
+	NN	VV					P
+	VV	NT					DT
+	VV	PU					VA
+	M	NN					MSP
+	NN	DEG					CD
+	CD	M					VV
+	VA	DEV					VV
+	CC	NR					NR
+	AD	VV					JJ
+	NN	NT					AD
+	NT	VV					OD
+	NN	AD					JJ
+	PN	PU					NR
+	VV	NN					ETC
+	PU	PN					VV
+	AD	VC					NT
+	START	CS					VV
+	VV	P					NT
+	DEG	CD					NN
+	START	VV					NN
+	VC	P					DT
+	NN	PU					PU
+	M	LC					P
+	NN	VC					VA
+	NN	DEC					VV
+	NN	VV					VC
+	DT	NN					DEG
+	NT	NR					P
+	VV	DEC					OD
+	NN	P					P
+	PN	VV					DEC
+	LC	VA					DEC
+	M	LC					DEC
+	VA	DEV					P
+	DEG	NN					JJ
+	VV	DEC					CD
+	VV	PU					NR
+	PU	NT					VC
+	CC	NN					NN
+	NN	NR					CD
+	VV	PU					OD
+	VV	AS					DT
+	NR	CC					NN
+	AD	VE					VV
+	M	CD					DEG
+	AD	VV					NN
+	CD	LC					DEG
+	JJ	NN					AD
+	P	NN					JJ
+	DEC	PU					NR
+	PU	VE					CD
+	M	OD					M
+	NT	NT					NR
+	START	NN					DEG
+	P	NR					CD
+	PU	PN					NN
+	M	DEC					NR
+	LC	DEC					CD
+	OD	NN					DEC
+	NR	ETC					CD
+	PU	VV					NR
+	PU	VV					VA
+	VV	NN					LC
+	NT	CD					M
+	DEG	DT					NN
+	VV	AD					NN
+	AD	VV					LC
+	VV	PU					DT
+	VV	VE					NN
+	VE	NR					PU
+	P	PN					PU
+	DT	NN					CD
+	VV	VV					CC
+	NR	VV					DT
+	AD	NN					NN
+	CC	JJ					NN
+	VV	NR					VA
+	NT	VC					CD
+	CD	PU					VV
+	NR	VV					NN
+	NN	AD					CD
+	NT	VV					PU
+	NN	PU					DEG
+	NT	NT					P
+	PU	VC					NN
+	START	P					NN
+	M	NR					DEG
+	CC	P					PN
+	START	VV					P
+	AD	AD					CD
+	M	VA					PU
+	AD	VA					NN
+	VV	AS					VA
+	CD	AD					VV
+	VC	NN					VV
+	LC	PU					NR
+	DT	NN					DT
+	START	VV					JJ
+	P	NR					PU
+	PN	AD					VV
+	START	START					PU
+	AD	VE					NN
+	NN	PU					VA
+	NN	NR					CC
+	START	NT					AD
+	VV	DEC					PU
+	DEG	NN					VC
+	M	CD					M
+	PU	AD					NT
+	CS	VV					VV
+	DT	NN					LC
+	P	NR					AD
+	DEG	NN					NR
+	NT	NT					NT
+	PU	NT					PU
+	VV	SP					PU
+	NR	DEG					NR
+	NT	VV					DEC
+	VC	PU					NN
+	VV	AS					OD
+	VV	DEC					VC
+	SB	VV					PU
+	NT	DEG					CD
+	DEG	DT					M
+	P	CD					CC
+	DEG	NR					CD
+	NN	ETC					CD
+	START	PN					DEG
+	PU	VC					NT
+	PU	VV					NT
+	DEC	NR					JJ
+	P	AD					CD
+	LC	JJ					NN
+	AS	OD					M
+	PN	VV					DT
+	LC	PU					AD
+	START	AD					VA
+	PU	P					NN
+	NN	P					AD
+	NR	NT					PU
+	JJ	NN					VC
+	M	AD					VV
+	M	P					NR
+	VV	NN					VA
+	PU	CC					VV
+	P	NN					NN
+	VV	CD					JJ
+	M	NN					JJ
+	VV	PU					AD
+	DEC	VV					NN
+	LC	PU					NN
+	VA	LC					PU
+	VV	VC					NN
+	PN	AD					P
+	VV	NR					PU
+	NR	P					NT
+	CC	VC					NN
+	AD	PU					NT
+	OD	M					DEC
+	AD	VV					CC
+	NR	AD					VA
+	NT	NN					DEG
+	PN	VC					PN
+	P	NR					CC
+	CC	NN					PU
+	NN	NT					PU
+	VV	NN					CD
+	NR	NR					PN
+	M	NN					NN
+	START	NT					P
+	CD	VV					PU
+	NT	CC					NT
+	JJ	PU					CD
+	NR	NR					NT
+	NN	CC					NT
+	OD	NN					NN
+	START	NN					VC
+	VV	VV					CD
+	NR	DEC					NN
+	VV	P					DT
+	VC	P					NR
+	LC	VE					NN
+	NR	NN					VC
+	M	CC					CD
+	NN	DEC					JJ
+	AD	DT					NN
+	DT	NN					NN
+	JJ	JJ					NN
+	VA	PU					P
+	NN	PU					NR
+	NN	AD					VC
+	AS	NN					JJ
+	NT	AD					AD
+	NT	OD					NN
+	NN	CC					OD
+	LC	VV					AS
+	NR	NN					CD
+	PU	LC					VV
+	PU	NN					MSP
+	START	NT					PU
+	CD	NN					AD
+	START	NT					VV
+	NN	VV					AS
+	AD	VV					AS
+	VV	JJ					CD
+	JJ	NN					P
+	LC	PU					CS
+	NT	P					NN
+	P	VE					NN
+	START	CS					NR
+	AD	NN					DEG
+	LC	DEG					CD
+	P	NN					VA
+	AS	NN					CD
+	NR	VA					DEC
+	AS	NT					DEG
+	P	OD					NN
+	START	AD					PU
+	P	NT					NN
+	P	NT					P
+	NN	LC					DEG
+	VV	DEC					NT
+	START	AD					VV
+	OD	M					DEG
+	NT	P					NT
+	SB	VV					VV
+	NN	ETC					NN
+	VV	P					JJ
+	DEG	NN					VV
+	PU	NN					ETC
+	AD	P					VV
+	P	JJ					PU
+	VA	DEC					JJ
+	JJ	NN					PU
+	PU	NR					CC
+	VC	P					NT
+	NR	CD					M
+	CD	PU					JJ
+	AD	P					DT
+	VV	PU					VE
+	P	NR					NN
+	NN	VV					NT
+	VV	OD					PU
+	PU	NN					DEC
+	P	PU					CD
+	VC	NN					OD
+	JJ	NN					MSP
+	NR	AD					VV
+	LB	NN					NN
+	START	NR					AD
+	PN	PU					P
+	NN	ETC					AD
+	START	PN					NN
+	VV	VV					AD
+	DEC	NN					VA
+	CC	JJ					DEG
+	AD	CD					M
+	NN	LC					JJ
+	VA	AS					PU
+	NR	PU					CC
+	LC	VV					NN
+	CD	NR					NN
+	CD	VV					VV
+	DT	M					NT
+	M	NR					NR
+	NN	LC					DEC
+	NR	P					NN
+	NN	ETC					PU
+	VV	VV					PU
+	NN	CD					VC
+	P	NN					CC
+	VV	PU					PN
+	NN	VE					AS
+	NN	AD					AD
+	NN	DEG					PU
+	MSP	VV					JJ
+	P	VV					JJ
+	M	NN					P
+	NN	NN					VE
+	CC	VV					NN
+	PN	NN					DEG
+	M	NN					DEG
+	NN	LC					NN
+	AS	NR					PU
+	VV	PU					JJ
+	CD	NN					CC
+	NR	AD					P
+	PU	OD					M
+	NR	CC					PN
+	AS	NR					VV
+	P	P					VV
+	PU	VV					JJ
+	M	NN					VA
+	OD	NN					DEG
+	VV	NN					VV
+	NN	NR					NR
+	PU	MSP					AD
+	PN	NN					VC
+	NN	P					NR
+	NN	CC					JJ
+	AS	DT					CD
+	VV	NN					AD
+	AS	PN					DEG
+	PU	CC					AD
+	PU	P					PU
+	LC	NN					VV
+	NN	NR					PU
+	DEG	NR					CC
+	M	NN					SB
+	NR	P					DT
+	NR	NN					AD
+	P	NT					DEG
+	P	PN					NN
+	AD	AD					VE
+	VV	NN					OD
+	CD	PU					NT
+	CC	VA					DEC
+	P	NN					DT
+	DEC	PU					VV
+	NN	VC					P
+	OD	M					DT
+	DEG	NR					P
+	NN	JJ					JJ
+	PU	NN					VA
+	START	PU					JJ
+	JJ	PU					NN
+	PU	AD					SB
+	NR	OD					JJ
+	NT	NT					NN
+	PU	NR					VV
+	START	P					P
+	NN	VC					VV
+	DEV	VV					DT
+	P	NN					NR
+	DEG	CD					M
+	DEG	JJ					JJ
+	AD	VV					CD
+	DEC	PU					NN
+	BA	CD					M
+	NR	NN					CC
+	OD	M					CD
+	NR	NR					LC
+	LC	MSP					VV
+	PN	PU					AD
+	PN	AD					VA
+	AD	VC					PU
+	PN	AD					AD
+	AS	VV					DEC
+	PU	CD					M
+	START	NT					CD
+	NR	NN					OD
+	PU	P					AD
+	NR	AD					VC
+	VV	LC					AD
+	M	NN					AD
+	AD	P					NT
+	CD	CC					CD
+	P	NR					LC
+	NN	NT					DEG
+	P	NT					VV
+	M	NN					OD
+	NN	PU					LB
+	NN	PU					P
+	VV	NT					LC
+	DEC	NN					VC
+	VC	NT					NR
+	PU	AD					PN
+	AD	VA					DEC
+	AS	NR					NN
+	VV	AS					AD
+	PU	NN					CC
+	START	NT					NR
+	NR	VV					AD
+	M	AD					CD
+	START	PU					AD
+	NT	P					NR
+	PU	DEG					JJ
+	PU	VV					AD
+	BA	NN					NN
+	OD	M					NR
+	VV	JJ					DEG
+	START	AD					NT
+	VE	NN					DEC
+	AD	VV					SP
+	DEC	AD					VV
+	BA	CD					NN
+	JJ	DEG					NN
+	AD	P					CD
+	DEC	NR					NT
+	CC	PN					NN
+	M	AD					P
+	NR	DT					CD
+	AD	VC					P
+	START	VV					AS
+	DEG	NR					NN
+	NN	OD					NN
+	AD	VC					VV
+	DEC	JJ					NN
+	JJ	CD					M
+	START	NT					VC
+	NT	DT					M
+	VE	NN					NN
+	NN	NN					CD
+	ETC	VV					NN
+	NR	NR					NR
+	VV	LC					NN
+	NT	NN					LC
+	PU	CD					NN
+	NR	DEG					OD
+	VV	VE					CD
+	PU	NR					ETC
+	NR	NR					AD
+	CC	NR					VV
+	DEG	NN					NN
+	AD	P					VA
+	LC	PU					NT
+	VV	PU					NT
+	NR	VV					JJ
+	PU	NN					DEG
+	CD	M					VA
+	NN	LC					PU
+	M	LC					VV
+	NN	PU					ETC
+	M	AD					AD
+	NN	NN					PN
+	PN	NN					CC
+	VV	VV					NN
+	CC	VV					NR
+	P	VV					AS
+	VE	AS					JJ
+	PU	AD					VV
+	NT	PU					NN
+	NT	VC					NR
+	PU	NN					NR
+	NN	LC					DT
+	NN	CD					NN
+	DEC	NR					CD
+	AD	VV					P
+	NR	JJ					NN
+	PU	PU					JJ
+	P	JJ					CD
+	PU	LC					DEG
+	LC	PU					CD
+	VV	AD					VV
+	P	VV					PU
+	PU	CC					P
+	DEG	NN					LC
+	P	DT					JJ
+	START	NN					NN
+	PU	CS					PN
+	VC	NN					DEG
+	START	START					NR
+	START	NT					NT
+	AD	VC					JJ
+	DEC	AD					CD
+	BA	NR					VV
+	DEC	AD					VE
+	M	NR					PU
+	PU	JJ					PU
+	PU	NT					NT
+	NN	LC					P
+	NT	PU					JJ
+	NN	VV					PN
+	VV	NR					DEC
+	NT	VV					VV
+	CD	JJ					NN
+	P	AD					VA
+	AS	CD					JJ
+	AD	AD					AD
+	NN	NN					ETC
+	VC	DT					M
+	P	NR					DT
+	PN	VC					NN
+	AD	VV					PN
+	NN	P					PN
+	NN	DEC					CD
+	NT	NN					P
+	NN	DEV					VV
+	AD	VV					PU
+	NN	AD					SB
+	NN	PU					LC
+	START	NR					OD
+	P	NR					VE
+	NT	DEG					JJ
+	M	LC					DEG
+	AS	AD					CD
+	LB	NN					VV
+	ETC	NN					DEG
+	CC	VV					VV
+	NN	CC					VV
+	NT	LC					DEG
+	DT	CD					JJ
+	VV	DEC					VV
+	CC	VV					JJ
+	NN	PU					NN
+	NR	AD					JJ
+	VC	NR					JJ
+	NT	VV					JJ
+	NR	NN					NN
+	NR	OD					NN
+	DT	NN					PU
+	NT	VV					NN
+	START	NN					NT
+	VV	VV					VC
+	DEG	OD					M
+	NR	VE					NN
+	NN	DEC					OD
+	PU	CC					VE
+	NR	CC					DT
+	NN	VC					NR
+	AD	AD					VC
+	PN	VC					AD
+	NT	NN					AD
+	NT	VV					DT
+	NN	CS					VV
+	NN	NN					VC
+	NN	LC					AD
+	PU	JJ					CD
+	CD	M					VC
+	DEG	NR					AD
+	NN	VA					PU
+	AD	NR					NR
+	DEG	CD					PU
+	VV	PN					P
+	M	VV					VV
+	AD	P					NR
+	SB	VV					DEC
+	NR	CC					VV
+	VV	AS					NR
+	START	PU					PN
+	BA	NN					VV
+	M	OD					NN
+	VV	DT					CD
+	JJ	NN					LC
+	VV	NR					LC
+	M	PU					DT
+	DEC	NR					P
+	NR	NR					JJ
+	NR	DT					M
+	PN	VV					JJ
+	JJ	JJ					JJ
+	VC	NR					CC
+	AD	PU					CD
+	P	NR					OD
+	NT	P					DT
+	PU	NR					NR
+	AD	VC					AD
+	PU	DEC					NN
+	DEG	PU					NR
+	NN	PU					CS
+	NT	DT					CD
+	START	DT					NN
+	NN	AD					BA
+	PU	PN					CC
+	VC	VV					AS
+	LC	VV					JJ
+	VC	AD					VA
+	NN	PU					VE
+	NN	DEC					DT
+	PU	P					OD
+	NN	DEC					NT
+	NR	NT					AD
+	NR	DEG					CD
+	VC	NR					PU
+	M	NN					CD
+	VV	SB					VV
+	VV	PN					DEG
+	START	NR					VV
+	VC	CD					PU
+	AS	P					PN
+	NN	NR					LC
+	ETC	JJ					NN
+	AD	PN					VV
+	AD	CD					DEG
+	PN	NN					NN
+	PU	NN					NT
+	START	PN					VC
+	PU	VV					BA
+	NN	DEC					NN
+	NN	NN					NT
+	VV	NN					VE
+	NN	LC					MSP
+	JJ	CD					NN
+	CC	NN					ETC
+	CD	NN					NT
+	START	CD					M
+	NR	VC					NR
+	PN	DEG					NN
+	PU	CD					JJ
+	VV	NT					NT
+	JJ	NN					ETC
+	VV	NN					DEG
+	M	NN					NT
+	NN	ETC					VV
+	P	VV					P
+	PU	AD					AD
+	JJ	NN					CD
+	VC	NR					DEG
+	AD	AD					BA
+	CC	NN					NR
+	AD	VA					PU
+	NN	P					NT
+	PU	NR					JJ
+	DT	NN					CC
+	DT	NR					NN
+	VV	PN					VA
+	START	NN					CC
+	CD	NN					DEG
+	AD	PU					PN
+	PU	VC					NR
+	VV	OD					NN
+	VV	NR					CC
+	CC	VV					PU
+	PU	NT					AD
+	DEC	VC					PU
+	M	PU					NN
+	P	NT					NR
+	PU	P					VA
+	JJ	CC					NN
+	PU	CS					NR
+	NR	NT					VV
+	VC	CD					M
+	NN	AD					VV
+	NR	PU					CD
+	CD	NR					M
+	CC	NN					P
+	VV	P					AD
+	START	NR					NN
+	PU	CD					PU
+	NR	AD					VE
+	NR	NN					NR
+	VV	NN					MSP
+	NN	DEG					NN
+	VC	VV					P
+	NN	VV					CD
+	M	PU					VV
+	PU	NN					VE
+	DEC	NR					VC
+	VV	PN					VC
+	NN	NN					OD
+	ETC	AD					VV
+	VV	NN					CC
+	START	P					JJ
+	DT	NN					OD
+	DEC	VV					NR
+	NN	LC					PN
+	CD	M					DT
+	VC	JJ					NN
+	NR	VV					PN
+	P	VV					CD
+	P	VV					VV
+	PN	P					NR
+	NR	ETC					NN
+	AD	OD					M
+	NR	NR					NN
+	PU	AD					DT
+	NR	P					PN
+	MSP	VV					AD
+	AD	VV					DT
+	NT	CD					NN
+	NN	NN					SB
+	PU	VV					CC
+	AD	VV					AD
+	NR	PU					VC
+	NT	VV					NR
+	DEC	JJ					JJ
+	START	PN					AD
+	VC	NR					AD
+	VV	PU					VC
+	VV	AS					PN
+	AD	NN					LC
+	START	OD					M
+	DEC	NN					P
+	P	CD					PU
+	P	PN					AD
+	JJ	VV					NN
+	P	NR					JJ
+	PU	PN					JJ
+	P	PN					NT
+	P	AD					VV
+	PU	CD					AD
+	CC	NT					AD
+	VV	PN					AD
+来	NT						LC
+更加	NN						AD
+管理	JJ						NN
+每	NT						DT
+此	PU						DT
+位	OD						M
+合作	JJ						NN
+宗	CD						M
+还	NR						AD
+平衡	AD						VA
+三	M						OD
+计划	NN						NN
+为	VC						P
+建立	NR						VV
+如	PU						AD
+属	MSP						VV
+批	JJ						M
+参加	NR						VV
+发现	NN						VV
+长期	NN						AD
+所	LC						MSP
+及	PU						CC
+半	M						CD
+重要	AS						JJ
+进行	NT						VV
+后	NR						LC
+首	VV						OD
+把	NR						BA
+以	M						P
+贷款	NN						NN
+才	AD						AD
+三	DEG						CD
+直接	NN						JJ
+说	AD						VV
+投资	CC						NN
+假	VV						JJ
+管理	DEG						NN
+解决	P						VV
+是	NT						VC
+在	VV						P
+日	NR						NR
+两	NT						CD
+关键	DEC						NN
+成功	NN						AD
+作为	VV						VV
+八	CD						CD
+健康	PU						VA
+红十字会	NR						NR
+努力	DEG						NN
+出现	NN						VV
+帮助	PU						VV
+继续	PU						VV
+的	NT						DEG
+解决	DEG						NN
+供应	NN						NN
+大量	AS						CD
+发挥	NN						VV
+稳步	NN						AD
+重视	DEG						NN
+重大	M						JJ
+和	VA						CC
+之	M						DEG
+形成	AD						VV
+为	VV						VC
+过	VV						AS
+号	CD						M
+统计	NN						VV
+不	CC						AD
+大	NN						VA
+促进	AD						VV
+根据	PU						P
+组建	PU						VV
+票	CD						NN
+基本法	NN						NN
+到	NN						VV
+的	PU						DEC
+有关	NR						JJ
+促进	P						VV
+邀请	DEG						NN
+举办	NN						VV
+有关	VV						P
+近日	NN						NT
+与	NR						CC
+和	NT						CC
+开始	NR						VV
+增加	AD						VV
+成立	AD						VV
+反映	AD						VV
+领导	M						NN
+而	NN						CC
+透露	NN						VV
+两	START						CD
+以	PU						MSP
+最新	DEG						JJ
+三	START						CD
+改造	NN						VV
+同	M						DT
+通过	VV						VV
+交流	NN						NN
+多	NN						VA
+出现	AD						VV
+出口	NN						NN
+召开	NR						VV
+合作	DEC						NN
+港	NR-SHORT						NR
+美	NR						NR
+五	AD						CD
+多	M						AD
+重要	VV						VA
+美元	CD						M
+开放	VV						NN
+期	CD						M
+包括	CC						VV
+开工	NN						VV
+最	VV						AD
+并	NN						AD
+实施	NN						VV
+以上	CD						LC
+通过	NN						VV
+为	NR						VC
+所有	AD						DT
+开支	NN						NN
+每	NN						DT
+组织	DT						NN
+全	NN						DT
+这	AD						DT
+提高	DEG						NN
+六	VV						CD
+用	VV						VV
+可	NN						VV
+在	AD						AD
+以	START						P
+决定	NN						VV
+到	START						P
+一	P						CD
+固定	P						JJ
+科学	NN						NN
+对	DEG						P
+开业	AD						VV
+只有	NN						AD
+贷款	M						NN
+移民	VV						NN
+进出口	PU						NN
+经过	START						P
+要求	NN						NN
+进一步	PU						AD
+至	M						CC
+分配	NN						NN
+建设	NR						VV
+全部	AD						AD
+十分	PU						AD
+新	VV						JJ
+引进	NR						VV
+多	AD						JJ
+末	M						LC
+因为	START						P
+顺利	AD						AD
+交流	DEG						NN
+关系	NN						NN
+度	CD						M
+宣布	NT						VV
+如	NN						AD
+到位	NN						VV
+一	M						CD
+说	PN						VV
+研究	AD						VV
+受	AD						VV
+繁荣	DEG						NN
+大力	PU						AD
+开发	JJ						NN
+发行	AD						VV
+有	M						VE
+十分	NN						AD
+对	M						P
+参与	PU						VV
+下降	AD						VV
+各	START						DT
+尽快	VV						AD
+访问	NN						NN
+又	PU						CC
+发行	NN						NN
+本	START						DT
+经营	AD						VV
+行政	VV						NN
+被	NN						SB
+合作	PU						NN
+组织	NN						VV
+之	VV						DEC
+发展	PU						VV
+和	NR						CC
+融资	NN						NN
+没有	PU						VE
+努力	DEC						NN
+标志	PU						VV
+根据	AD						P
+着	VE						AS
+省	M						NN
+大	M						JJ
+以上	NN						LC
+座	DT						M
+规定	NN						VV
+重大	DEC						JJ
+一	AD						CD
+部	OD						M
+到	PU						VV
+横	CD						NN
+给	VV						VV
+近	PU						AD
+整顿	NN						NN
+与	M						P
+建交	NR						VV
+建立	AD						VV
+为	NT						VC
+统计	DEG						NN
+改造	NN						NN
+对	AD						P
+要	VC						VV
+是	NN						VC
+大	NR						JJ
+从	NR						P
+中	PU						NR
+有	CS						VE
+在	CC						P
+国务院	P						NN
+开始	PU						VV
+欢迎	PU						VV
+行政	START						NN
+扩大	CC						VV
+指出	NR						VV
+出口	NN						VV
+这	NT						DT
+许多	PU						CD
+的	PN						DEC
+有关	NN						JJ
+超过	NN						VV
+下降	NN						VV
+年	PU						AD
+开展	VV						VV
+正式	AD						AD
+变化	NN						NN
+高速	PU						JJ
+贬值	AD						VV
+生产	AD						VV
+建设	VV						NN
+虽	NN						CS
+的	NN						DEG
+招商	NN						NN
+构成	NN						VV
+等	PU						ETC
+所	PU						MSP
+项	OD						M
+处理	AD						VV
+具	AD						VV
+天	CD						M
+进步	NN						NN
+基本	NN						JJ
+建成	AD						VV
+未来	VV						NT
+工作	JJ						NN
+专项	NN						NN
+撞击	NN						VV
+三	JJ						CD
+在	LC						P
+向	NN						P
+将	NN						AD
+会	CD						NN
+检查	NN						NN
+有	START						VE
+平均	DEG						JJ
+建立	PU						VV
+六	CD						CD
+全	M						DT
+改革	VV						NN
+有	LC						VE
+特别	NR						JJ
+欧元	P						NN
+治	NN						VV
+建设	NR						NN
+包括	AD						VV
+里	NN						LC
+在	START						P
+希望	VV						NN
+与	NT						P
+希望	NN						VV
+新华社	START						NR
+全	PU						DT
+平均	NN						JJ
+省	JJ						NN
+如	NN						CS
+将	AD						BA
+家	DT						M
+陆续	NN						AD
+的	AS						DEC
+会	NN						VV
+向	M						P
+努力	JJ						NN
+多	ETC						CD
+多	CC						CD
+近	DEC						AD
+也	PN						AD
+「	PU						PU
+稳定	NN						NN
+至	VV						VV
+结束	NT						VV
+服务	CC						NN
+巨大	NN						VA
+之前	NN						LC
+最高	DEC						JJ
+建成	NR						VV
+和	NN						CC
+部	CD						M
+需要	AD						VV
+进行	CC						VV
+距离	JJ						NN
+成立	NN						VV
+使用	NN						VV
+五	VV						CD
+是	PU						VC
+利用	PU						VV
+宣布	NN						VV
+签订	AD						VV
+１９９７年	PU						NT
+生产	NN						NN
+介绍	PU						VV
+积极	AD						AD
+介绍	NN						VV
+欧元	START						NN
+一	NN						OD
+和平	NN						NN
+继续	LC						VV
+表示	VV						VV
+用	PU						VV
+向	AD						P
+实现	NN						VV
+了解	AD						VV
+增长	NT						VV
+胜	CD						VV
+招商	VV						NN
+马克	NR						M
+给	VV						P
+轮	OD						M
+显示	AD						VV
+良好	AS						VA
+好	DEC						JJ
+发行	NN						VV
+影响	JJ						NN
+增强	PU						VV
+而	PU						CC
+制定	AD						VV
+段	CD						M
+正	NR						AD
+有限	NN						JJ
+兴建	NN						VV
+建立	P						VV
+稳定	NN						VA
+二	PU						CD
+建设	NN						VV
+新	NN						AD
+宣布	LC						VV
+基础	DEC						NN
+自	START						P
+没有	NN						VV
+以	NN						P
+广泛	AS						VA
+不	VA						AD
+调整	NN						NN
+大	VV						JJ
+表示	NR						VV
+推广	NN						NN
+决定	NR						VV
+地	VV						DEV
+开发	AD						VV
+现代化	NN						NN
+积极	PU						AD
+平衡	NN						NN
+台	NR						NR
+重点	NN						NN
+移民	NN						NN
+开始	AD						VV
+一	NN						CD
+最后	NN						JJ
+出口	AD						VV
+计划	PU						VV
+之	NN						DEG
+各	ETC						DT
+集成	NN						JJ
+要求	DEG						NN
+合资	M						JJ
+为	PU						VV
+文明	NN						NN
+友好	VV						JJ
+级	DT						M
+所有	P						DT
+对	AS						P
+年	NN						JJ
+生产	M						NN
+不少	AS						CD
+严格	VV						AD
+就	AD						AD
+期	DT						NN
+方	CD						NN
+立法会	JJ						NN
+促进	VV						VV
+加强	VV						VV
+对外	VV						JJ
+被	M						SB
+大量	VE						CD
+经	PU						P
+与	LC						P
+引资	NN						NN
+如下	NN						VV
+一	AS						CD
+影响	VV						NN
+在	NT						P
+旅游	NN						NN
+公布	NT						VV
+预测	NN						VV
+的	M						DEG
+回归	NR						NN
+大	NN						JJ
+谘询	NN						NN
+开放	NN						NN
+合作	VV						NN
+就	VV						P
+落实	VV						VV
+行动	M						NN
+加强	CC						VV
+进行	NR						VV
+十	START						CD
+坚持	AD						VV
+被	VV						SB
+顺利	NN						AD
+为	NN						P
+采访	NN						VV
+每	PU						DT
+中	VV						LC
+研制	AD						VV
+了	VV						AS
+对	PN						P
+和平	PU						NN
+不断	NN						AD
+发生	NT						VV
+半	DT						CD
+门	CD						M
+上升	CD						VV
+联合	NN						JJ
+二十	VV						CD
+增长	M						VV
+因为	AD						P
+这	NN						DT
+要	NN						VV
+所有	PU						DT
+把	VV						BA
+可	AD						VV
+讲话	VV						NN
+交通	NN						NN
+但	START						AD
+组建	VV						VV
+进一步	VV						AD
+增加	PU						VV
+来	PU						MSP
+最	AD						AD
+多	NN						AD
+共同	DEG						JJ
+要求	PU						VV
+在	VC						P
+７	PU						CD
+表示	LC						VV
+出身	NN						NN
+产生	AD						VV
+走向	NN						VV
+紧密	NN						AD
+参加	PU						VV
+分钟	CD						M
+到	PU						P
+成立	NN						NN
+都	PN						AD
+此	START						DT
+访问	JJ						NN
+墨	PU						NR-SHORT
+走私	NN						NN
+进入	NN						VV
+远程	PU						JJ
+说	MSP						VV
+会见	NR						VV
+从	VV						P
+召开	NN						VV
+带动	PU						VV
+安全	NN						NN
+领导	NN						NN
+影响	DEG						NN
+间	NN						LC
+活动	NN						NN
+关心	AD						VV
+集中	AD						VV
+交往	NN						NN
+制定	PU						VV
+和	PU						P
+但	PU						AD
+改革	PU						NN
+会见	NN						VV
+推动	AD						VV
+经营	JJ						NN
+的	VV						DEG
+完成	NT						VV
+提供	NN						VV
+严重	AD						VA
+四	DEC						CD
+决定	JJ						NN
+扩大	PU						VV
+最	DEG						AD
+经过	PU						P
+优惠	M						NN
+有	AD						VE
+今后	PU						NT
+各	CC						DT
+两	AS						CD
+增长	NN						VV
+增长	PU						NN
+发挥	LC						VV
+又	NT						AD
+而	VV						CC
+周	CD						M
+各	NR						DT
+出台	AD						VV
+出口	DEC						NN
+九	ETC						CD
+开始	LC						VV
+发达	AD						VA
+提高	PU						VV
+稳定	AD						AD
+出口	JJ						NN
+这些	PU						DT
+向	P						P
+两	VE						CD
+为	NR						VV
+则	PU						AD
+的	PN						DEG
+给	AD						P
+跨国	JJ						JJ
+承担	NN						VV
+结果	DEC						NN
+等	NN						ETC
+发表	PU						VV
+对	LC						P
+各	AS						DT
+基本	AD						AD
+突破	NN						VV
+回归	NR						VV
+持续	NN						JJ
+中	PU						LC
+投入	NN						VV
+援助	NN						NN
+投产	AD						VV
+召开	NT						VV
+控制	NN						NN
+人大	NN						NN
+时	NN						LC
+冲击	DEG						NN
+联盟	NN						NN
+十五	VV						CD
+好	AD						VA
+保证	PU						VV
+批	CD						M
+多	AD						CD
+展示	NN						NN
+亦	NN						AD
+大力	AD						AD
+增长	NN						NN
+支持	NN						VV
+前	M						LC
+个	OD						M
+逾	VV						AD
+正	PU						AD
+所	NR						MSP
+上市	PU						NN
+步	CD						M
+成立	NR						VV
+过渡	JJ						NN
+四	NN						CD
+贯彻	AD						VV
+截止	START						P
+出口	NR						NN
+通用	NR						NR
+为	VV						VV
+将	CC						AD
+发展	DEG						NN
+高	NN						VA
+运输	NN						NN
+主管	NN						NN
+增长	AD						VV
+支持	JJ						NN
+都	LC						AD
+中	OD						NN
+出口	VV						NN
+合	AD						VV
+佳	AD						JJ
+可能	AD						VV
+主要	DEG						JJ
+也	LC						AD
+增长	DEG						NN
+六	NN						CD
+实行	VV						VV
+代表	VV						NN
+种	CD						M
+每	START						DT
+进展	JJ						NN
+还	NN						AD
+中	START						NR
+通过	NR						P
+时	NR						LC
+地	CD						NN
+关系	DEC						NN
+防治	NN						NN
+日益	NN						AD
+发现	NR						VV
+大	DT						JJ
+投资	PU						VV
+之	VV						PN
+演出	NR						VV
+不	VC						AD
+基础	DEG						NN
+项	DT						M
+任	AD						VV
+要	AD						VV
+美	PU						NR
+生产	PU						VV
+结果	NN						NN
+不	VV						AD
+通讯	PU						NN
+主要	PU						JJ
+到	NT						P
+推行	PU						VV
+认真	PU						AD
+全	CC						DT
+被	NN						LB
+个	CD						M
+解决	NN						VV
+这	PU						DT
+重要	DEC						JJ
+有	AD						VV
+批准	AD						VV
+进口	PU						NN
+保障	PU						VV
+及	NR						CC
+日	DT						M
+发生	VV						VV
+发挥	AD						VV
+比	CD						CC
+中	VV						NR
+积极	VV						VA
+在	NN						P
+新	P						VA
+举办	AD						VV
+宏观	NN						JJ
+迅速	NN						VA
+以	P						P
+累计	NN						AD
+而	NN						MSP
+行政	NN						NN
+而	PU						AD
+原	NN						AD
+家	OD						M
+有	PN						VE
+对	START						P
+小	JJ						JJ
+必须	NN						VV
+应用	NN						NN
+可能	NN						VV
+进出口	VV						NN
+藏	NR						NR
+超过	AD						VV
+建设	AD						VV
+作为	START						P
+全	NT						DT
+完成	NN						VV
+方	DT						NN
+分析	NN						VV
+投资	PN						VV
+污染	NN						NN
+段	NR						NN
+发展	DEC						NN
+上	NR						LC
+没有	AD						VV
+主要	PU						AD
+正式	VV						JJ
+控股	NR						NN
+处	AD						VV
+的	VA						DEC
+地	AD						DEV
+报道	NN						NN
+为	NR						P
+在	NN						VV
+同	AD						P
+实现	VV						VV
+研究	DEG						NN
+积极	AD						VA
+开通	AD						VV
+基本	PU						AD
+不	NR						AD
+投资	VV						VV
+中	NR						NR
+最	NR						AD
+希望	AD						VV
+之	PU						DEG
+不	P						AD
+地	ETC						NN
+用	PU						P
+投资	NR						NN
+四	DEG						CD
+到	AD						VV
+从	START						P
+全部	NN						AD
+规定	AD						VV
+三	PU						OD
+老	NR						JJ
+治理	NN						NN
+首	NT						OD
+的	NR						DEG
+对外	NN						JJ
+中	NN						LC
+报道	NN						VV
+前	VV						DT
+十	NR						CD
+八	NN						CD
+的	VV						DEC
+举办	NR						VV
+并	PU						AD
+大	CD						JJ
+稳定	P						VV
+合作	CC						NN
+两	VC						CD
+影响	VE						NN
+努力	AD						AD
+工作	NN						NN
+使用	VV						VV
+进入	PU						VV
+旅游	VV						NN
+高	PU						JJ
+港	PU						NR
+在	P						P
+两	P						CD
+完成	M						VV
+联盟	NR						NN
+决定	PU						VV
+发电	NN						VV
+许多	VV						CD
+将	LC						AD
+宣布	AD						VV
+部分	JJ						NN
+适应	AD						VV
+前	NR						JJ
+跨国	M						JJ
+优秀	M						JJ
+等	OD						M
+经济	M						NN
+就	LC						AD
+而	VV						MSP
+建立	NN						VV
+希望	PN						VV
+一定	NN						AD
+新	NN						VA
+少	AD						VA
+服务	JJ						NN
+都	NR						AD
+全	DEC						DT
+增加	NN						VV
+收购	NN						NN
+把	NN						BA
+一	JJ						CD
+来	M						LC
+作为	NN						VV
+回归	VV						NN
+进一步	NN						AD
+三	NN						CD
+大	DEG						JJ
+四	VV						CD
+表示	PU						VV
+贸易	DEC						NN
+规定	DEG						NN
+先进	NN						JJ
+下岗	VV						NN
+持续	VV						VV
+同	NR						P
+发表	LC						VV
+由	AS						P
+充分	VV						AD
+场	DT						M
+欧元	NT						NN
+被	PU						LB
+交通	VV						NN
+连续	PU						AD
+通过	VV						P
+取消	AD						VV
+强调	AD						VV
+三	AS						CD
+政治	NR						NN
+既	NN						CC
+移动	PU						NN
+场	CD						M
+优惠	NN						NN
+起	NN						LC
+类	DT						M
+代	CD						M
+一	DT						CD
+影响	AD						VV
+迅速	NN						AD
+交易	NN						NN
+上	P						DT
+多	VV						CD
+两	NN						CD
+更加	VV						AD
+该	NT						DT
+传统	VV						JJ
+早	AD						VA
+运行	NN						NN
+继续	NN						VV
+武装	JJ						NN
+上	PU						LC
+最	DEC						AD
+参与	NN						VV
+划分	NN						NN
+参加	NN						VV
+支持	NN						NN
+「	P						PU
+正式	NN						AD
+一	CD						CD
+被	PU						SB
+现	PU						AD
+七	NN						CD
+对	PU						P
+一	NR						CD
+也	M						AD
+研究	NN						NN
+五	NT						CD
+将	PN						AD
+被	CC						SB
+报道	START						NN
+贸易	JJ						NN
+宣布	PU						VV
+只要	PU						CS
+近	AD						AD
+信用	NN						NN
+条	CD						M
+分配	AD						VV
+美	P						NR
+两	BA						CD
+稳定	CC						NN
+会	NR						VV
+应	AD						VV
+作为	NR						P
+要	PU						VV
+系统	NN						NN
+利用	NN						NN
+生产	DEG						NN
+重点	DEC						NN
+最高	NN						JJ
+就	VV						AD
+决定	VV						NN
+近	START						AD
+不	PU						AD
+为	PN						P
+一	NT						CD
+一	VV						CD
+联系	NN						NN
+的	M						DEC
+四	PU						CD
+打击	NN						NN
+法	NR						NR
+日前	START						NT
+「	VC						PU
+努力	AD						VV
+自治	JJ						NN
+主要	DEC						JJ
+最后	VV						JJ
+近	P						AD
+比赛	VV						NN
+两	LC						CD
+引进	NN						VV
+贸易	PU						NN
+必须	AD						VV
+七	VV						CD
+最	LC						AD
+负	NN						JJ
+兼并	NN						NN
+日	CD						M
+评选	NN						NN
+保证	P						VV
+由	VC						P
+训练	NN						NN
+这	START						DT
+部分	NN						NN
+有关	DEC						JJ
+恢复	NR						VV
+武装	NN						NN
+两	PU						CD
+多	VV						AD
+工作	AD						VV
+１９９７年	P						NT
+代表	NN						NN
+日前	PU						NT
+就	LC						P
+「	NN						PU
+最	M						AD
+进行	NN						VV
+完善	PU						VV
+生产	VV						VV
+公里	CD						M
+规定	NN						NN
+审议	NN						VV
+年度	DT						NN
+名	OD						M
+以	AD						P
+接近	AD						VV
+高	VV						JJ
+且	PU						CC
+正式	NR						AD
+学会	NN						NN
+就	NN						P
+间	M						LC
+总	VV						JJ
+生活	NN						NN
+新	NR						JJ
+损失	NN						NN
+各	NN						DT
+就	NR						AD
+减少	AD						VV
+省	DT						NN
+各	VV						DT
+计划	AD						VV
+二十	START						CD
+恢复	AD						VV
+商业	NN						NN
+及	VA						CC
+１	NN						CD
+实行	NN						VV
+启动	NN						NN
+今日	NN						NT
+加工	PU						NN
+以	VV						P
+提供	PU						VV
+也	NR						AD
+约	PU						AD
+较	NN						AD
+军事	DEG						NN
+改善	AD						VV
+为	AD						VC
+友好	JJ						JJ
+安排	NN						VV
+组织	NN						NN
+投资	PU						NN
+基础	PU						NN
+依据	NN						NN
+欧元	DEC						NN
+严重	VV						JJ
+初步	PU						AD
+输出	NN						NN
+全	START						DT
+被	AD						LB
+总	NN						JJ
+经济	DEG						NN
+关系	JJ						NN
+合作	NR						NN
+所	NN						MSP
+商业	M						NN
+发展	NN						NN
+本	VC						DT
+控制	AD						VV
+用	VV						P
+等	NR						ETC
+进入	AD						VV
+十	NN						CD
+重要	M						JJ
+及	NT						CC
+在	AD						P
+严重	NN						VA
+通车	VV						VV
+高	AD						JJ
+不	PN						AD
+比赛	NN						NN
+安全	DEG						NN
+末	NT						LC
+发展	CC						VV
+全	VC						DT
+联合	M						JJ
+报	DT						NN
+调查	NN						NN
+商业	JJ						NN
+十	VV						CD
+美	VV						NR
+需	MSP						VV
+２１	VV						OD
+发生	NN						VV
+这	AS						DT
+经过	NN						P
+加工	NN						NN
+紧张	NN						VA
+有限	NR						JJ
+够	AD						VA
+最	VC						AD
+进行	AD						VV
+四	START						CD
+使用	AD						VV
+新	JJ						JJ
+被	NR						SB
+晚	NT						NN
+所有	VV						DT
+男	PU						JJ
+进行	PU						VV
+改革	NN						NN
+大	AS						JJ
+科学	JJ						NN
+会	AD						VV
+引进	P						VV
+还	LC						AD
+根据	START						P
+得	VV						DER
+适应	P						VV
+欧元	PU						NN
+佳	CD						NN
+一	CC						CD
+本	P						DT
+每	P						DT
+行政	PU						NN
+同	NN						P
+海协	PU						NR
+难	AD						AD
+正	START						AD
+推动	DEV						VV
+首	START						OD
+贷款	VV						NN
+一	START						CD
+不同	NN						VA
+完善	CC						VV
+发现	DEG						NN
+投入	NN						NN
+日前	NR						NT
+了解	P						NN
+提高	P						VV
+为	NN						VC
+合作	NN						NN
+给	NN						P
+重要	DEG						JJ
+兴建	VV						VV
+多	M						CD
+成功	VV						VA
+前	VV						LC
+就	NN						AD
+鼓励	NR						VV
+共	NR						AD
+上升	AD						VV
+同样	PU						AD
+现代化	VV						NN
+前	NT						LC
+有	NT						VE
+进出口	NR						NN
+推进	VV						VV
+一体化	NR						NN
+为	P						P
+报告	START						NN
+报道	NT						NN
+改善	PU						VV
+签署	NN						VV
+正	AD						AD
+的	JJ						DEG
+就	NR						P
+开展	LC						VV
+长	NN						VA
+关注	AD						VV
+台	CD						M
+季	DT						NN
+出口	DEG						NN
+联合	VV						JJ
+得	AD						VV
+有	CC						VE
+和平	DEC						NN
+巨大	VV						JJ
+经	NN						P
+鼓励	PU						VV
+死亡	NN						VV
+服务	VV						NN
+末	NN						LC
+三	VV						CD
+组成	NN						VV
+使用	VV						NN
+在	M						P
+申报	NN						VV
+会	PN						VV
+间	NT						LC
+引进	PU						VV
+通讯	NN						NN
+选择	PU						VV
+固定	NN						JJ
+港	DT						NN
+两	AD						CD
+投资	NN						NN
+贸易	VV						NN
+一定	PU						AD
+都	M						AD
+对外	PU						JJ
+将	PU						BA
+开展	AD						VV
+多	AS						CD
+要求	NR						VV
+新	P						JJ
+比较	NN						AD
+批准	NN						VV
+都	AD						AD
+不仅	PU						AD
+同	VV						P
+大	PU						JJ
+每	AD						DT
+最后	DEG						JJ
+良好	VV						VA
+通过	START						P
+咨询	NN						NN
+高	AD						VA
+「	VV						PU
+现代	VV						JJ
+上市	NN						VV
+继续	AD						VV
+一	VC						CD
+分析	NN						NN
+跨国	DEC						JJ
+继续	VV						VV
+在	AS						P
+会	CC						VV
+说	NN						VV
+年	DT						M
+实际	NR						AD
+支持	CC						VV
+提高	AD						VV
+将	NT						AD
+这	PU						PN
+到位	AD						VV
+起	NT						LC
+建设	DEG						NN
+总	DEG						JJ
+授权	NN						VV
+改革	DEG						NN
+为	LC						P
+只	AD						AD
+生产	VV						NN
+内	NN						LC
+两	DEC						CD
+过	NN						AD
+需	AD						VV
+销售	NN						NN
+该	PU						DT
+集中	NN						VV
+到	NT						CC
+持续	NN						VV
+代表	DEG						NN
+宏观	DEC						JJ
+里	M						LC
+繁荣	JJ						NN
+国务院	CC						NN
+项	CD						M
+长	AD						VA
+与	NN						CC
+检查	JJ						NN
+新增	NN						VV
+销售	PU						NN
+强调	LC						VV
+由	PU						P
+又	NR						AD
+有	NR						VE
+利用	NN						VV
+今日	PU						NT
+进一步	AD						AD
+加工	VV						NN
+实现	NT						VV
+实施	NR						VV
+介绍	NR						VV
+只	NT						AD
+的	PU						DEG
+增长	JJ						NN
+强调	NR						VV
+购买	NN						VV
+为	PU						VC
+通过	NN						P
+又	AD						AD
+兴建	AD						VV
+未来	P						NT
+出版	AD						VV
+建设	CC						NN
+起	NN						VV
+统计	START						NN
+初	NT						LC
+旅游	PU						NN
+会见	AD						VV
+新	DEC						JJ
+工作	M						NN
+的	CD						DEC
+勘探	NN						NN
+联合	NN						AD
+开放	NN						VV
+只	PU						AD
+普遍	NN						AD
+良好	DEC						JJ
+一	NT						NT
+高级	NN						JJ
+可能	VE						NN
+发行	VV						VV
+由	M						P
+准备	AD						VV
+称	NR						VV
+全	AS						DT
+支持	CC						NN
+由于	START						P
+位	DT						M
+也	AD						AD
+广泛	AD						VA
+自然	NN						NN
+介绍	NR						NN
+指出	PN						VV
+困难	VV						NN
+年度	NT						NN
+贸易	NN						NN
+结合	NN						VV
+而且	PU						CC
+就	PU						P
+透露	LC						VV
+安排	AD						VV
+合作	DEG						NN
+需要	DEC						NN
+欢迎	NN						VV
+竞争	VV						NN
+超过	VV						VV
+平均	PU						AD
+与	PU						P
+定	AD						VV
+经济	P						NN
+启动	NN						VV
+现	NN						AD
+同时	PN						NN
+与	AD						P
+首	NR						OD
+将	AD						AD
+二	VV						CD
+此	P						PN
+中	VC						NR
+完全	NN						AD
+重点	DEG						NN
+了	VE						AS
+交通	JJ						NN
+一	PU						CD
+合作	NR						VV
+股	CD						M
+贸易	AS						NN
+将	NN						BA
+实现	PU						VV
+日	P						NR
+举行	NN						VV
+对	VV						P
+核查	NN						NN
+增长	PU						VV
+原则	DEC						NN
+去	NN						VV
+促进	NN						VV
+之	VA						DEC
+因为	PU						P
+调整	PU						VV
+政治局	NN						NN
+最	NN						AD
+加强	P						VV
+进一步	VV						JJ
+将	NT						BA
+至	NR						CC
+期	OD						M
+海	P						NN
+六	ETC						CD
+指出	PU						VV
+新	PU						JJ
+新	NN						JJ
+新	DEG						JJ
+著名	NR						JJ
+也	NN						AD
+每	VV						DT
+重要	NN						VA
+连续	NN						AD
+有	DEC						VE
+管理	NN						NN
+到	VV						P
+执行	AD						VV
+前	P						DT
+即	PU						AD
+经济	CC						NN
+用	NN						P
+近	DEG						AD
+未来	PU						NT
+入狱	VV						VV
+为	NN						VV
+四	DT						CD
+了	NN						SP
+重组	NN						NN
+改善	JJ						NN
+强	AD						VA
+也	PU						AD
+所	VV						MSP
+创造	NN						VV
+交易	PU						NN
+平稳	DEG						JJ
+必须	PU						VV
+广泛	NN						AD
+来	VV						VV
+年	VV						AD
+多	AD						VA
+完成	PU						VV
+约	M						AD
+出口	PU						NN
+报道	P						NN
+大	AD						JJ
+以	AS						P
+同意	VV						VV
+交通	NR						NN
+所有	NN						DT
+逐步	VV						AD
+成功	AD						VA
+控制	NN						VV
+友好	DEG						JJ
+台	P						NR
+形成	NN						VV
+外交部	NR						NN
+同时	NR						AD
+起	CD						M
+都	NN						AD
+为	PU						P
+突破	JJ						NN
+经营	VV						VV
+省	CD						NN
+稳定	PU						VV
+向	CC						P
+增加	M						VV
+种	DT						M
+教学	NN						NN
+主持	NR						VV
+逐步	NN						AD
+四	NR						CD
+有关	CC						JJ
+扩大	VV						VV
+三	AD						CD
+和平	P						NN
+胜	CD						NN
+同时	START						AD
+主要	M						JJ
+十	PU						CD
+就	PN						AD
+本	VV						NN
+高速	NN						JJ
+另	START						AD
+开发	NR						NN
+条	OD						M
+就业	VV						NN
+部分	CD						NN
+改革	NR						NN
+将	M						AD
+被	AD						SB
+逐步	PU						AD
+贸易	NR						NN
+要求	DEC						NN
+向	NR						P
+「	START						PU
+马	JJ						NN
+要求	NN						VV
+下	VV						LC
+管理	PU						NN
+处	DT						NN
+声明	JJ						NN
+统一	NN						NN
+而	PU						MSP
+一	DEC						CD
+考虑	VV						VV
+积极	NN						AD
+例	VV						NN
+这	P						DT
+新	VV						VA
+重大	VV						JJ
+交通	P						NN
+两	NR						CD
+减少	NN						VV
+明显	AD						VA
+批	DT						M
+的	VV						SP
+也	PU						CC
+经济	JJ						NN
+促进	PU						VV
+合资	NN						JJ
+到来	AD						VV
+积极	VV						AD
+并	PU						CC
+小	AD						VA
+完成	VV						VV
+有关	PU						JJ
+轮	CD						M
+向	PU						P
+成立	DEG						NN
+个	VC						M
+买卖	NN						NN
+今后	P						NT
+以	CC						P
+调整	AD						VV
+投资	M						NN
+关注	DEG						NN
+经济	VV						NN
+当	PU						P
+不仅	PU						CC
+形成	PU						VV
+著	VV						AS
+本	PU						DT
+出生	NN						VV
+利用	AD						VV
+基础	ETC						NN
+发展	NN						VV
+的	NN						SP
+是	CC						VC
+首	DEG						OD
+受	NN						VV
+谈判	VV						NN
+此	P						DT
+被	NT						LB
+发达	AD						JJ
+主要	NN						AD
+和	CD						CC
+使用	P						VV
+最后	NN						AD
+还是	PU						CC
+越	NR						NR
+出现	VV						VV
+为	START						P
+新	M						VA
+说	NR						VV
+两	DEG						CD
+发展	NR						NN
+进口	NN						NN
+研究	JJ						NN
+相继	AD						AD
+号	PU						M
+数	NN						NN
+由于	AD						P
+说	LC						VV
+也	NT						AD
+外	P						NN
+出售	NN						VV
+称	NN						VV
+过去	PU						NT
+进行	LC						VV
+加快	VV						VV
+与	VV						CC
+投资	JJ						NN
+支持	VV						VV
+作为	NN						P
+及	VV						CC
+进展	DEC						NN
+建立	VV						VV
+经济	NN						NN
+级	CD						M
+这些	VV						DT
+调控	JJ						NN
+保护	NN						NN
+经济	NT						NN
+调查	M						NN
+金	PU						NR
+健康	DEG						JJ
+要求	AD						VV
+提供	VV						VV
+结束	NN						VV
+重点	PU						AD
+从	PN						P
+制造	NN						NN
+由于	PU						P
+对	DEC						P
+谈判	NN						NN
+增加	VV						VV
+机制	NN						NN
+经济	DEC						NN
+又	PN						AD
+交换	NN						VV
+顺利	VV						AD
+二十	NN						CD
+则	NR						AD
+迅猛	NN						VA
+十	AD						CD
+参加	START						VV
+可能	VV						VV
+发展	JJ						NN
+申请	VV						NN
+生活	DEG						NN
+举行	AD						VV
+用	M						VV
+号	OD						M
+签署	AD						VV
+经济	PU						NN
+此	VV						DT
+该	P						DT
+加强	AD						VV
+即	NN						AD
+由	START						P
+的	DT						DEG
+包括	PU						VV
+优惠	DEC						NN
+著名	NN						JJ
+近	AS						AD
+都	PU						AD
+最	NT						AD
+这	START						PN
+年	PU						JJ
+计算	NN						VV
+新	M						JJ
+高速	DEG						JJ
+以下	CD						LC
+申请	DEG						NN
+这	NR						DT
+保护	PU						VV
+要	START						VV
+成立	VV						VV
+位	CD						M
+完成	AD						VV
+实际	DEG						JJ
+底	NT						LC
+出生	M						VV
+成立	NR						NN
+类	CD						M
+满意	VV						NN
+全	NR						DT
+签订	NN						VV
+计划	DEC						NN
+至	CD						CC
+二十	AD						CD
+地	NN						DEV
+实现	P						VV
+比赛	M						NN
+行动	NN						NN
+主要	VV						JJ
+根据	VV						P
+进口	VV						NN
+丰富	NN						VA
+投入	AD						VV
+并	NN						CC
+加快	AD						VV
+统一	NR						NN
+保障	NN						NN
+产	AD						VV
+声明	START						NN
+与	PN						P
+后	M						LC
+伤	VE						NN
+个	DT						M
+举行	NR						VV
+日趋	NN						AD
+举行	NT						VV
+不断	VV						AD
+以	VC						P
+三	P						CD
+表示	NT						VV
+另外	START						AD
+至今	PU						AD
+投资	AD						VV
+集体	PU						NN
+安排	NN						NN
+过去	AD						VV
+投资	VV						NN
+整	VV						DT
+新	AS						VA
+指出	NN						VV
+九	NR						CD
+需要	PU						VV
+坚持	VV						VV
+对	VC						P
+是	PN						VC
+良好	NN						VA
+举行	PN						VV
+显示	NN						VV
+开始	NT						VV
+需要	DEG						NN
+经	START						P
+进行	VV						VV
+访问	NR						VV
+低	AD						VA
+不断	PU						AD
+同时	PU						AD
+执行	VV						VV
+无	NN						VE
+旅游	DEC						NN
+的	NR						DEC
+极	NN						AD
+各	PU						DT
+国务院	PU						NN
+联运	NN						NN
+还	NT						AD
+实施	VV						VV
+以便	PU						AD
+要	NR						VV
+竞争	NN						NN
+不断	DEG						JJ
+变化	DEG						NN
+结束	AD						VV
+来	NN						MSP
+该	VV						DT
+对	P						P
+后	NN						LC
+在	PN						P
+新华社	P						NR
+有限	PU						JJ
+基本	NN						AD
+出口	M						NN
+希望	PU						VV
+改革	P						NN
+大量	VV						CD
+交接	NN						NN
+发展	AD						VV
+中	M						LC
+规定	P						NN
+完全	AD						AD
+为	AD						P
+访问	AD						VV
+约	VV						AD
+既	PU						CC
+发展	VV						VV
+最	P						AD
+进一步	DEG						JJ
+界	DT						NN
+五	NR						CD
+介绍	P						NN
+加强	PU						VV
+对	NN						P
+独立	NR						VA
+有关	P						JJ
+内	NT						LC
+起	VV						VV
+近	VE						AD
+发展	PU						NN
+台	VV						NR
+顺利	NN						VA
+为	CC						P
+只	NN						AD
+属	AD						VV
+直接	PU						AD
+座	CD						M
+往来	NN						NN
+小	VV						JJ
+还	PN						AD
+是	AD						VC
+从	NN						P
+主要	NN						JJ
+可	PU						VV
+增	AD						VV
+联系	DEG						NN
+连续	AD						AD
+开发	VV						VV
+投资	NR						VV
+这	VV						DT
+日前	NN						NT
+对	CC						P
+大	DEC						JJ
+服务	PU						NN
+时	VV						LC
+计划	NR						VV
+重点	VV						NN
+进入	VV						VV
+发现	PU						VV
+下	NN						LC
+港	P						NR
+等	DT						M
+立法	JJ						NN
+中	JJ						JJ
+贷款	PU						NN
+最高	PU						JJ
+三通	PU						VV
+与	AS						P
+多	NN						CD
+新华社	START						NN
+由	AD						P
+报道	NR						VV
+大幅	NN						AD
+重要	VV						JJ
+稳定	VV						NN
+十	DT						CD
+小	PU						JJ
+关注	NN						VV
+周	DT						M
+改革	M						NN
+为	VV						P
+解决	VV						VV
+代理	NN						NN
+向	VV						P
+法	PU						NR
+而	START						AD
+点	CD						M
+扩大	NN						VV
+投资	DEG						NN
+改变	AD						VV
+基本法	PU						NN
+发展	DEV						VV
+提高	VV						VV
+省	VV						NN
+上	NN						LC
+五	NN						CD
+明显	NN						AD
+龙	JJ						NN
+名	CD						M
+大	P						JJ
+政治	P						NN
+等	VV						ETC
+多	PU						CD
+因为	VC						P
+产生	NN						VV
+特别	NN						JJ
+季	OD						NN
+利用	VV						VV
+又	PU						AD
+作为	PU						P
+决定	AD						VV
+与	START						P
+认识	AD						VV
+这	DEG						DT
+乐观	VV						JJ
+建设	NN						NN
+着	VV						AS
+支持	AD						VV
+二十五	NN						CD
+分	NN						VV
+建设	JJ						NN
+恢复	NT						VV
+贸易	DEG						NN
+根据	NN						P
+推进	AD						VV
+决定	DEG						NN
+突破	AD						VV
+以	LC						P
+三	DEC						CD
+首	PU						OD
+及	NN						CC
+至	NT						CC
+会谈	START						NN
+引进	AD						VV
+可	NT						VV
+发生	AD						VV
+共	PU						AD
+优势	DEG						NN
+到	NR						P
+考虑	AD						VV
+配套	NN						VV
+增长	DEC						NN
+起	NT						VV
+都	ETC						AD
+总	PU						JJ
+试验	NN						NN
+发表	NN						VV
+过去	START						NT
+统一	DEG						NN
+五	PU						CD
+会	VV						VV
+和	PU						CC
+有关	START						JJ
+一般	NN						AD
+各	DEG						DT
+把	AD						BA
+开发	NN						VV
+报告	NN						NN
+签订	NR						VV
+安置	AD						VV
+需要	NN						VV
+累计	PU						AD
+是	CD						VC
+大	NN						AD
+后	VV						LC
+工作	DEC						NN
+以	NN						MSP
+考察	NR						VV
+的	LC						DEG
+中	P						NR
+立法	NN						NN
+专用	NN						JJ
+在	NR						P
+提高	JJ						NN
+类	NN						NN
+一	ETC						CD
+将	VV						BA
+的	LC						DEC
+采访	NN						NN
+停火	VV						NN
+四	CC						CD
+近	NN						AD
+监督	NN						NN
+坚持	PU						VV
+职业	NN						NN
+这些	START						DT
+和	JJ						CC
+有效	VV						JJ
+自	PU						P
+地	DT						NN
+比	PU						P
+希望	NR						VV
+施工	NN						NN
+有关	VV						JJ
+欢迎	VV						NN
+制定	VV						VV
+全部	VV						DT
+过去	P						NT
+有	P						VE
+服务	NN						VV
+政治	VV						NN
+累计	AD						AD
+批	AD						VV
+以	NR						P
+月	DT						NN
+还	AD						AD
+对	NT						P
+贸易	CC						NN
+未	NN						AD
+到	AD						P
+流动	NN						NN
+和	M						CC
+两	DT						CD
+用	NN						VV
+出版	NN						VV
+全	VV						DT
+多	P						CD
+足	AD						VA
+具体	DEC						JJ
+正	NN						AD
+快	AD						VA
+相当	NN						AD
+统计	JJ						NN
+的	AD						DEG
+月	M						NN
+加入	NN						VV
+重点	M						NN
+去	NN						MSP
+这些	P						DT
+原	P						JJ
+二	START						CD
+同时	PN						AD
+家	CD						M
+逾	NN						VV
+召开	VV						VV
+省	P						NN
+各	P						DT
+投产	VV						VV
+参加	M						VV
+张	CD						M
+以	PU						P
+制裁	NR						NN
+改革	START						NN
+外	NN						LC
+有关	DEG						JJ
+建成	DEG						NN
+经济	START						NN
+批	OD						M
+有	VV						VE
+规定	JJ						NN
+顺利	DEG						JJ
+同	NN						DT
+建成	PU						VV
+「	DEC						PU
+先进	NN						VA
+服务	NN						NN
+提供	NR						VV
+表示	PN						VV
+公布	AD						VV
+有效	AD						VA
+支持	DEG						NN
+近	VV						AD
+推动	VV						VV
+推行	AD						VV
+并	AD						AD
+注册	NN						VV
+首	NN						OD
+强化	PU						VV
+建设	VV						VV
+管理	CC						NN
+有	PU						VE
+天	DT						M
+先进	AD						VA
+参与	AD						VV
+开发	NN						NN
+计划	NN						VV
+二	NN						CD
+不少	PU						CD
+批准	NR						VV
+增长	VV						VV
+兼	NN						CC
+人大	NR						NN
+发展	VV						NN
+这	DEC						DT
+用	AD						VV
+当	START						P
+增强	AD						VV
+对	NR						P
+至	NT-SHORT						CC
+统计	P						NN
+大	AD						VA
+开展	NN						VV
+证明	NN						VV
+又	NN						AD
+较	PU						P
+报道	NT						VV
+高	P						JJ
+建成	NT						VV
+比	AD						P
+工作	DEG						NN
+约	NN						AD
+逆差	NN						NN
+工作	VV						NN
+生产	CC						NN
+实施	PU						VV
+与	NN						P
+不	CS						AD
+才	NN						AD
+共同	PU						AD
+促进	CC						VV
+及	M						CC
+开始	NN						VV
+修订	PU						NN
+开发	DEG						NN
+分	CD						M
+顺差	NN						NN
+之后	NN						LC
+在	NN						AD
+跨国	VV						JJ
+在	AD						VV
+基本	DEC						JJ
+关系	DEG						NN
+前	NN						LC
+１	PU						CD
+从	AS						P
+关系	NR						NN
+制	CD						NN
+五	CC						CD
+推动	PU						VV
+全	P						DT
+签署	NT						VV
+与	P						P
+充分	PU						AD
+声明	VV						NN
+政治	DEG						NN
+和	VV						CC
+应	NN						VV
+到来	DEG						NN
+好	NN						VA
+在	PU						P
+经济	NR						NN
+把	PU						BA
+会	P						NN
+由	VV						P
+进一步	P						AD
+日前	P						NT
+就	NT						P
+和平	NR						NN
+主	NN						JJ
+与	NR						P
+将	VV						AD
+成立	NT						VV
+克	CD						M
+地	VA						DEV
+了解	NN						VV
+迅速	DEG						JJ
+内	M						LC
+解决	AD						VV
+感谢	VV						NN
+三	DT						CD
+培训	NN						NN
+增强	NN						VV
+从	PU						P
+商业	PU						NN
+同	PU						P
+基础	NN						NN
+八	VV						CD
+实际	PU						AD
+注册	NN						NN
+创造	PU						VV
+稳定	DEG						NN
+组织	JJ						NN
+规定	PU						VV
+三	PU						CD
+这	BA						DT
+自	NR						P
+生产	NN						VV
+二	PU						OD
+开发	PU						VV
+生产	JJ						NN
+对接	M						NN
+大	OD						JJ
+系列	CD						M
+投资	NN						VV
+东北	PU						NN
+三十	VV						CD
+共	M						AD
+说	VV						VV
+新	CD						VA
+户	CD						M
+最高	DEG						JJ
+从	AD						P
+京	P						NR
+不	AD						AD
+加快	PU						VV
+一起	NN						AD
+国务院	START						NN
+将	PU						AD
+说	NT						VV
+同意	AD						VV
+之前	NT						LC
+今后	START						NT
+指出	LC						VV
+到	CD						CC
+影响	DEC						NN
+佳	AD						VA
+建成	NN						VV
+较	VV						AD
+投资	DEC						NN
+自	NN						P
+就	AD						P
+另	START						DT
+正式	NT						AD
+同时	NN						AD
+四	AD						CD
+两	CC						CD
+商谈	JJ						NN
+发展	P						VV
+重大	DEG						JJ
+该	START						DT
+就	PU						AD
+发现	AD						VV
+基础	VV						NN
+丰富	AD						VA
+将	NR						AD
+在	CS						P
+一	VE						CD
+之后	VV						LC
+日	PU						NR
+指出	AD						VV
+有效	PU						VA
+无	AD						VE
+天	OD						M
+进行	MSP						VV
+生活	JJ						NN
+优势	NN						NN
+才	PU						AD
+安全	CC						NN
+实施	AD						VV
+制定	NN						VV
+解决	PU						VV
+意识	NN						NN
+报告	M						NN
+是	VV						VC
+最	PU						AD
+表示	AD						VV
+认真	VV						AD
+承包	NN						NN
+比	NN						P
+女	PU						JJ
+各	JJ						DT
+高速	NR						JJ
+全	DEG						DT
+通过	PU						P
+发表	NT						VV
+加快	NN						VV
+积极	VV						JJ
+良好	DEG						JJ
+稳定	PU						VA
+则	NN						AD
+包括	NN						VV
+管理	VV						NN
+是	M						VC
+开放	AD						VV
+决定	NN						NN
+启动	AD						VV
+大	JJ						JJ
+及时	PU						AD
+处理	NN						NN
+所	CD						M
+首	DEG						NN
+包括	PU						AD
+政治	NN						NN
+总	P						JJ
+基本	DEG						JJ
+生产	PU						NN
+公布	NN						VV
+扩大	AD						VV
+来	AD						VV
+增加	NT						VV
+参加	AD						VV
+三	NT						CD
+交通	PU						NN
+旅游	JJ						NN
+开展	PU						VV
+一定	VV						JJ
+全面	NN						AD
+三	NR						CD
+合作	NN						VV
+试点	NN						NN
+通过	AD						VV
+投资	P						NN
+稳定	NN						AD
+全面	VV						JJ
+与	VV						P
+创汇	NN						NN
+到	VV						VV
+只	CD						M
+间	CD						M
+共	NN						AD
+上升	NN						VV
+军事	PU						NN
+同	NT						DT
+撤离	AD						VV
+可	PN						VV
+通过	AD						P
+提高	NN						VV
+投入	VV						VV
+并	VV						CC
+年	CD						M
+和平	VV						NN
+表示	NN						VV
+完成	MSP						VV
+加强	NN						VV
+有	NN						VE
+重视	AD						VV
+不断	AD						AD
+笔	CD						M
+强调	NN						VV
+奖	NN						NN
+联合	NR						JJ
+不仅	NN						CC
+还	PU						AD
+实行	AD						VV
+没有	AD						VE
+而	VA						CC
+下	VV						DT
+经营	NN						NN
+要	VV						VV
+初步	NN						AD
+生产	DEC						NN
+比较	NN						VV
+进出口	NN						NN
+活跃	AD						VA
+不	NN						AD
+重要	CD						JJ
+和平	DEG						NN
+的	NN						DEC
+由	NN						P
+持续	NN						AD
+参加	VV						VV
+许多	AS						CD
+实行	PU						VV
+快速	NN						AD
+利用	NR						VV
+两	VV						CD
+的	CD						DEG
+合资	NN						VV
+和	AD						P
+应	PU						VV
+主导	VV						NN
+努力	PU						AD
+现	NR						AD
+直接	NN						AD
+解释	NN						VV
+本	VV						DT
+空	PU						NN
+未	AD						AD
+一	DEG						CD
+有关	DT						JJ
+更加	AD						AD
+所	VE						MSP
+存在	AD						VV
+规划	NN						NN
+包括	VV						VV
+高	NN						JJ
+了	VA						AS
+宣布	NR						VV
+组织	AD						VV
+改善	DEG						NN
+是	NR						VC
+同时	DEC						NN
+五	START						CD
+内需	VV						NN
+发展	NR						VV
+共同	NN						AD
+头	NT						DT
+十分	AD						AD
+原则	NN						NN
+以上	M						LC
+结合	AD						VV
+统计	NN						NN
+进行	PN						VV
+到	NN						P
+进展	NN						NN
+港	VV						NR
+只有	PU						AD
+综合	NN						JJ
+需	NN						VV
+同	VV						DT
+突出	AD						VA
+今日	NR						NT
+实现	AD						VV
+行	DT						NN
+发展	CC						NN
+来	NN						VV
+重要	AD						VA
+是	DEC						VC
+建立	VC						VV
+级	M						NN
+楼	CD						M
+开放	JJ						NN
+比赛	DEG						NN
+强	CD						NN
+欧元	VV						NN
+各	DEC						DT
+组成	JJ						NN
+			质量				CC
+			从而				VV
+			韩国				PU
+			战胜				NN
+			教授				NR
+			威尔				NN
+			但				P
+			加快				JJ
+			港				PU
+			判				VV
+			社论				VV
+			产业				VV
+			形式				PU
+			移民				NN
+			考验				PU
+			当选				VV
+			全会				VV
+			个				NR
+			对				CD
+			正式				NN
+			对				P
+			仅				VV
+			原来				DEG
+			欧洲				CC
+			准备				PU
+			工厂				PU
+			百分之三十				PU
+			专业				NN
+			今年				AD
+			此				PU
+			省				NN
+			平民				VV
+			层次				AD
+			参加				DT
+			资产				CC
+			到来				PU
+			同意				VV
+			深入				NN
+			兼并				NN
+			BeginFlag				CD
+			采取				VA
+			学生				NN
+			后				PU
+			２３日				VV
+			澳门				PU
+			汕头				NN
+			草案				P
+			会见				AS
+			医科				NN
+			》				PU
+			市场				NN
+			开始				PU
+			警犬				PU
+			书				PU
+			时间				NT
+			中				VE
+			美元				VV
+			战				LC
+			年				VV
+			审批				NN
+			文化				PU
+			是				DT
+			：				PU
+			结构				PU
+			中介				NN
+			国				CD
+			德国				DEC
+			的				PU
+			和平				PU
+			到				NN
+			区域				PU
+			会议				NN
+			负责				DEC
+			大型				NN
+			保护				PU
+			八十年代				LC
+			小				NN
+			扩大				JJ
+			台胞				VV
+			依然				VA
+			涉外				NN
+			目前				NN
+			去年				PU
+			一定				VV
+			三菱				NN
+			开发区				VV
+			下降				PU
+			分配				NN
+			雄厚				DEC
+			今后				CD
+			就				NN
+			周年				PU
+			指出				PU
+			规模				PU
+			规模				DEG
+			政府				CC
+			了				JJ
+			大学				PU
+			至				NN
+			签署				AS
+			东南亚				PU
+			双				NN
+			具备				AS
+			在				JJ
+			希望				NR
+			仍然				VC
+			旅游				NN
+			工业				JJ
+			总经理				NR
+			济南				NT
+			举办				DEC
+			共				VE
+			使				PN
+			制造业				PU
+			研究				CC
+			更新				NN
+			资金				VV
+			电器				NN
+			调查				PU
+			企业				PU
+			日本				AD
+			国务院				NN
+			导弹				NN
+			会				LC
+			实行				PU
+			批				VV
+			基础				LC
+			广泛				DEC
+			一半				LC
+			欧元				NN
+			逆差				PU
+			浦东				VV
+			应				NN
+			中西部				NN
+			受伤				PU
+			展览				NN
+			首先				PU
+			事故				VV
+			比较				VA
+			已经				P
+			展览				PU
+			客商				VV
+			合				CD
+			外资				PU
+			议会				NN
+			１１				M
+			四万				M
+			海峡				CD
+			通讯员				NR
+			发言人				VV
+			下午				NT
+			丰富				PU
+			一千				M
+			调查				NN
+			学习				PU
+			贸易				CC
+			各				NN
+			生效				PU
+			进程				PU
+			：				NR
+			三通				PU
+			及				NR
+			将				VV
+			机构				PU
+			立方米				PU
+			品种				PU
+			之				NN
+			方案				PU
+			韩国				NN
+			到来				DEC
+			大使				NR
+			试点				PU
+			有效				DEV
+			因此				PU
+			其中				CD
+			注意				VV
+			香港				P
+			制约				NN
+			将				VC
+			包装				NN
+			在				PU
+			船政				NN
+			宪报				VV
+			认为				NR
+			进出口				NN
+			出版				DEC
+			停火				NN
+			约				VC
+			国内外				NN
+			出现				DEC
+			长江				NN
+			能够				VV
+			回归				PU
+			国				NN
+			甚至				VV
+			任务				PU
+			有效				NN
+			多				M
+			著名				NN
+			二十七日				NN
+			九五				PU
+			是				AD
+			决议				PU
+			宏观				NN
+			报名				VV
+			作为				NR
+			假				NN
+			半岛				DEG
+			家				NR
+			西非				JJ
+			著名				DEC
+			内				NN
+			行列				PU
+			资金				AD
+			号				NN
+			体制				NN
+			稳定				CC
+			开发				PU
+			市长				NR
+			二十五日				NN
+			研究				VV
+			困境				PU
+			最低				NN
+			台				VV
+			“				NT
+			葡				NN
+			进口				NN
+			发现				CD
+			的				AD
+			２５				M
+			目标				VC
+			铁路				VV
+			发挥				AS
+			注册				NN
+			共和国				NR
+			招商				PU
+			并				VV
+			甲				M
+			产业				AD
+			极				VA
+			二十				M
+			配套				DEC
+			特别				VV
+			中资				NN
+			洪涝				NN
+			人次				PU
+			业务				VV
+			以来				NR
+			决定				VV
+			发表				NN
+			冠军				NR
+			江苏				NR
+			支持				CC
+			获				NR
+			双方				AD
+			董事长				NR
+			数字				VV
+			前往				NR
+			部门				PU
+			三角洲				NN
+			力量				PU
+			九十				M
+			着				NR
+			将				DT
+			轨道站				LC
+			后				NR
+			工程				PU
+			今天				NT
+			今日				VV
+			但				NT
+			竞争力				DEC
+			芬兰				P
+			又				VV
+			共				CD
+			海地				NN
+			中保				NN
+			关于				NN
+			天津				AD
+			治理				PU
+			运行				NN
+			为止				PU
+			前				PU
+			企业				CC
+			设立				DEC
+			岁				NN
+			自己				VV
+			天津港				NN
+			欧洲				DEG
+			据				NN
+			！				PU
+			东北				NN
+			人员				P
+			机构				CC
+			现在				NN
+			大陆				NN
+			工作				NN
+			高速				VV
+			政府				AD
+			党				DEG
+			市				PU
+			深入				PU
+			介绍				VV
+			国				LC
+			由				PN
+			浦东				DEC
+			化石				NN
+			管				NN
+			证券法				NN
+			网络				PU
+			安全				PU
+			戒急用忍				PU
+			海湾				NN
+			办事处				PU
+			统计				NN
+			会议				LC
+			及				VV
+			在				CD
+			约				VV
+			实际				VV
+			个别				NN
+			网络				NN
+			至				NT
+			”				NR
+			日前				AD
+			特色				PU
+			各				VV
+			当年				NN
+			台湾				VV
+			趋势				PU
+			环境				AD
+			阶段				PU
+			刚果				PU
+			考察				PU
+			据				NR
+			为				JJ
+			方法				PU
+			不到				CD
+			」				DEG
+			改造				NN
+			宁波				NN
+			大量				VV
+			开发				VV
+			采取				DEC
+			仪式				LC
+			地区				DEC
+			远程				NN
+			报道				PU
+			公司				P
+			委员会				DEG
+			BeginFlag				PU
+			原油				NN
+			企业				JJ
+			首				PU
+			两				NN
+			行政				NN
+			与				NT
+			来				PU
+			常务				NN
+			并				P
+			商业				NN
+			其				P
+			二０００年				PU
+			岁				DEC
+			总部				VV
+			率先				VV
+			关于				NR
+			开发				CC
+			具有				NN
+			民族				NN
+			》				P
+			原因				VC
+			老				NN
+			回归				NN
+			存在				DEC
+			北大湖				NN
+			仍				P
+			五亿				M
+			星期五				PU
+			获得				OD
+			份				NN
+			联合国				VV
+			阿卡耶夫				NN
+			第二				JJ
+			美国				NR
+			资产				AD
+			比				CD
+			资格				NN
+			用				NR
+			后				NN
+			总值				AD
+			学习				DEC
+			锦标赛				NN
+			有利于				VV
+			现有				NN
+			从				AD
+			有关				JJ
+			中共				NN
+			应				AD
+			八				CD
+			抵达				NR
+			超过				CD
+			范围				PU
+			局面				PU
+			在				VV
+			把				JJ
+			局长				NR
+			职工				VV
+			合理				VV
+			逝世				PU
+			种				VA
+			提供				DEC
+			健康				NN
+			持续				NN
+			恐龙				NN
+			荷兰				NN
+			污染				NN
+			常委会				P
+			专家				VV
+			；				PN
+			粮食				VV
+			评论				VV
+			小将				NR
+			投资额				CD
+			今年				VV
+			进一步				VV
+			发生				JJ
+			根本				NN
+			赫尔辛基				NT
+			情况				LC
+			西北				NN
+			意味				AS
+			国				PU
+			棒球				NN
+			女				PU
+			活动				VV
+			对				NR
+			对				NN
+			：				VV
+			数字				AD
+			积极				VV
+			取消				NN
+			集体				NN
+			很				VA
+			方				NN
+			仪式				VV
+			美国				VV
+			经常				VV
+			较				VA
+			挪用				NN
+			迅速				NN
+			五千				M
+			实施				DEC
+			外交部				NN
+			应				VV
+			改变				PU
+			银行				NT
+			发布会				LC
+			历史				PU
+			完				PU
+			「				NR
+			或				JJ
+			来源				PU
+			十一月				PU
+			有				MSP
+			向				NR
+			台湾				AD
+			一九九三年				NT
+			为期				CD
+			入境				NN
+			第三				M
+			关系				DEG
+			产量				VV
+			儿童				NN
+			具体				NN
+			种子				PU
+			增至				CD
+			只				VC
+			了				VA
+			统计				VV
+			联合				NN
+			发生				NN
+			运作				PU
+			８月				NT
+			１５				M
+			家				JJ
+			中央				CC
+			上述				NN
+			信心				PU
+			他				PU
+			约				CD
+			人类				NN
+			公司				ETC
+			未				AD
+			探险者				PU
+			问题				AD
+			更大				NN
+			领域				PU
+			外资				DEC
+			业务				DEC
+			市场				PU
+			效益				PU
+			及				NN
+			作用				PU
+			北方				AD
+			二十一				M
+			支				NN
+			艺术				NN
+			长江				LC
+			五十二				M
+			表演				PU
+			自				NR
+			演出				PU
+			米				CD
+			整体				NN
+			多				AS
+			高新				NN
+			主席				P
+			於				NN
+			事务所				PU
+			今天				DEG
+			进入				AS
+			坚持				VV
+			会谈				VV
+			采取				NN
+			南部				NN
+			设施				DEG
+			优势				PU
+			友谊				PU
+			台商				DEG
+			五				NN
+			，				DT
+			不良				NN
+			及				NT
+			同				M
+			出口				NN
+			立法会				NN
+			负责人				VV
+			长官				NR
+			实力				AD
+			大约				CD
+			建设				PU
+			水平				PU
+			权益				PU
+			银行				VV
+			进行				NN
+			出台				PU
+			就				DT
+			应				NR
+			低				NN
+			推行				NN
+			竞争				PU
+			资金				PU
+			随着				NR
+			多				DEC
+			三				PU
+			交通				PU
+			主要				VV
+			市场				AD
+			课程				NN
+			消费				NN
+			年				NN
+			特别是				NN
+			快速				NN
+			贸易额				AD
+			渠道				PU
+			现在				VV
+			吨				PU
+			投资				AD
+			保税区				NN
+			方式				AD
+			成本				VV
+			想				VV
+			体制				PU
+			上升				CD
+			事务				LC
+			伟大				NN
+			福州				NT
+			解释				PU
+			优先				VV
+			尽早				VV
+			少数				NN
+			发出				NN
+			二十三				M
+			斜坡				NN
+			、				OD
+			伊拉克				DEG
+			和				JJ
+			滑雪				NN
+			天津				NT
+			单位				PU
+			，				AD
+			国内				CD
+			总值				VV
+			规定				DEC
+			技术				CC
+			一九九八年				PU
+			银行				NN
+			相当				VA
+			重庆				VV
+			有				PN
+			十五日				NN
+			不同				NN
+			家用				NN
+			观测				NN
+			集成				NN
+			：				P
+			以及				NN
+			必要				DEC
+			数				M
+			投入				PU
+			许多				NN
+			明日				PU
+			定				VV
+			基地				VV
+			发生				LC
+			有色				NN
+			十六日				NN
+			十日				NN
+			不断				NN
+			毫				VE
+			有				VV
+			“				PN
+			联盟				VV
+			截止到				NT
+			战略				PU
+			权威				NN
+			－				NR
+			「				CD
+			组织				AD
+			回升				PU
+			波恩				NT
+			位				DEC
+			市				NN
+			人们				AD
+			冲击				PU
+			到				AS
+			文				PU
+			了				AD
+			建立				P
+			浙江				DEG
+			带来				DEC
+			澳大利亚				PU
+			被				NR
+			广东				NR
+			？				VC
+			不断				VV
+			三十亿				M
+			广东				PU
+			进口				PU
+			它们				AD
+			电话				NN
+			增长				AD
+			口				NN
+			从业				NN
+			就				VV
+			中国				DEG
+			是				PU
+			取得				NN
+			负责				NN
+			”				VV
+			委员会				P
+			三十多				M
+			资料				NN
+			以				JJ
+			能源				NN
+			军队				AD
+			上海				PU
+			负				NN
+			德国				VV
+			一亿				M
+			这些				JJ
+			形成				AS
+			因素				PU
+			面积				AD
+			还				VC
+			将				CD
+			银行				CC
+			数十				M
+			第三				NN
+			管理				CC
+			担任				NR
+			提出				VV
+			这				AD
+			三十五				M
+			对				NT
+			开设				AS
+			“				VV
+			处				P
+			局势				VV
+			；				NR
+			今后				AD
+			特色				DEC
+			学生				DEG
+			把				P
+			世界				CD
+			声明				VV
+			完全				VV
+			类				NN
+			企业				CD
+			「				P
+			需要				VV
+			与				NN
+			比重				AD
+			四亿				M
+			热潮				PU
+			繁荣				PU
+			明年				VV
+			石化				NN
+			代表				NN
+			越				VA
+			综述				PU
+			适度				VV
+			３０多				M
+			改变				AS
+			六				M
+			发展				JJ
+			有助于				VV
+			金融				NN
+			国际				JJ
+			半导体				NN
+			效益				AD
+			时				VV
+			天				NN
+			于				VV
+			中				MSP
+			码头				CC
+			成果				NN
+			空中				NN
+			大会				LC
+			问题				PU
+			紧急				NN
+			可以				P
+			法人				NN
+			国家				CC
+			科教				VV
+			或				AD
+			特区				DT
+			人民				VV
+			贡献				PU
+			高				NN
+			项				VV
+			届				NR
+			问题				LC
+			了				NT
+			早				AD
+			调整				PU
+			公路				NN
+			对于				NN
+			组织				LC
+			」				NR
+			市场				CC
+			我们				DEG
+			执行				NN
+			欧元				PU
+			能力				VV
+			野				NN
+			俄罗斯				NN
+			后				VV
+			小				DEC
+			在内				DEC
+			占				NN
+			商品				AD
+			企业				NN
+			扩大				PU
+			唯一				DEG
+			提前				VV
+			和平				NN
+			已				VE
+			民主				NN
+			取得				AS
+			欧元				AD
+			实际				NN
+			信息				NN
+			强调				PU
+			岁				DEG
+			强				NN
+			领导人				P
+			高层				NN
+			组织				PU
+			采用				NN
+			锦标赛				LC
+			措施				VV
+			她				AD
+			沿海				NN
+			村				NN
+			指数				VV
+			举办				PU
+			受到				NN
+			以				PU
+			位				P
+			有关				NR
+			来到				NR
+			南京				NT
+			香港				VV
+			资料				VV
+			电信				NN
+			妥善				VV
+			能				P
+			工业				AD
+			时代				PU
+			消除				NN
+			奥林匹克				NN
+			南京				NN
+			法定				NN
+			和				NN
+			比赛				VV
+			上				NR
+			决心				P
+			不				VA
+			港口				PU
+			基本				VA
+			保证				PU
+			支持				NN
+			确定				DEC
+			出生				LC
+			农民				VV
+			它				P
+			依据				PU
+			物质				NN
+			确定				NN
+			自由				NN
+			大型				JJ
+			倾斜				PU
+			：				CD
+			元				PU
+			形成				CD
+			公里				NN
+			古巴				NN
+			天然气				NN
+			开发				NN
+			中国				JJ
+			企业				VV
+			交流				CC
+			共和国				NN
+			作为				CD
+			原因				PU
+			３１日				VV
+			研究所				NN
+			房地产				NN
+			大桥				PU
+			近年				LC
+			兴建				DEC
+			要求				NR
+			中国				VV
+			项目				NN
+			需要				CD
+			日本				DEG
+			此间				VV
+			顺利				PU
+			据悉				PU
+			准备				P
+			人民				AD
+			奖励				NN
+			使				NN
+			我们				VV
+			商品				NN
+			批				NN
+			地铁				NN
+			部队				VV
+			其他				CD
+			巴西				NN
+			应该				VV
+			改善				PU
+			省				AD
+			总额				AD
+			协作				NN
+			西藏				NN
+			即将				VV
+			其次				PU
+			枢纽				NN
+			发生				DEC
+			持续				AD
+			司法				NN
+			煤层气				NN
+			２８日				NN
+			台				PU
+			到				PU
+			里				PU
+			公正				PU
+			进入				NN
+			首都				NR
+			欧元				DEG
+			制药				NN
+			欧盟				PU
+			已				BA
+			承包				NN
+			一				PU
+			联盟				NN
+			；				JJ
+			提高				VV
+			威胁				PU
+			推迟				VV
+			好				NN
+			、				NN
+			呈现				VV
+			三十万				M
+			建成				NN
+			中央				NN
+			新华社				NR
+			”				CD
+			来				DEG
+			方面				NN
+			达成				AS
+			程度				AD
+			重点				NN
+			加强				PU
+			副总理				NR
+			贸易				LC
+			重视				NN
+			联合国				JJ
+			“				NR
+			）				JJ
+			都				VC
+			初				VV
+			处理厂				PU
+			法律				PU
+			是				PN
+			新				DEC
+			：				DT
+			地区				JJ
+			希望				DT
+			「				NN
+			十分				VV
+			今年				NN
+			等				VV
+			挑战				PU
+			能力				AD
+			风暴				LC
+			由于				NR
+			发电				NN
+			自己				DEG
+			实行				CD
+			二十万				M
+			，				PN
+			三资				NN
+			监督				NN
+			联系				PU
+			社会				PU
+			考虑				NN
+			中心				P
+			访问				NR
+			研究生				NN
+			１０月				NT
+			人才				NN
+			法国				P
+			去年				DEG
+			星期四				PU
+			条例				NN
+			、				NT
+			优惠				PU
+			英				CD
+			繁荣				CC
+			停止				P
+			佳				NN
+			而且				P
+			引进				NN
+			设计				NN
+			起				CD
+			形势				PU
+			和平				VV
+			任				NN
+			希望				PU
+			长				DEC
+			下				AD
+			芬兰				NN
+			政府				JJ
+			落户				PU
+			体育				NN
+			，				P
+			货币				PU
+			说				VC
+			房屋				NN
+			区议会				NN
+			第一				M
+			力度				VV
+			出口				AD
+			参与				PU
+			发表				NT
+			南				VV
+			利用				NR
+			强调				VV
+			需求				PU
+			开放				LC
+			七				NN
+			签订				NN
+			风暴				VV
+			因为				PN
+			总理				P
+			一				VC
+			四				JJ
+			上海				CC
+			分行				PU
+			欧				NR
+			为				DT
+			建材				PU
+			国家				NN
+			同				DT
+			制造				NN
+			年				DT
+			中方				VV
+			吸引				NN
+			７				M
+			原则				PU
+			今年				P
+			增加				VV
+			日前				PU
+			全部				VV
+			温度				JJ
+			重视				PU
+			有				NR
+			加快				NN
+			时间				VV
+			棉花				NN
+			”				CC
+			失败				PU
+			活动				PU
+			工				NN
+			部门				AD
+			措施				AD
+			带来				NN
+			为				PN
+			批准				DEC
+			家				VV
+			间				DEG
+			BeginFlag				NN
+			劳动				NN
+			此后				PU
+			同				CD
+			这些				AD
+			营业				NN
+			食品				PU
+			广州				VV
+			半导体				PU
+			表示				VA
+			强				DEC
+			先进				NN
+			加入				NN
+			程度				LC
+			建立				CC
+			它				VC
+			进步				PU
+			地				PU
+			曾荫权				VV
+			产业				VC
+			婚姻				NN
+			年				NR
+			老挝				NN
+			结构				AD
+			（				NN
+			撞击				NR
+			几				M
+			贫困				NN
+			尽管				NR
+			农业				NN
+			表明				NR
+			以				CD
+			；				P
+			难				VV
+			如期				VV
+			武警				NN
+			出				NN
+			会				VV
+			人				AD
+			事宜				PU
+			美				JJ
+			取得				JJ
+			最好				NN
+			核心				PU
+			减少				PU
+			项				NN
+			成为				NR
+			公里				DEC
+			：				NT
+			训练				PU
+			起				VV
+			俄罗斯				VV
+			工作				VV
+			落户				NR
+			形势				VV
+			任				NR
+			水利				NN
+			赢得				AS
+			过去				PU
+			参与				NR
+			科研				NN
+			专题				NN
+			带来				JJ
+			商谈				PU
+			制度				CC
+			予以				NN
+			银行				CD
+			出售				NN
+			‘				NN
+			连锁				NN
+			八月				NT
+			组建				AS
+			发表				JJ
+			创造				AS
+			金额				CD
+			九月				LC
+			现				AD
+			支持				PU
+			有				JJ
+			但				DT
+			成				AS
+			政策				DEG
+			地区				P
+			人				VA
+			）				NR
+			时				DEG
+			项目				DEG
+			海基会				VV
+			收入				NN
+			涉台				NN
+			采取				AS
+			资源				AD
+			关注				PU
+			天				VV
+			五十				NN
+			地区				VV
+			有关				NN
+			全部				NN
+			协会				NN
+			服务				PU
+			次				VV
+			国务				NN
+			包括				JJ
+			委员				NR
+			总体				NN
+			－－				NR
+			茶叶				NN
+			自治区				NN
+			刑事				NN
+			了解				NR
+			联运				PU
+			稳定				PU
+			目前				DT
+			剧协				NN
+			内地				DEG
+			巨大				NN
+			让步				PU
+			百分点				PU
+			台湾				PU
+			日报				PU
+			前景				PU
+			澳门				NR
+			包括				VV
+			去年				LC
+			在				NN
+			邮政局				NR
+			行业				DEG
+			５				NN
+			前景				AD
+			现在				PU
+			快速				PU
+			电话				PU
+			进行				VV
+			面对				NN
+			要				AD
+			和				NR
+			舟山				NN
+			冠军				NN
+			产品				P
+			联赛				NN
+			法规				NN
+			第二十四				M
+			代				NN
+			２８日				P
+			面积				CD
+			特别是				NR
+			召开				DEC
+			於				NT
+			委员会				VV
+			十一				M
+			《				P
+			撤军				NN
+			例				PU
+			时代				DEG
+			乌拉圭				NN
+			陆家嘴				NN
+			路				PU
+			加强				NN
+			控股				NN
+			公路				PU
+			住宅				NN
+			去年				NR
+			承诺				PU
+			化学				NN
+			目标				PU
+			“				AD
+			热情				VV
+			”				MSP
+			合作				PU
+			专家				PU
+			半岛				VV
+			较				JJ
+			只				NN
+			周年				NN
+			介绍				NN
+			继续				P
+			勘探				VV
+			突破				CD
+			施工				NN
+			看				PU
+			自				NT
+			外商				AD
+			光缆				NN
+			李鹏				NN
+			成立				PU
+			回到				NN
+			部门				P
+			地方				NN
+			方式				PU
+			发行				DEC
+			希望				P
+			日前				VV
+			自己				NN
+			市场				DEC
+			利用				NN
+			努力				LC
+			以				VA
+			货物				VV
+			大陆				AD
+			台湾				P
+			上升				PU
+			扩大				NN
+			楼宇				NN
+			风险				NN
+			群众				VV
+			几乎				VV
+			都				VE
+			土地				NN
+			外贸				NN
+			发达				DEC
+			远南				NN
+			庆祝				NR
+			数字				PU
+			浦东				NR
+			、				AD
+			难以				VV
+			电				NN
+			四十亿				M
+			举行				JJ
+			制				PU
+			巴黎				NT
+			环境				PU
+			尚				AD
+			完成				NN
+			成为				VV
+			司长				NR
+			需要				P
+			比				NT
+			确保				NN
+			中共				OD
+			问题				DEG
+			报关单				VV
+			元				NN
+			直接				VV
+			提高				PU
+			至				CD
+			推进				PU
+			安排				PU
+			申请				PU
+			开放				DEC
+			突出				PU
+			成本				PU
+			四				M
+			医疗				NN
+			主导				NN
+			提供				NN
+			经营				NN
+			虽				AD
+			双方				P
+			我们				P
+			优良				NN
+			委员会				NT
+			大会				NN
+			不				P
+			质量				NN
+			增长率				AD
+			回应				NN
+			形成				PU
+			股份				JJ
+			植物				NN
+			他				AD
+			外债				NN
+			经历				AS
+			浙江省				NN
+			每				M
+			期间				PU
+			条款				PU
+			融资				NN
+			完善				PU
+			此				M
+			资本				NN
+			北京市				NN
+			新华社				NN
+			禁止				VV
+			增长				AS
+			日				NN
+			包括				NR
+			时期				PU
+			拳击				NN
+			城市				DEG
+			第一				NN
+			一百				M
+			期				PU
+			综合				NN
+			被				NN
+			达				CD
+			成功				PU
+			企业				DEG
+			所				NN
+			市				VV
+			提供				AS
+			目前				NR
+			城市				NN
+			BeginFlag				NT
+			始终				VV
+			俄罗斯				DEG
+			中医				NN
+			不少				NN
+			通过				NN
+			了				OD
+			使用				NN
+			外商				JJ
+			解决				NR
+			方案				AD
+			，				OD
+			长				PU
+			也				VE
+			其				JJ
+			内				PU
+			发展				CC
+			逾				CD
+			４月				NT
+			新年				NN
+			与				JJ
+			）				DEG
+			外资				JJ
+			广阔				DEC
+			帮助				VV
+			律师				NN
+			研究				DEG
+			言				PU
+			平方米				DEG
+			参观				PU
+			BeginFlag				P
+			空				PU
+			人员				VV
+			力争				P
+			单				NN
+			次				NN
+			通车				PU
+			运输				PU
+			二十四日				NN
+			个				PU
+			九日				NN
+			认为				PU
+			一				NN
+			之一				PU
+			蓬勃				VV
+			没有				CD
+			机构				DEG
+			巴黎				VV
+			国家				P
+			比赛				NN
+			种				PU
+			公安				NN
+			快				PU
+			前景				VV
+			系列				JJ
+			在				DT
+			航运				NN
+			逐渐				VV
+			其它				NN
+			到				DT
+			郭辉				VV
+			韩国				JJ
+			设备				NN
+			平均				NN
+			外经贸部				NN
+			超级				NN
+			十三日				NN
+			澳门				JJ
+			成套				NN
+			家				PU
+			有限				NN
+			长				CD
+			行动				VV
+			祖国				NN
+			获				NN
+			汪				NR
+			地区				AD
+			独特				DEC
+			大陆				DEG
+			大中型				NN
+			部门				DEG
+			意大利				PU
+			中国				VC
+			十三				M
+			记者				NN
+			多元化				PU
+			恢复				NN
+			２７日				NN
+			加强				NR
+			伊拉克				NN
+			修				NN
+			以来				AD
+			教训				PU
+			记者				VV
+			成立				LC
+			人				PU
+			中				P
+			六十万				M
+			领导人				DEG
+			六六盐				NN
+			时间				PU
+			财务				NN
+			金融				JJ
+			基金				DEG
+			”				DEG
+			他们				P
+			大宇				NN
+			的				NN
+			水				PU
+			一直				AD
+			当天				VV
+			外汇				NN
+			；				AD
+			国内				DEG
+			进口				VV
+			年会				PU
+			今年				DT
+			港口				NN
+			执行				PU
+			时代				AD
+			特点				PU
+			便				VV
+			一体化				NN
+			方面				VV
+			教学				NN
+			地位				AD
+			方向				VV
+			分				VV
+			为				CD
+			３０日				NN
+			达成				NN
+			在				NT
+			解决				AS
+			三十				M
+			向				DT
+			创				NN
+			主席				PU
+			百分之五十				PU
+			实力				PU
+			总书记				PU
+			“				DT
+			海外				VV
+			米				PU
+			二十亿				M
+			新加坡				PU
+			陈元				VV
+			布				PU
+			遭受				NN
+			１日				NN
+			接受				AS
+			进行				PU
+			谴责				NR
+			会议				P
+			人大				OD
+			农民				PU
+			队				VV
+			赛季				PU
+			服务业				PU
+			横				PU
+			则				VV
+			夺得				NR
+			运动员				PU
+			城市				PU
+			场				NN
+			节能				NN
+			监管				NN
+			蜜蜂				VV
+			紫金山				NN
+			政治				NN
+			开始				P
+			产业				PU
+			产				NN
+			自				NN
+			根据				NN
+			长期				LC
+			意大利				NN
+			德国				PU
+			制定				AS
+			副行长				NR
+			泰国				NR
+			人员				PU
+			带动				NN
+			暨				NN
+			第三				PU
+			而				VA
+			检查				PU
+			意见				PU
+			前				NR
+			７月				NT
+			全球				OD
+			协调				NN
+			（				NR
+			一				JJ
+			大				NN
+			能				VV
+			波黑				NN
+			一九九七年				LC
+			合作				DEG
+			达标				NN
+			去年				NN
+			朝鲜				NN
+			已				VC
+			管理法				PU
+			目前				LC
+			则				P
+			，				CC
+			劳工				NN
+			另				CD
+			知识				NN
+			总统				VV
+			伊拉克				VV
+			建成				CD
+			距				NR
+			泰国				NN
+			山东				PU
+			着				VA
+			发表				AS
+			锦标赛				DEG
+			我				NN
+			产值				CD
+			建筑				NN
+			以及				NR
+			东南亚				VV
+			入侵				NR
+			主要				P
+			此				VV
+			“				OD
+			人工				NN
+			行业				NN
+			机制				VV
+			项目				P
+			投资				PU
+			是				M
+			公司				NT
+			自治区				PU
+			经				NN
+			双方				DEG
+			我们				AD
+			２０				NN
+			顺利				VV
+			次				NR
+			华				VV
+			分别				P
+			五月				NT
+			经济				JJ
+			结构				DEG
+			就				VA
+			合				NN
+			颗				NN
+			底				PU
+			结束				PU
+			项目				LC
+			支持				LC
+			欧元				CC
+			海军				NN
+			公顷				PU
+			下				NN
+			考虑				VV
+			设施				PU
+			东亚				NN
+			一				NR
+			一百多				M
+			工程				JJ
+			因此				NR
+			签订				AS
+			比赛				PU
+			通信				NN
+			谈判				NN
+			图书				NN
+			明显				DEC
+			比赛				LC
+			成为				JJ
+			五十				M
+			巴西				NR
+			开发				DEC
+			走向				NN
+			系列				NN
+			看法				PU
+			苏联				VV
+			公司				VC
+			权力				PU
+			莫斯科				NT
+			集中				P
+			意义				DEC
+			包括				NN
+			包括				CD
+			美				NR
+			天然气				JJ
+			认识				VV
+			国外				JJ
+			开支				PU
+			经济				P
+			等				JJ
+			拥有				NN
+			积极				NN
+			寻求				NN
+			决赛				PU
+			增加				PU
+			贷款				NN
+			对于				VV
+			项目				AD
+			航线				PU
+			累计				VV
+			沿海				CD
+			目前				PU
+			产品				PU
+			这				CD
+			首脑				NN
+			会谈				PU
+			家庭				NN
+			平稳				NN
+			是				CD
+			相信				PU
+			上海				JJ
+			正确				DEC
+			农民				NN
+			社会				VV
+			正常				PU
+			失业				NN
+			努力				AD
+			国				JJ
+			；				OD
+			伙伴				PU
+			”				ETC
+			开发				NR
+			∶				PU
+			条				NN
+			日				VV
+			着				AD
+			举行				CD
+			月				LC
+			铁路				DEG
+			副主任				NR
+			以及				JJ
+			计划				BA
+			基金				PU
+			法律				AD
+			历史				AD
+			迎接				NN
+			停止				NN
+			上海				NN
+			，				JJ
+			西班牙				NN
+			双方				VV
+			１２				M
+			地下				NN
+			俄				VV
+			贸易				DEG
+			项目				CD
+			内部				NN
+			内				DEG
+			开展				NN
+			行为				PU
+			万				M
+			获得				CD
+			汽车				NN
+			先进				DEC
+			区				PU
+			投入				CD
+			，				NR
+			欧元区				LC
+			加速				VV
+			居				OD
+			从				CD
+			针对				NN
+			开放				AD
+			欧元				VV
+			体系				PU
+			省				NR
+			兴				NN
+			一九九七年				NR
+			项				AD
+			国家				VV
+			投资				JJ
+			２月				NT
+			这里				AD
+			下岗				NN
+			再				VV
+			良好				PU
+			平均				DT
+			本地化				NN
+			批				CD
+			却				VV
+			发现				AS
+			创造				VA
+			作为				JJ
+			允许				NN
+			１２月				NT
+			支付				NN
+			俄罗斯				PU
+			下				VV
+			统一				PU
+			日本				VV
+			仪式				NT
+			得到				JJ
+			交接				NN
+			星期三				PU
+			职业				NN
+			来自				NN
+			预计				NT
+			让				NN
+			彗星				VV
+			重申				PU
+			交通				NN
+			就				VE
+			江泽民				NN
+			有的				AD
+			．				NR
+			占				DT
+			台资				NN
+			增长				DEC
+			形势				LC
+			邀请				PU
+			加强				AS
+			发言人				NR
+			产业				CC
+			形式				VV
+			儿童				PU
+			竞争				DEC
+			世纪				PU
+			安理会				VV
+			八日				NN
+			中心				CC
+			次				AD
+			距离				NN
+			智能				PU
+			补充				PU
+			之后				PU
+			是				NN
+			繁荣				NN
+			接受				NN
+			年度				NR
+			十月				NT
+			已经				VV
+			九十年代				NN
+			驻				NR
+			会见				NR
+			保证				NN
+			对象				PU
+			权利				PU
+			闽				NR
+			纪念				NR
+			严重				PU
+			列为				NN
+			合理				PU
+			税务				NN
+			运动会				DEC
+			ＩＳＯ				CD
+			物理				NN
+			）				P
+			活动				NN
+			二				PU
+			期				NN
+			百分之七十				PU
+			段				NN
+			仍				AD
+			经济				AD
+			女子				NN
+			依然				VV
+			重点				PU
+			建设				NN
+			广东				DEG
+			红十字会				NN
+			法国				NN
+			他				P
+			投资				NR
+			开发				ETC
+			南斯拉夫				NN
+			价值				CD
+			重点				VV
+			钢铁				PU
+			当今				NN
+			道路				PU
+			就业				NN
+			投资				DEC
+			按照				PU
+			关系				CC
+			兴趣				PU
+			来自				CD
+			通行证				PU
+			一日				NN
+			浦东				NN
+			结果				PU
+			十七				M
+			最终				VV
+			段				PU
+			公约				PU
+			商品				PU
+			收益				PU
+			合作				CC
+			另外				CD
+			基金				VV
+			着				NN
+			治				NR
+			交流				DEG
+			地				NN
+			电信				PU
+			今后				P
+			来				AD
+			・				NR
+			工业				NN
+			于				NN
+			特大				NN
+			如果				VV
+			精神				PU
+			严重				DEC
+			和				AD
+			比例				AD
+			中央				JJ
+			贷款				VV
+			协定				PU
+			事业				DEG
+			”				P
+			美				CD
+			BeginFlag				VE
+			境外				VV
+			领导人				AD
+			百分之八				PU
+			统一				DEC
+			关系				AD
+			境内				NN
+			国家				LC
+			还				VE
+			资本				VV
+			谘询				NN
+			人民				PU
+			呼吁				NR
+			关于				VV
+			德国				DEG
+			给				NN
+			》				OD
+			主要				VC
+			中				NR
+			十五				M
+			逐年				VV
+			市				LC
+			安置				NN
+			１				M
+			税款				DEC
+			地区				CD
+			行业				PU
+			建造				NN
+			着				PU
+			贸易				NN
+			投资				P
+			今年				DEG
+			纯				NN
+			特殊				NN
+			中国				NN
+			机电				NN
+			越				NN
+			通讯				PU
+			基地				NN
+			湘江				NR
+			计算				PU
+			应				P
+			美国				CC
+			进行				JJ
+			大学				NN
+			全面				VV
+			因此				VV
+			较				NT
+			：				PN
+			未来				CD
+			１９				M
+			冠军				PU
+			李鹏				VV
+			经济				CC
+			田径				NN
+			水				LC
+			二十三日				NN
+			下午				VV
+			深化				NN
+			或				CD
+			单位				NN
+			纽约				NN
+			社会				DEG
+			今天				NN
+			仪器				NN
+			增长				DEG
+			初级				NN
+			胜				NR
+			钱				PU
+			做				NN
+			以便				VV
+			早日				VV
+			政府				NN
+			组织				VV
+			还是				VV
+			深圳				NN
+			二十一日				NN
+			监视				NN
+			将				P
+			里				VV
+			使用				PU
+			治理				NN
+			事件				VV
+			外国				NN
+			名牌				NN
+			分析				PU
+			年				DEG
+			必				AD
+			股票				NN
+			２９日				NN
+			主权				NN
+			随时				VV
+			家				NN
+			将				AD
+			邮电				NN
+			个				CD
+			底				VV
+			政府				LC
+			规划				VV
+			形成				JJ
+			制度				NN
+			大专				NN
+			权				VV
+			部队				DEG
+			二月				NT
+			三月				NT
+			危机				AD
+			保险				PU
+			单位				AD
+			星期一				PU
+			表明				PU
+			金				PU
+			日益				VA
+			底				LC
+			条件				PU
+			核查				NN
+			）				CD
+			台商				P
+			外向型				NN
+			决定				AD
+			确定				AS
+			能				AD
+			资金				CD
+			更				JJ
+			少				PU
+			常委会				OD
+			计划				NN
+			新				PU
+			可以				VV
+			直				P
+			越来越				VA
+			税收				NN
+			以下				NN
+			曾				P
+			增幅				AD
+			市场				DEG
+			我				DEG
+			中国				P
+			申请				VV
+			广大				NN
+			福建省				NR
+			证券				NN
+			平方公里				PU
+			广播				NN
+			”				VC
+			主				NN
+			银行				ETC
+			台湾				NN
+			负				CD
+			要求				PU
+			渔业				NN
+			感到				NN
+			福				PU
+			现代化				NN
+			太平洋				NN
+			紧张				NN
+			秘书长				NR
+			很多				NN
+			世界杯				NN
+			以				NN
+			百分之七十				LC
+			强化				NN
+			政策				PU
+			）				CC
+			兼并				PU
+			计划				DEG
+			等				CD
+			讲话				PU
+			学生				PU
+			更加				VV
+			图				VC
+			人数				AD
+			国				AD
+			共同				VV
+			转移				PU
+			代表团				PU
+			不得不				VV
+			泊位				PU
+			价格				PU
+			完成				PU
+			是				NT
+			公布				PU
+			辆				PU
+			谈到				NR
+			危机				NN
+			获得				JJ
+			必须				AD
+			油气				NN
+			有所				NN
+			单位				VV
+			２１				M
+			透露				PU
+			由				PU
+			却				AD
+			人				VV
+			最近				CD
+			发展				VV
+			出版				NN
+			雇员				P
+			改革				DEG
+			增强				PU
+			“				VE
+			教育				NN
+			此间				NN
+			未来				VV
+			改善				NN
+			一再				VV
+			咨询				PU
+			其他				NN
+			系统				NN
+			上市				VV
+			重要				PU
+			省长				NR
+			因为				NR
+			铁				NN
+			条约				PU
+			电脑				NN
+			重				VV
+			人道主义				NN
+			非				NN
+			事业				PU
+			建议				PU
+			签字				NN
+			禁止				NN
+			动工				VV
+			大幅				VV
+			广泛				VV
+			资产				VV
+			人民				DEG
+			学生				VV
+			准备				NN
+			根据				NR
+			生产				CC
+			不过				PU
+			投资				CC
+			“				P
+			领导人				NR
+			专用				NN
+			人民				P
+			只				VE
+			将				JJ
+			各				JJ
+			社会				P
+			制度				PU
+			美国				OD
+			军队				NN
+			调整				NN
+			优势				VV
+			全长				CD
+			中华				NN
+			危机				PU
+			出席				AS
+			研制				VV
+			成绩				VV
+			关系				LC
+			间				NN
+			公报				PU
+			批准				NN
+			政策				VV
+			小时				PU
+			物价				NN
+			协议				PU
+			举办				AS
+			决定				P
+			机械				NN
+			稳定				VV
+			产品				CC
+			首席				NN
+			水平				DEG
+			居民				NN
+			具				NN
+			贯彻				VV
+			介绍				AS
+			经济				DEG
+			周				LC
+			报告				VV
+			位				PU
+			美				PU
+			据				PU
+			省				PU
+			，				VE
+			因此				NN
+			法				CD
+			参加				AS
+			落实				PU
+			我				VV
+			国				OD
+			２９日				VV
+			预算				NN
+			点				PU
+			签署				DEC
+			过				VA
+			公司				PU
+			苏联				NN
+			给予				NR
+			度				PU
+			地区				DEG
+			研究				PU
+			解决				DT
+			如果				NN
+			控制				PU
+			一九九八年				NR
+			和				P
+			进行				DEC
+			部门				NN
+			研究				NN
+			航空				NN
+			广东				VV
+			时候				PU
+			都				VV
+			开发区				PU
+			贷款				PU
+			两				M
+			亚太				NN
+			声明				PU
+			参加				NT
+			法律				VV
+			范围				LC
+			；				VV
+			规模				AD
+			基本法				PU
+			国				DT
+			反政府				NN
+			冬季				NN
+			上				NN
+			重大				DEC
+			６				NN
+			建设				VV
+			英				NN
+			建设				DEC
+			水				DEC
+			预计				VV
+			建设				LC
+			首先				VV
+			（				JJ
+			前				NN
+			北京				VV
+			BeginFlag				CS
+			记者				P
+			汇率				VV
+			而				NN
+			部队				NN
+			产				CD
+			国				DEG
+			７				PU
+			十万				M
+			生活				NN
+			运行				PU
+			。				PU
+			明显				VV
+			精神				NN
+			年				AD
+			意义				PU
+			到				VA
+			加快				PU
+			墨				NN
+			发				NN
+			深				NR
+			上午				NT
+			银行				DEG
+			座				JJ
+			标准				NN
+			百分之二十				PU
+			年				LC
+			外资				NN
+			技术				VA
+			公斤				PU
+			３０				M
+			天津				NN
+			禁飞区				PU
+			云南省				NN
+			优势				NN
+			采取				CD
+			影响				DEC
+			那些				VV
+			加大				PU
+			开发区				NN
+			或				NN
+			天津市				AD
+			财政				NN
+			具有				CD
+			持				NN
+			任务				AD
+			谈判				PU
+			到位				PU
+			亦				AD
+			世界				DEG
+			天津市				VV
+			尽快				VV
+			项目				PU
+			电				PU
+			”				JJ
+			价格				VV
+			未				VV
+			提前				CD
+			海外				NN
+			产生				NN
+			大				DEC
+			将				NR
+			港				DEG
+			相互				VV
+			五万				M
+			贸易额				VV
+			２０				M
+			着				CD
+			案				PU
+			波罗的海				CD
+			当				VV
+			引资				NN
+			系统				VV
+			美元				LC
+			俄				CD
+			二亿				M
+			三千多				M
+			，				CD
+			天津				PU
+			年				DEC
+			博士后				NN
+			市场				P
+			最后				NN
+			苏哈托				NN
+			库区				NN
+			现代				NN
+			我				P
+			提出				NN
+			常委会				NN
+			吸引				AS
+			了				NR
+			BeginFlag				JJ
+			依法				VV
+			日				PU
+			正式				VV
+			呼吁				NN
+			通过				VV
+			有关				DT
+			尼				NN
+			武装				NN
+			尽管				NN
+			标准箱				PU
+			抵				NR
+			》				AD
+			副总理				CC
+			获悉				PU
+			今后				VV
+			保持				CD
+			对外				NN
+			行使				NN
+			医药				NN
+			季				VV
+			需求				VV
+			外资				AD
+			开放				CD
+			市场				VV
+			名				JJ
+			十多				M
+			安哥拉				NN
+			）				VA
+			当前				NN
+			区				NN
+			会晤				PU
+			深圳				JJ
+			相关				NN
+			羽绒				NN
+			公路				NR
+			六月				NT
+			大桥				VV
+			月				DEG
+			：				NN
+			公务员				NN
+			改革				PU
+			一直				VV
+			六月				LC
+			月				VV
+			工业				VV
+			实行				JJ
+			历史				DEG
+			内地				CC
+			最				JJ
+			平方米				PU
+			广西				NN
+			虽然				VV
+			同时				P
+			全面				NN
+			石化				PU
+			以及				CD
+			泰国				PU
+			部				NN
+			带动				AS
+			开放				PU
+			体系				DEG
+			证件				CC
+			已				P
+			独立				DEC
+			继				NR
+			一千万				M
+			韩国				AD
+			残疾人				NN
+			专家				NN
+			影响				PU
+			连续				CD
+			科技				CC
+			该				M
+			大源渡				NN
+			原				VV
+			贸易				PU
+			多国				NN
+			粮食				JJ
+			阿卡耶夫				VV
+			淮河				NN
+			个人				NN
+			公司				DEG
+			为				OD
+			支柱				NN
+			桥梁				PU
+			天津市				NN
+			记者				NT
+			新				CD
+			及				JJ
+			下				DEG
+			发言人				NT
+			行动				AD
+			有效				DEC
+			中国				CC
+			於				NR
+			微				VV
+			主席				NR
+			个				P
+			他				VV
+			为				VV
+			等				PU
+			情况				PU
+			已经				AD
+			蒙特利尔				NN
+			名单				PU
+			法院				VV
+			图				PU
+			生物				NN
+			省				VV
+			新华				NN
+			国际				NR
+			一九九六				CC
+			遭				NN
+			以				VV
+			着				VV
+			是				VV
+			期间				VV
+			和				NT
+			也				AD
+			岸				AD
+			煤炭				NN
+			而				VV
+			世纪				NN
+			改革				CC
+			版图				NN
+			中外				VV
+			回落				PU
+			依靠				NN
+			间				VV
+			主任				NR
+			文章				VV
+			它				VV
+			中				DEG
+			广州				CC
+			农村				NN
+			大会				PU
+			更加				VA
+			原油				JJ
+			常任				NN
+			嘉宾				VV
+			撤离				NR
+			中部				NN
+			副主席				NR
+			实现				AS
+			第二				NN
+			合法				NN
+			关键				NN
+			选手				AD
+			充分				VV
+			百				M
+			「				PN
+			通讯				NN
+			有				CD
+			广东省				NN
+			项				PU
+			绿色				NN
+			交易				CC
+			电脑				CD
+			数据				PU
+			边界				NN
+			结束				AS
+			速度				AD
+			对				PN
+			领导人				VV
+			直接				NN
+			书记				NR
+			武汉				NR
+			二十一				NN
+			功能				PU
+			福建				NN
+			目标				VV
+			通过				PU
+			澳门				DEG
+			有关				DEG
+			最新				NN
+			条件				AD
+			中				JJ
+			产量				PU
+			香港				JJ
+			建立				VA
+			现实				NN
+			亿				M
+			的				CD
+			立法会				PU
+			发达				NN
+			红十字				NN
+			分				NN
+			级				NN
+			不足				PU
+			优惠				NN
+			「				JJ
+			并				VE
+			儿童				VV
+			重新				VV
+			出口				CD
+			通过				DEC
+			直接				PU
+			设立				NN
+			及时				VV
+			美元				DEG
+			规定				NN
+			分歧				PU
+			主办				DEC
+			值得				NN
+			主体				NN
+			其中				PU
+			措施				PU
+			件				NN
+			开拓				NN
+			投资者				VV
+			告诉				NN
+			星期二				PU
+			机构				AD
+			存在				NN
+			奋斗				PU
+			控制				P
+			如此				VA
+			桥				PU
+			部长				NR
+			保税区				VV
+			提出				AS
+			北京				NN
+			「				DT
+			，				PU
+			俄				NR
+			步				PU
+			汽车				PU
+			居留权				NN
+			农				NN
+			轮				PU
+			访问				DEC
+			二				M
+			实施				AS
+			日趋				VA
+			减少				CD
+			名				PU
+			资产				NN
+			标志				AS
+			规划				PU
+			这样				VV
+			游泳				NN
+			开放				CC
+			供				NN
+			仍然				VV
+			共				VV
+			银行				NR
+			多				VV
+			纺织				NN
+			伪造				NN
+			金额				AD
+			５				PU
+			审议				PU
+			储蓄				NN
+			例				AD
+			新闻				CC
+			给予				JJ
+			增加				CD
+			鼓励				NN
+			调整				CC
+			起来				PU
+			配套				NN
+			一九九七年				NN
+			加工				PU
+			纪录				PU
+			国民				NN
+			一致				VV
+			英国				PU
+			下				M
+			突破				PU
+			领域				LC
+			外				PU
+			兵团				VV
+			把				NR
+			西门子				NN
+			以上				DEC
+			伊				VV
+			下降				VV
+			上				AD
+			降低				NN
+			相继				VV
+			纪念				NN
+			优质				NN
+			完成				AS
+			组成				DEC
+			秘密				NN
+			球员				AD
+			处理				PU
+			届时				PU
+			原				NN
+			合作				DEC
+			、				JJ
+			京九				NN
+			美元				DEC
+			会议				VV
+			国家级				NN
+			就				VC
+			成立				DEC
+			在				VA
+			世界				OD
+			经营				PU
+			展示				NN
+			加强				P
+			银牌				PU
+			银行				AD
+			集团				VV
+			产品				AD
+			向前				VV
+			推出				CD
+			一致				PU
+			人				DEG
+			先生				VV
+			主席				VV
+			通过				JJ
+			和				DT
+			三亿				M
+			基础				PU
+			效益				VA
+			球员				DEG
+			香港				NR
+			世界				NN
+			开始				AS
+			也门				NN
+			民俗				NN
+			欧元				DEC
+			冠军				DEC
+			居				NR
+			成绩				AD
+			１９９９年				NR
+			讨论				PU
+			重庆				NN
+			资金				NN
+			而				NR
+			由于				NN
+			举办				NN
+			天				PU
+			亲子				NN
+			四川				NN
+			－－				PU
+			设				P
+			银行				PU
+			世界				JJ
+			俄				NN
+			中国				OD
+			建成				P
+			作				NN
+			带来				AS
+			天津				NR
+			结束				LC
+			还				VV
+			原				NR
+			实现				NR
+			区				DEG
+			防范				NN
+			追加				NN
+			三十日				NN
+			建设				CD
+			批准				VV
+			冲突				PU
+			审计				NN
+			保税区				PU
+			见				NN
+			澳				NR
+			它们				VV
+			骨骼				NN
+			好				DEC
+			及				CD
+			化工				NN
+			学院				VV
+			没有				NN
+			多云				PU
+			日本				OD
+			日前				P
+			中国				PU
+			是				JJ
+			技术				VV
+			公路				DEG
+			短期				NN
+			居				NN
+			普遍				VV
+			届				PU
+			》				CC
+			金融				PU
+			得				AD
+			机场				AD
+			顺利				NN
+			以				DT
+			重视				VV
+			去年				DT
+			三百				M
+			明年				DEG
+			为				NN
+			称				PU
+			货物				NN
+			发展				AD
+			双方				NN
+			紧密				VV
+			成为				NT
+			十九				M
+			后				AD
+			三				CC
+			制度				VV
+			七				M
+			应用				NN
+			超额				VV
+			雕塑				PU
+			推出				AS
+			更				VA
+			三千				M
+			总额				VV
+			居民				VV
+			森林				NN
+			产权				NN
+			电力				NN
+			文章				PU
+			是				OD
+			相比				PU
+			推动				NN
+			规模				JJ
+			预期				NN
+			总值				CD
+			责任				NN
+			码头				NN
+			起				PU
+			和				VA
+			并				AD
+			的				NT
+			正				AD
+			研讨会				PU
+			彻底				VV
+			对				PU
+			程控				NN
+			日本				NN
+			重点				VC
+			）				NN
+			成员				PU
+			教育				PU
+			―				CD
+			蔬菜				NN
+			里海				NN
+			吨				LC
+			回归				LC
+			服务				CC
+			受				NN
+			可				VV
+			相				VV
+			辽宁				VV
+			了				NN
+			也				P
+			给				DT
+			世界				VV
+			多				LC
+			德国				NN
+			外电				NN
+			参与				NN
+			上				PU
+			本				M
+			十四日				NN
+			今年				OD
+			先后				P
+			一百亿				M
+			不				JJ
+			温度				CD
+			三十一				M
+			提高				AS
+			金牌				PU
+			事业				AD
+			比较				PU
+			西南				NN
+			比赛				AD
+			交流				PU
+			前所未有				DEC
+			白皮书				VV
+			第五				M
+			宗旨				PU
+			集装箱				JJ
+			介绍				PU
+			代表团				NN
+			选手				NR
+			电气				NN
+			初				PU
+			和平				CC
+			商品				DEG
+			高速				NN
+			开始				AD
+			正在				P
+			信息				PU
+			设备				CC
+			为				PU
+			最近				AD
+			美元				PU
+			首				NN
+			一九九七年				VV
+			委员				PU
+			具有				AD
+			工程				VV
+			具有				VA
+			合作				VV
+			的				P
+			英国				NN
+			加大				NN
+			从此				VV
+			通讯				ETC
+			曾				CD
+			美				VV
+			社会主义				NN
+			过程				LC
+			表示				AD
+			防治				NN
+			口岸				PU
+			企业				P
+			项目				VV
+			最后				VV
+			哥伦比亚				NN
+			因				VV
+			」				PU
+			四				NN
+			巴黎				NN
+			设备				ETC
+			外				VV
+			国有				JJ
+			、				NR
+			新疆				NR
+			商务				NN
+			新兴				NN
+			组成				PU
+			外销				NN
+			食品				NN
+			文化				NN
+			五千万				M
+			网球				NN
+			本				NN
+			报告				PU
+			名				NR
+			长期				NN
+			合作				NN
+			第八				M
+			韩国				VV
+			建成				VV
+			就				NR
+			那				M
+			一九九七年				PU
+			重要				NN
+			必须				P
+			二十五				M
+			完善				NN
+			连续				VV
+			方案				VV
+			可能				P
+			长期				VV
+			办理				NN
+			临时				NN
+			分配				VV
+			技术				PU
+			撞车				NN
+			互联				NN
+			祸				PU
+			米				NN
+			华				NN
+			据				AD
+			发行				NN
+			结合				VV
+			以上				NN
+			里				AD
+			，				NN
+			帮助				NN
+			铁路				PU
+			海关				NN
+			社会				JJ
+			５				M
+			财团				PU
+			同时				VV
+			股				NN
+			能力				PU
+			历				M
+			工作				AD
+			华盛顿				NT
+			政策性				NN
+			建立				AS
+			促进				NN
+			调解				NN
+			以及				DT
+			代理				NN
+			系列				VA
+			部分				NN
+			过				DEC
+			福建				PU
+			走				NN
+			环保				NN
+			个				NN
+			香港				PU
+			资金				DEG
+			良好				DEC
+			人				P
+			人员				CD
+			估计				PU
+			，				CS
+			低				PU
+			名列				OD
+			磋商				PU
+			劳动力				NN
+			码头				AD
+			百万				M
+			回归颂				PU
+			却				VC
+			过				CD
+			总值				DEG
+			发现				NN
+			加快				VV
+			又				VA
+			需				VV
+			中国				VA
+			台北				PU
+			尚				VV
+			）				AD
+			管理				PU
+			前				CD
+			了				P
+			广州				PU
+			他				NN
+			公司				CC
+			按				NN
+			百分之十				LC
+			就任				NR
+			印度				NN
+			开展				JJ
+			―				NR
+			居民				DEG
+			十六				M
+			责任				PU
+			深业				NN
+			二十九日				NN
+			危机				DEG
+			石油				PU
+			谁				VV
+			法规				VV
+			夺得				NN
+			实现				CD
+			晚				P
+			规则				PU
+			已				VV
+			根据				DT
+			逐步				VV
+			行政区				NN
+			良好				NN
+			届				DT
+			投资额				AD
+			产品				DEG
+			国籍法				PU
+			都				P
+			浙江				NN
+			高				JJ
+			仅				P
+			战略				NN
+			以上				DEG
+			前				DEG
+			参赛				NN
+			贷款				CD
+			拥有				CD
+			三				VC
+			中国				DT
+			东南亚				NN
+			系统				PU
+			推出				PU
+			成为				NN
+			２９日				P
+			创汇				CD
+			率领				DEC
+			４				NN
+			种				JJ
+			第二				PU
+			来自				NR
+			陕西				VV
+			较为				VA
+			移交				NN
+			问题				CC
+			年				JJ
+			韩				NN
+			仍				VC
+			选手				VV
+			集装箱				NN
+			影响				VV
+			长				NN
+			上午				P
+			修订				PU
+			由于				CD
+			宣布				VV
+			用				PU
+			公司				NR
+			从				DT
+			月				PU
+			受理				NN
+			关系				P
+			仪式				PU
+			组成				NN
+			交易				NN
+			新疆				NN
+			形势				AD
+			企业				NR
+			仍然				AD
+			及				DT
+			专门				VV
+			末				PU
+			集团				NN
+			国籍				NN
+			保持				NR
+			人				NN
+			解决				NN
+			重点				P
+			销售				PU
+			、				VE
+			均				VV
+			迅速				PU
+			然而				PU
+			充满				NN
+			内容				PU
+			同				NR
+			位				NN
+			二十八日				NN
+			户				NN
+			于				NT
+			把				VV
+			会谈				LC
+			；				NN
+			出现				AS
+			１０				M
+			在				AD
+			地球				NN
+			优秀				NN
+			祖国				DEG
+			平稳				VV
+			机会				PU
+			但				VV
+			进一步				NN
+			小浪底				NN
+			信贷				NN
+			主管				NN
+			二日				NN
+			因				NN
+			其中				AD
+			人口				CC
+			需要				PU
+			次				DT
+			申诉				NN
+			企业				LC
+			一九九四年				LC
+			暂				VV
+			”				AD
+			人民币				NN
+			市				AD
+			科技				NN
+			国家				PU
+			大				PU
+			领域				VV
+			对手				PU
+			分行				AD
+			新增				NN
+			由				CD
+			之间				AD
+			模式				PU
+			国际				VV
+			时				AD
+			晴				PU
+			国际性				NN
+			可				P
+			最				AD
+			讲话				VV
+			市场				LC
+			发挥				NN
+			大部分				NN
+			报				NR
+			这				P
+			未来				PU
+			办法				PU
+			世纪				DEC
+			任务				VC
+			比				DT
+			发生				PU
+			但				NR
+			电				NR
+			财产				NN
+			行业				VV
+			三峡				NN
+			高级				NN
+			友好				NN
+			严重				VV
+			达				AD
+			感到				AD
+			五				JJ
+			做出				NN
+			一切				NN
+			完善				DEC
+			盐				NN
+			世界				DT
+			就				P
+			委托				NR
+			质量				VV
+			华人				NN
+			工业				PU
+			采取				VV
+			福州				NN
+			削弱				PU
+			得到				AS
+			建成				NR
+			大会				VV
+			》				ETC
+			，				VA
+			商品				VV
+			二十四				M
+			美国				JJ
+			才				VV
+			是				VA
+			北京				PU
+			有				AS
+			成果				VV
+			给				PN
+			明年				NT
+			本人				VV
+			元				DEC
+			目的				VC
+			票				VV
+			和				OD
+			又				P
+			违法				NN
+			发展				P
+			计划				CC
+			２８日				VV
+			过渡				PU
+			人士				PU
+			地				DEG
+			收入				AD
+			起				NN
+			同				VV
+			规模				VV
+			集				NN
+			占				JJ
+			有关				VV
+			再				AD
+			水				NN
+			初步				NN
+			机遇				PU
+			倍				PU
+			山东省				NR
+			华侨				NN
+			产量				DEG
+			经过				CD
+			宣布				PU
+			》				DEG
+			下				PU
+			改善				AS
+			势头				PU
+			状况				PU
+			又				VE
+			说				PU
+			中国				CD
+			创造				NN
+			李光真				PU
+			自由				VV
+			制定				DEC
+			将				PN
+			了解				PU
+			公司				VV
+			加大				P
+			较大				NN
+			方针				PU
+			话				PU
+			银行				JJ
+			效益				VV
+			吉尔吉斯				NN
+			日本				ETC
+			既				VV
+			文件				VV
+			着				PN
+			实施				NN
+			农业				VV
+			健康				PU
+			海内外				NN
+			以来				DEG
+			工商				NN
+			或				P
+			《				NT
+			改革				AD
+			健康				DEV
+			亚洲				PU
+			先生				NR
+			统计				PU
+			――				NN
+			美国				DEG
+			又				AD
+			人均				NN
+			设施				NN
+			行动				PU
+			讨论				AS
+			维护				NN
+			BeginFlag				VA
+			合同				VV
+			企业				AD
+			获得				DEC
+			新				NN
+			她				VV
+			管理				NN
+			扩建				NN
+			机关				VV
+			世纪				DEG
+			借款				NN
+			受到				AS
+			消息				PU
+			有				NN
+			总额				DEG
+			零售				NN
+			名将				NR
+			恢复				P
+			开				NN
+			如				NR
+			成员				VV
+			竣工				VV
+			标准				PU
+			感谢				PU
+			年度				NN
+			促进				AS
+			以色列				NN
+			香港				CD
+			水平				VV
+			成都				NT
+			市民				VV
+			面临				DEC
+			三十一日				NN
+			光纤				NN
+			收入				DEG
+			全球				NN
+			深入				VV
+			副部长				NR
+			公里				PU
+			产业				NN
+			组织				NN
+			、				VV
+			业务				NN
+			最近				VV
+			五百				M
+			第二				M
+			获准				P
+			满足				NN
+			水平				AD
+			造成				NN
+			分支				NN
+			经济				VA
+			消息				VV
+			它				AD
+			均				VE
+			稀土				NN
+			今年				NR
+			了解				CC
+			累计				NN
+			政府				NT
+			节日				NN
+			检查				NN
+			造成				DEC
+			在				P
+			运用				NN
+			成绩				VC
+			香港				NN
+			不仅				VV
+			公路				VV
+			其				AD
+			山泥				NN
+			而				P
+			服务				NN
+			欢迎				NR
+			建成				PU
+			奖				PU
+			使				NR
+			给				NR
+			收入				PU
+			强				PU
+			香港				DEG
+			半				M
+			以				PN
+			即				VV
+			去年				NT
+			项				JJ
+			可能				VV
+			出席				DT
+			的				VE
+			特别是				P
+			英				PU
+			京				VV
+			外商				P
+			户				PU
+			上				M
+			仪式				P
+			关系				VV
+			出现				JJ
+			价格				NN
+			大会堂				VV
+			投资				VV
+			去年				VV
+			上升				VV
+			没有				DT
+			还				AD
+			实习生				NR
+			生产				AD
+			学习				NN
+			贸发				NN
+			迎接				NR
+			结合				PU
+			认为				DT
+			来				VV
+			生产				NN
+			大会				JJ
+			人士				P
+			五十亿				M
+			体育				CC
+			发行				PU
+			外资				CD
+			跳远				NN
+			十二月				NT
+			经过				NN
+			努力				PU
+			参加				NN
+			和				PN
+			海口				NN
+			对话				PU
+			数量				PU
+			美国				AD
+			，				LB
+			规定				VV
+			必要				NN
+			设立				AS
+			技术				DEG
+			天津				VV
+			双边				NN
+			广东				NN
+			利益				PU
+			成效				PU
+			委员会				AD
+			最				VA
+			显著				NN
+			报道				VV
+			大学				VV
+			改革				VV
+			港元				PU
+			担任				NN
+			设施				VV
+			解释				VV
+			设立				NR
+			建设				CC
+			了				PU
+			中长期				NN
+			经				NR
+			学术				NN
+			做				AS
+			为				NT
+			从				NN
+			占				AS
+			完成				LC
+			旅游				PU
+			邀请				P
+			现代化				PU
+			负责				VV
+			全				M
+			《				JJ
+			人们				VV
+			包括				P
+			人员				DEG
+			宣誓				PU
+			天				LC
+			她				DEG
+			在				NR
+			增幅				VV
+			增强				AS
+			消费品				NN
+			也				VC
+			年				CD
+			所有				DEG
+			目前				DEG
+			跨				NN
+			人				VC
+			竞争力				PU
+			现在				AD
+			主张				VV
+			支持				VV
+			负责人				NR
+			信用				NN
+			改造				PU
+			大陆				VV
+			上				P
+			方面				DEG
+			有				DT
+			环境				NN
+			扩大				P
+			人士				VV
+			建立				CD
+			公司				NN
+			它们				DEG
+			职工				NN
+			三万				M
+			」				VV
+			互相				VV
+			草案				AD
+			因为				DT
+			入狱				CD
+			坚实				DEC
+			成功				DEC
+			农业				JJ
+			文件				PU
+			持续				PU
+			要				BA
+			建设				AD
+			今日				PU
+			法				VV
+			尚				VE
+			保税				NN
+			，				SB
+			过去				DEC
+			格局				PU
+			不同				PU
+			纽约				NT
+			》				LC
+			》				NN
+			联合国				NN
+			最后				CD
+			增强				NN
+			工程				AD
+			其中				NN
+			除				NR
+			１日				VV
+			安盟				NN
+			（				VV
+			愿意				P
+			而且				NN
+			二				VC
+			相对				VA
+			政策				AD
+			服务				DEC
+			支持				NR
+			四十八				M
+			就				JJ
+			，				BA
+			代表				NR
+			男子				CD
+			政协				NN
+			人员				NN
+			跻身				NN
+			建				NN
+			这里				VV
+			BeginFlag				NR
+			其中				NR
+			公路				AD
+			来				P
+			石				PU
+			、				DT
+			工业				DEG
+			外				NN
+			小				PU
+			九月				NT
+			生态				NN
+			上				DEG
+			机构				NN
+			公共				NN
+			之间				VV
+			文化				VV
+			有				AD
+			运动员				NR
+			严格				DEC
+			地				VV
+			作				JJ
+			提出				DEC
+			发展				LC
+			竞争力				VV
+			经济				VV
+			今年				PU
+			产值				VV
+			到				VV
+			推广				NN
+			进入				OD
+			不错				PU
+			没有				VV
+			则				AD
+			时				PU
+			“				CD
+			非常				VV
+			今天				AD
+			摄影				NN
+			勘探				NN
+			伊				NN
+			免				NN
+			东道主				NR
+			方向				PU
+			”				PU
+			一				CD
+			赴				NR
+			坚决				VV
+			潜力				PU
+			发现				DEC
+			世界				LC
+			国外				NN
+			、				CD
+			产品				NN
+			证券法				VV
+			国				CC
+			民间				NN
+			村民				NN
+			华人				VV
+			经贸				NN
+			成立				NN
+			新闻				PU
+			会议				DEC
+			中国				NR
+			以				NR
+			２１				NN
+			三日				NN
+			第六				M
+			三角				NN
+			前列				PU
+			尼龙				NN
+			截至				NT
+			西方				NN
+			BeginFlag				DT
+			大量				NN
+			非常				VA
+			启动				PU
+			证明				PU
+			调控				NN
+			作				AS
+			一日				LC
+			合资				PU
+			理事会				NN
+			族				NN
+			面向				OD
+			公众				NN
+			民用				NN
+			短				NN
+			名				NN
+			国家				AD
+			新				NR
+			３１日				NN
+			结果				VV
+			一九九八年				NN
+			法国				AD
+			机构				P
+			变				PU
+			交易				PU
+			官方				NN
+			高达				CD
+			境外				NN
+			发出				DEC
+			中心				VV
+			；				DT
+			有				P
+			贸易				VV
+			达到				NN
+			重要				DEC
+			略				VV
+			位置				PU
+			水污染				NN
+			发展				PU
+			欧佩克				NN
+			就				AD
+			５００				M
+			公司				CD
+			按照				NN
+			海关				VV
+			富士通				NN
+			收入				CD
+			除				NN
+			名义				NN
+			国际				LC
+			资源				VV
+			旅行				NN
+			铁路				NN
+			教授				VV
+			澳门				VV
+			主办				PU
+			了				CD
+			东部				NN
+			确立				AS
+			家				AD
+			后				CD
+			仍				VV
+			加强				CD
+			竞争				NN
+			部署				PU
+			降低				CD
+			三				NN
+			会				AD
+			要求				DT
+			泊位				CD
+			起来				DEC
+			的				DT
+			显示				AS
+			货币				VV
+			一九九七年				NT
+			北约				VV
+			稳定				DEC
+			一些				JJ
+			领先				NN
+			而				VC
+			“				NN
+			十一日				NN
+			基层				NN
+			稳定				NN
+			年				PU
+			滥用				NN
+			次				PU
+			关系				NN
+			资源				NN
+			千				M
+			标题				PU
+			启动				LC
+			的				VA
+			北京				NR
+			工程				CD
+			，				NT
+			会				VC
+			现场				VV
+			试点				NN
+			提供				CD
+			首要				NN
+			大量				DEG
+			增加值				CD
+			被				VV
+			问题				VA
+			中				CD
+			草案				VV
+			经验				PU
+			外资额				CD
+			程序				PU
+			增长				PU
+			向				NN
+			如下				PU
+			贷款				AD
+			继续				VV
+			再次				VV
+			一样				PU
+			协议				NN
+			年				NT
+			此				NN
+			名列				NN
+			取得				VA
+			贬值				PU
+			月				NN
+			前				P
+			活动				DEC
+			南昆				NN
+			人力				NN
+			台商				VV
+			十二				M
+			尼克松				NN
+			加工				NN
+			增加				NN
+			後				PU
+			提出				PU
+			迅速				VV
+			不仅				P
+			１４				M
+			６				M
+			上海				NR
+			３				M
+			涉及				NN
+			必须				VV
+			》				NT
+			恐怖				NN
+			、				P
+			无				NN
+			明年				NR
+			海洋				NN
+			联邦				NN
+			会议				PU
+			情况				VV
+			而				NT
+			标准				VV
+			吸收				NN
+			分				PU
+			武汉				NT
+			国外				VV
+			继续				AD
+			工程				CC
+			有				PU
+			造成				JJ
+			１				CC
+			日本				PU
+			实现				NN
+			杜邦				NN
+			等				AD
+			为了				VV
+			吨				NN
+			正常				NN
+			元				LC
+			思想				NN
+			大幅度				VV
+			如				VV
+			吸引力				PU
+			代表处				PU
+			为主				DEC
+			香江				NN
+			把				PN
+			高				PU
+			宣传				NN
+			说				PN
+			事				PU
+			十亿				M
+			民族				DEG
+			台湾				DEC
+			效率				PU
+			计划				PU
+			表示				JJ
+			北京				NT
+			进行				CD
+			武汉				VV
+			商业				PU
+			基础				NN
+			计划				AD
+			美				PN
+			部队				AD
+			BeginFlag				OD
+			污水				NN
+			１月				NT
+			大				M
+			经济				NN
+			显示				PU
+			东方				NN
+			一九九八年				NT
+			钢铁				NN
+			历史				JJ
+			迎				NN
+			开放				NN
+			起				P
+			１９９７年				NT
+			随着				NN
+			已				SB
+			机械				PU
+			通过				NR
+			科学				NN
+			四月				NT
+			的				VC
+			预计				P
+			亚洲				NN
+			中国				NT
+			严重				NN
+			之间				DEG
+			第七				M
+			届				OD
+			了				PN
+			技术				AD
+			总统				NN
+			护照				NN
+			最				VV
+			银行				P
+			前来				VV
+			着				DT
+			男				PU
+			划分				NN
+			广东				AD
+			总				NN
+			约旦				NN
+			方面				PU
+			出				VA
+			质量				PU
+			段				CC
+			建立				NN
+			政府				PU
+			（				AD
+			向				JJ
+			机制				PU
+			上述				CD
+			只有				CD
+			中共				NR
+			八				M
+			结构				VV
+			”				LC
+			状况				VV
+			财政司				NN
+			其中				VE
+			效果				PU
+			参加				NR
+			过				NN
+			利润				CD
+			条件				DEC
+			对				DT
+			项目				CC
+			日				LC
+			南非				NN
+			一九九七年				DEG
+			企业				DEC
+			副市长				NR
+			营业性				NN
+			进入				NT
+			深圳				NT
+			近日				P
+			该				NN
+			开幕				PU
+			受				NR
+			台				NN
+			笔				NN
+			；				NT
+			黄河				NN
+			领域				AD
+			持续				VV
+			德国				NR
+			《				VV
+			政治				PU
+			把				NN
+			二百多				M
+			区				LC
+			国务院				VV
+			事件				PU
+			大批				NN
+			明显				PU
+			共识				PU
+			官员				PU
+			国籍				PU
+			实现				PU
+			生活				AD
+			岭澳				NN
+			作出				AS
+			BeginFlag				PN
+			前				AD
+			革命				NN
+			公报				VV
+			秒				CD
+			突出				NN
+			进口				CD
+			改革				NN
+			钱其琛				VV
+			委员会				PU
+			等				NN
+			任何				JJ
+			８				M
+			系统				AD
+			这				VV
+			电子				NN
+			速度				PU
+			每				NN
+			原则				VV
+			／				NN
+			高山				NN
+			华侨				PU
+			固定				NN
+			港				NN
+			投资者				DEG
+			陆上				NN
+			行政区				PU
+			公司				DEC
+			部分				VV
+			但				AD
+			保持				AS
+			农业				PU
+			能耗				NN
+			省				LC
+			朱（容加金旁）基				VV
+			困难				PU
+			乐观				NN
+			恢复				VV
+			出生				DEC
+			间				PU
+			保持				P
+			各自				NN
+			明年				NN
+			投资				CD
+			十				NN
+			结构				NN
+			会				P
+			设				NN
+			加拿大				NN
+			气氛				PU
+			百分之六				PU
+			咨询				NN
+			政策				CC
+			课程				PU
+			看来				PU
+			开工				VV
+			全				NR
+			韩国				NR
+			占				CD
+			货币				DEG
+			宣布				NN
+			一日				VV
+			举行				NN
+			“				JJ
+			规模				DEC
+			项目				JJ
+			指数				P
+			暂时				VV
+			任何				NN
+			出席				NN
+			总裁				NR
+			低				DEC
+			之外				PU
+			法律				NN
+			发生				P
+			胞				NN
+			９月				NT
+			会				VE
+			问题				DEC
+			瑞典				NN
+			历史				LC
+			的				JJ
+			死亡				PU
+			快				DEC
+			作品				PU
+			二				CD
+			私营				NN
+			东京				NT
+			改造				JJ
+			保障				PU
+			部队				PU
+			；				CC
+			安全				VV
+			英国				NR
+			无法				VV
+			欧元区				NN
+			过				JJ
+			认真				VV
+			分别				VC
+			石油				NN
+			到				CD
+			仅				NR
+			央行				AD
+			BeginFlag				VV
+			伦敦				NT
+			住房				NN
+			政府				DEG
+			进入				NR
+			至今				AD
+			根据				PU
+			适应				NN
+			推动				AS
+			福州				VV
+			而且				VV
+			江苏				PU
+			面积				VV
+			致力于				VV
+			离开				NR
+			曾				VV
+			改进				NN
+			证交所				VV
+			代表				P
+			放				P
+			推动				NR
+			入				NN
+			据				JJ
+			韩国				DEG
+			网				LC
+			危机				DEC
+			现实				PU
+			武器				NN
+			规范				NN
+			设计				PU
+			态势				PU
+			获得				AS
+			交流				AD
+			流域				NN
+			今天				P
+			题				VC
+			一				CC
+			提供				AD
+			上				OD
+			中				AD
+			的				NR
+			对				VV
+			开通				PU
+			大				JJ
+			上				DT
+			今天				VV
+			这				NN
+			资本				PU
+			用户				AD
+			工作				DEG
+			投资额				VV
+			设备				PU
+			中				PU
+			代表团				AD
+			高等				NN
+			股市				VV
+			保险				NN
+			申请				NN
+			四十				M
+			注册				DEC
+			受到				JJ
+			球员				VV
+			由于				VV
+			分子				VV
+			大				VV
+			最大				NN
+			产值				AD
+			很大				NN
+			舆论				VV
+			发售				PU
+			解决				PU
+			七月				NT
+			学生				AD
+			发行				CC
+			位				VV
+			由				NR
+			六日				NN
+			“				VA
+			１９９８年				NT
+			今年				NT
+			水泥				NN
+			他们				DEG
+			香港				AD
+			工作				DEC
+			集团				AD
+			国际				NN
+			同比				VV
+			合资				VV
+			手段				PU
+			成果				PU
+			行业				AD
+			埃及				NN
+			建设				DEG
+			前				VV
+			开采				NN
+			发展				DEG
+			法				PU
+			如何				VV
+			单一				NN
+			政府				VV
+			出口				PU
+			和				CD
+			中外				NN
+			先				VV
+			通				NN
+			规定				PU
+			接近				NN
+			将				VE
+			网络				AD
+			哥斯达黎加				NN
+			决定				PU
+			分别				VV
+			十				M
+			事务处				NN
+			数百				M
+			知名				NN
+			登记				NN
+			榜首				PU
+			下午				P
+			和				PU
+			不				VV
+			他				DEG
+			中亚				NN
+			有利于				NN
+			当地				DEG
+			正				VC
+			但是				PU
+			核				NN
+			学会				NN
+			居留权				DEC
+			条				OD
+			边境				NN
+			指导				NN
+			得到				NN
+			销售				NN
+			２３日				NN
+			交换				AS
+			稳步				VV
+			当局				VV
+			工程				NN
+			主题				DEC
+			厂商				VV
+			具有				JJ
+			按				JJ
+			百分之十五				PU
+			寻找				NN
+			轮				NN
+			主要				NN
+			收购				NN
+			第四				M
+			九十年代				LC
+			航电				NN
+			业务				PU
+			岁				PU
+			明确				VV
+			与				PN
+			起				AS
+			兼				NN
+			乡镇				NN
+			武汉				NN
+			人民币				PU
+			钱其琛				P
+			３１				M
+			中外				JJ
+			产业				DEG
+			９				M
+			待遇				PU
+			航天				NN
+			商务				DEG
+			行政区				OD
+			当年				VV
+			扶持				NN
+			巨大				DEC
+			人民				NN
+			问题				VV
+			方面				AD
+			二				NN
+			邮政				NN
+			其他				NR
+			建交				CD
+			又				CD
+			政策				NN
+			被告				VV
+			）				VV
+			运动会				NN
+			香港				NT
+			》				VV
+			依赖				NN
+			联盟				PU
+			主任				PU
+			邓小平				NN
+			采访				LC
+			城市				NR
+			股市				NN
+			作出				VA
+			６				PU
+			深圳				DEG
+			入境处				NN
+			中国人				VV
+			机构				VV
+			作出				AD
+			海南省				NN
+			四川省				NN
+			一些				AD
+			人员				AD
+			山东				VV
+			预测				PU
+			空袭				NR
+			龙头				PU
+			表现				VV
+			二百				M
+			兴建				PU
+			材料				PU
+			资源				PU
+			合作				ETC
+			湖北				NR
+			地处				NR
+			领导				NN
+			个				AD
+			传统				DEG
+			风险				PU
+			、				PU
+			；				CD
+			都				AD
+			日益				VV
+			行政区				DEG
+			成为				AD
+			４００				M
+			存款				PU
+			港口				VV
+			去年				AD
+			国				DEC
+			过去				CD
+			一半				PU
+			太湖				NN
+			不				AD
+			获得				NN
+			工作				PU
+			把				DT
+			截止				NT
+			一九九九年				NT
+			国				P
+			机场				PU
+			其中				P
+			正常				VV
+			控股				PU
+			最近				PU
+			动工				PU
+			三千万				M
+			码头				PU
+			、				CC
+			农业				CC
+			希望				VV
+			同胞				PU
+			成员国				NN
+			监督				PU
+			智能				NN
+			购买				PU
+			详细				NN
+			１９９７年				VV
+			”				NN
+			保证				AS
+			天				AD
+			一直				VC
+			变化				PU
+			由				DT
+			健康				VV
+			债券				PU
+			取得				DEC
+			深圳				VV
+			让				DT
+			利用				DT
+			批准				PU
+			决策				PU
+			号				PU
+			；				PU
+			初步				VV
+			销售额				VV
+			澳				NN
+			交流				NN
+			比				NN
+			」				DEC
+			位				NR
+			祖国				PU
+			中国				AD
+			个				VA
+			至				NR
+			刚刚				VV
+			从事				NN
+			部				PU
+			传销				NN
+			保持				JJ
+			总理				VV
+			连				VV
+			方				AD
+			代表				VV
+			合同				PU
+			「				VV
+			对				JJ
+			侨胞				PU
+			基金				P
+			召开				PU
+			使				JJ
+			费用				PU
+			发展				NR
+			人才				PU
+			历史				NN
+			用户				VV
+			山东				NN
+			名誉				NN
+			各				M
+			说				NN
+			高				DEC
+			这				M
+			货币				NN
+			制定				NN
+			茉织华				NN
+			四十多				M
+			孔子				NN
+			陆续				VV
+			共同				NN
+			增多				PU
+			全国性				NN
+			上半年				PU
+			均				AD
+			时间				AD
+			银行				VC
+			此外				PU
+			英				VV
+			下降				CD
+			鸟类				NN
+			目前				VV
+			作为				NN
+			原料				PU
+			了				VV
+			社会				NN
+			消费者				NN
+			土力				NN
+			中心				DEG
+			八十				M
+			岸				DEG
+			传媒				NN
+			余额				VC
+			更				VV
+			熊猫				NN
+			威康				NN
+			向				PN
+			起				AD
+			民生				NN
+			后				DEG
+			收入				VV
+			座				NN
+			全				NN
+			招待会				LC
+			城镇				NN
+			《				NN
+			选配				NN
+			…				PU
+			协会				VV
+			仅				VC
+			现				VE
+			有				VA
+			元				VV
+			紧急				VV
+			民营				NN
+			欠缴				NN
+			一万				M
+			永远				VV
+			物价				JJ
+			要				P
+			五百万				M
+			中心				AD
+			组织				CC
+			美国				P
+			高尔夫球				NN
+			今天				PU
+			步伐				AD
+			法国				PU
+			目的				PU
+			生产				PU
+			省级				NN
+			组织				DEG
+			了				DT
+			状况				AD
+			战胜				AS
+			业者				AD
+			融资				PU
+			包括				PU
+			一九九六年				PU
+			大力				VV
+			国内				NN
+			人口				PU
+			买卖				NN
+			十分				VA
+			生命				NN
+			业余				NN
+			基本				NN
+			成立				CD
+			多				NN
+			贸易				AD
+			期				VV
+			利用				JJ
+			举行				PU
+			４				M
+			会议				NT
+			专项				NN
+			身分				NN
+			福建省				NN
+			香港				LC
+			规模				VA
+			是				NR
+			或				VV
+			以及				P
+			美元				NN
+			美国				PU
+			存款				NN
+			自身				NN
+			出现				NN
+			半				NN
+			大陆				PU
+			出				AD
+			以来				PU
+			阅读				NN
+			目前				P
+			由				JJ
+			发展中				NN
+			次				JJ
+			，				NR-SHORT
+			开业				DEC
+			机组				PU
+			美国				NN
+			为				AD
+			调查				VV
+			转变				PU
+			地区				CC
+			购买				NN
+			外商				VV
+			记者				NR
+			累计				AD
+			因为				NN
+			优化				NN
+			合同				NN
+			港				NR
+			一定				NN
+			活动				AD
+			联合国				DEG
+			金属				NN
+			约				VE
+			同时				PU
+			在				PN
+			加入				NR
+			典礼				LC
+			在				OD
+			决赛				LC
+			不仅				VC
+			立法				NN
+			正				P
+			乱				VV
+			达成				DEC
+			联合				VV
+			化工				PU
+			今年				CD
+			如				NN
+			与				NR
+			十四				M
+			需				NN
+			状态				PU
+			卢森博格				VV
+			工程				DEG
+			协会				AD
+			减少				NN
+			援助				NN
+			总额				CD
+			「				AD
+			客户				VV
+			已				AD
+			其中				VV
+			坚持				NN
+			产品				VV
+			最近				P
+			金额				VV
+			减少				VV
+			上				VV
+			一起				VV
+			呈现				AD
+			搬迁				NN
+			出口				DEC
+			同胞				NN
+			法院				NN
+			完成				DEC
+			用				NN
+			形成				NN
+			四川				PU
+			建立				JJ
+			对				AD
+			准备				VV
+			提高				NN
+			步伐				PU
+			国家				DEG
+			有力				DEV
+			发现				PU
+			条				JJ
+			伙伴				NN
+			我们				NN
+			生产				DEC
+			世纪				LC
+			广西				NR
+			条				PU
+			足球				NN
+			秘鲁				NN
+			之间				PU
+			自治区				CC
+			蒙古				NN
+			名				VV
+			得				VV
+			要				VV
+			《				NR
+			从				JJ
+			整				M
+			正在				VV
+			这				VC
+			访问				PU
+			以				AD
+			建成				LC
+			花旗				NN
+			同				NN
+			日				NR
+			终于				VV
+			增长				NN
+			九				M
+			从				NR
+			席卷				PU
+			满意				PU
+			省份				PU
+			活力				PU
+			官员				VV
+			程度				PU
+			进行				AS
+			珠江				NN
+			与				CD
+			湄州湾				NN
+			（				OD
+			合作				AD
+			态度				PU
+			能源				CC
+			立即				VV
+			人大				NN
+			草案				PU
+			则				VC
+			高				VV
+			把				CD
+			保护				NN
+			接受				NR
+			组建				NN
+			由				NT
+			２				M
+			一				M
+			干部				NN
+			架				NN
+			旨				VV
+			先后				VV
+			与				DT
+			证件				PU
+			湖北				NN
+			总值				P
+			参加				P
+			五十多				M
+			计划				P
+			于				NR
+			成立				P
+			排放				NN
+			内地				NN
+			阿拉伯				NN
+			能源				PU
+			加紧				VV
+			压力				PU
+			由				NN
+			机构				CD
+			古巴				PU
+			港				AD
+			资格				PU
+			业务				AD
+			之中				PU
+			进展				VA
+			喜				VV
+			液化				NN
+			吞吐				NN
+			澳门				NN
+			多				DEG
+			第一				PU
+			实行				NN
+			表示				VV
+			欧盟				NN
+			书记				PU
+			可以				AD
+			军委				NN
+			篇				NN
+			法国				VV
+			但是				NR
+			军事				NN
+			五				M
+			启动				NN
+			加强				VV
+			）				NT
+			闽南				NN
+			地区				NN
+			使				DT
+			所有				P
+			ＮＢＡ				NN
+			占				NR
+			）				PU
+			港				DEC
+			种				VV
+			种				NN
+			联系				CC
+			分				CD
+			计划				VV
+			当				NN
+			产生				JJ
+			建立				VV
+			开始				VV
+			（				NT
+			工业				P
+			非法				NN
+			协议				VV
+			用				P
+			台商				NN
+			政府				P
+			管理局				VV
+			用于				NN
+			公开				VV
+			保持				NN
+			好				PU
+			领导				PU
+			切实				VV
+			增加				AS
+			公布				DEC
+			部门				CC
+			举行				DEC
+			最高				NN
+			王码				NN
+			做法				PU
+			广州				NT
+			重大				NN
+			乌克兰				NN
+			内				VV
+			里				DEG
+			最佳				NN
+			龙				PU
+			中国				DEC
+			完成				CD
+			六				NN
+			，				VC
+			地				P
+			举行				AS
+			要求				NN
+			发展				DEC
+			贷款				DEG
+			引起				NN
+			人口				CD
+			他们				VV
+			每				VV
+			保障				NN
+			另外				PU
+			是				P
+			资产				PU
+			枚				NN
+			西班牙				PU
+			中方				NN
+			男子				NN
+			年				P
+			表示				PU
+			出来				PU
+			到				NR
+			次				P
+			作出				NN
+			查询				PU
+			虽然				NR
+			发电				PU
+			他们				AD
+			块				NN
+			上海				VV
+			投入				NN
+			做出				AS
+			下半年				VV
+			环境				VV
+			日本				NR
+			控制				NN
+			大学				NR
+			沈阳				NT
+			交换				NN
+			情况				AD
+			股份制				NN
+			委托				NN
+			上市				DEC
+			采取				JJ
+			安全				CC
+			电视				NN
+			批				JJ
+			古				NN
+			运输				NN
+			集团				PU
+			室内				NN
+			属				NN
+			作出				DEC
+			力度				PU
+			人口				NN
+			采取				DT
+			会				NN
+			方				VV
+			均				P
+			危机				VV
+			上				VE
+			新闻				NN
+			会议				AD
+			增长点				PU
+			得以				VV
+			时间				LC
+			山东				NR
+			世界				AD
+			签发				NN
+			上市				PU
+			手续				PU
+			办公				NN
+			作出				JJ
+			当地				NN
+			大大				VV
+			而				DT
+			投资				DEG
+			工程				P
+			事业				VV
+			进展				PU
+			法官				VV
+			成就				PU
+			香港				DEC
+			成为				CD
+			开发区				AD
+			巨额				NN
+			未来				DEG
+			左右				PU
+			总理				NR
+			通过				AS
+			海协				VV
+			亦				VV
+			中等				NN
+			法规				PU
+			几百				M
+			总统				NR
+			安全				NN
+			基础性				NN
+			访				NR
+			时代				NN
+			经济				LC
+			杭州				NT
+			传统				NN
+			开放				DEG
+			同时				AD
+			热点				PU
+			中心				PU
+			台商				AD
+			三十三				M
+			联系				NN
+			及				PN
+			多				PU
+			围棋				NN
+			贷款				DEC
+			推进				NN
+			倪四义				PU
+			每				CD
+			――				NR
+			一				VV
+			上				CD
+			县				NN
+			通用				NN
+			外资				VV
+			近日				VV
+			为				NR
+			这些				NN
+			欢迎				NN
+			来				NN
+			市委				NN
+			同胞				VV
+			官员				NT
+			第九				M
+			参加				DEC
+			头				CD
+			小于				CD
+			上海				NT
+			解决				VV
+			造成				AS
+			届				NN
+			基地				PU
+			欢迎				PU
+			今年				LC
+			电子				PU
+			地				AD
+			中				VV
+			表现				VA
+			者				AD
+			出现				P
+			公司				AD
+			与会				NN
+			出				NR
+			施行				PU
+			成				NN
+			联盟				DEG
+			行长				NR
+			地区				PU
+			”				DEC
+			发展				VA
+			洽谈会				PU
+			做好				NN
+			协会				PU
+			二十				NN
+			成绩				PU
+			藏				NN
+			正在				AD
+			自然				NN
+			招商				NN
+			债券				NN
+			岸				NN
+			只				VV
+			举措				PU
+			俄				AD
+			个				VV
+			以及				VV
+			美				NN
+			高度				VV
+			方式				VV
+			基金				NN
+			位				JJ
+			其				VV
+			签证				NN
+			皖南				NN
+			令				NN
+			领域				DEG
+			过渡				NN
+			通过				P
+			部长				NN
+			塞				NN
+			（				CD
+			而				AD
+			以及				AD
+			产量				AD
+			制品				PU
+			实施				PU
+			奠定				AS
+			也				VV
+			基本				VV
+			而且				AD
+			致函				NR
+			董建华				VV
+			提供				JJ
+			市				JJ
+			问题				VC
+			规模				NN
+			资料				PU
+			慈善				NN
+			努力				VV
+			居				DT
+			二十多				M
+			正				VV
+			就				CD
+			所				VV
+			出发				PU
+			国有				NN
+			三				M
+			净				NN
+			但				PN
+			生产				VV
+			劳务				NN
+			中心				NN
+			投入				VV
+			新				VV
+			移动				NN
+			上市				NN
+			３０日				VV
+			从				NT
+			达到				CD
+			将				NN
+			现象				PU
+			严格				VV
+			记者				PU
+			影响				AS
+			负责				PU
+			第一				JJ
+			则				VE
+			等				DT
+			给予				NN
+			特区				NN
+			发表				DEC
+			内				AD
+			需				DEC
+			近				CD
+			雇员				VV
+			法制				NN
+			促进				NR
+			５０				M
+			，				VV
+			资讯				NN
+			体操				NN
+			但				NN
+			自然				VV
+			文化				ETC
+			」				NN
+			发展				NN
+			》				DEC
+			和				VV
+			到				NT
+			末				VV
+			总数				DEG
+			成功				VV
+			投产				PU
+			积极				DEC
+			宇宙				NN
+			授权				NN
+			召开				NN
+			武汉市				NN
+			一些				NN
+			损失				PU
+			委员会				NN
+			江泽民				VV
+			去				VV
+			百分之十				PU
+			总额				VC
+			有些				NN
+			副委员长				NR
+			提高				CD
+			「				NT
+			之前				PU
+			非洲				NN
+			国家				JJ
+			最为				VA
+			好				DEV
+			加上				NN
+			组织				DEC
+			所谓				PU
+			着				JJ
+			BeginFlag				AD
+			中				NN
+			与				VV
+			建成				AS
+			锦标赛				VV
+			关系				VC
+			欧洲				NN
+			为主				PU
+			快速				VV
+			以上				PU
+			告				NN
+			传统				PU
+			投资				NN
+			排名				OD
+			尽管				VV
+			补偿				NN
+			１９９９年				NT
+			让				PN
+			其				NN
+			区域				NN
+			条例				PU
+			天文				NN
+			十八				M
+			外交				CC
+			拉美				NN
+			主体				PU
+			仍				VE
+			过去				AD
+			辅助				NN
+			呢				PU
+			部门				VV
+			葡萄牙				NN
+			表示				NN
+			一月				NT
+			台湾				DEG
+			全体				NN
+			的				OD
+			代表团				VV
+			居民				PU
+			增长				VV
+			规范				PU
+			频繁				PU
+			天				DEC
+			经济界				NN
+			地位				PU
+			外商				NN
+			如果				NR
+			团体				PU
+			扩大				AS
+			创新				NN
+			厂家				AD
+			以				P
+			极为				VA
+			西部				NN
+			认捐				NN
+			不久				LC
+			增长				CD
+			它				DEG
+			政治局				NN
+			借用				NN
+			现				VV
+			下				CD
+			人身				NN
+			维和				NN
+			科技				PU
+			仅				CD
+			结算				NN
+			专家们				VV
+			速度				VV
+			用				CD
+			顺差				PU
+			小组				VV
+			代表				DEC
+			、				VA
+			更为				VA
+			开学				NN
+			出版社				VV
+			的				VV
+			获得				NR
+			门				PU
+			新型				NN
+			香港				CC
+			技术				NN
+			大使				VV
+			投标				NN
+			过去				DEG
+			丰富				DEC
+			目前				AD
+			我				AD
+			会长				NR
+			由于				NT
+			出口				VV
+			及				P
+			独资				NN
+			成立				AS
+			重组				PU
+			城乡				NN
+			个				JJ
+			南非				VV
+			还				P
+			主权				PU
+			合资				NN
+			他				DT
+			欧盟				DEG
+			外长				NR
+			办				NN
+			纷纷				VV
+			代表				PU
+			国				VV
+			粮食				NN
+			药物				NN
+			医院				VV
+			作为				VV
+			十一月				NT
+			高度				NN
+			多数				NN
+			，				MSP
+			不				VC
+			１３日				NN
+			来				NR
+			所有				NN
+			十				JJ
+			电路				NN
+			行政区				VV
+			首				M
+			关闭				PU
+			女				NN
+			关系				PU
+			桶				CD
+			跨国				NN
+			特别				NN
+			可能				AD
+			成为				DT
+			处理				NN
+			经济				PU
+			法国				NR
+			生活				PU
+			统一				NN
+			均				VC
+			总值				VC
+			要求				VV
+			平衡				PU
+			是否				VV
+			外交				NN
+			安理会				JJ
+			清理				NN
+			影响				AD
+			社会				AD
+			开业				PU
+			时刻				PU
+			英				P
+			补充				NN
+			互联网				LC
+			最早				VV
+			化石				PU
+			三				JJ
+			扩大				VV
+			月				NT
+			日照				AD
+			部分				PU
+					产品		DEG
+					向		NN
+					安全		DEG
+					外商		NR
+					天津		P
+					１９９０年		P
+					贸易额		NN
+					差		AD
+					这		P
+					正在		NT
+					》		NR
+					了解		NN
+					重大		M
+					更加		AD
+					部门		NN
+					包括		AD
+					移动		PU
+					一样		NN
+					台		NR
+					条例		NN
+					专家		JJ
+					质量		DEG
+					第一		DEG
+					好		AD
+					法国		PU
+					固定		PU
+					保障		PU
+					长江		P
+					时		VV
+					四		DT
+					近		NN
+					进出口		VV
+					共		M
+					联系		NN
+					技术		NN
+					“		PN
+					早		AD
+					是		NT
+					重要		M
+					并		NN
+					二十		VV
+					希望		NR
+					有		P
+					证件		NN
+					权益		JJ
+					现代化		VV
+					一九九六年		P
+					表示		PN
+					改革		NR
+					即将		NN
+					年		CD
+					房		VV
+					先进		NN
+					医科		NR
+					通讯		PU
+					国		CD
+					承担		NN
+					并且		PU
+					各		NN
+					《		PU
+					时间		M
+					一		ETC
+					回归颂		PU
+					了		VE
+					（		JJ
+					发展		DEV
+					就		PU
+					不断		NN
+					书记		NN
+					全面		VV
+					在		P
+					资产		JJ
+					体制		NN
+					成就		DEC
+					使用		AD
+					原则		NN
+					时间		DEC
+					作用		DEG
+					表示		NN
+					七月		NT
+					用		NN
+					有效		VV
+					可以		NN
+					很		PU
+					的		JJ
+					看好		NN
+					基地		JJ
+					电话		NN
+					需要		PU
+					自治		JJ
+					十分		AD
+					医药		PU
+					各		CC
+					今年		VC
+					藏		NR
+					下降		AD
+					顺利		DEG
+					日本		CC
+					保持		LC
+					困难		NN
+					在		NR
+					冠军		M
+					传统		VV
+					第二		PU
+					家		OD
+					九十年代		P
+					对外		PU
+					对		DEC
+					体系		NN
+					组建		NN
+					贸易		NN
+					说		MSP
+					中		PU
+					向		M
+					累计		NN
+					合作		CC
+					生产		JJ
+					约		VV
+					二十四日		NT
+					她		P
+					１０月		NR
+					四		DEG
+					促进		VV
+					一		M
+					计算		NN
+					丰富		NN
+					增长		NT
+					根据		VV
+					有助于		NN
+					重庆		VV
+					介绍		NR
+					增长		PU
+					上述		P
+					（		NR
+					一九七八年		P
+					才		PU
+					与		AD
+					倾斜		NN
+					湖北		VV
+					５		PU
+					近年		NN
+					地		AD
+					培训		NN
+					支持		NN
+					进展		JJ
+					市		NN
+					称		NN
+					之		VA
+					丰富		AD
+					更大		VV
+					经营		JJ
+					古巴		P
+					被		NT
+					透露		LC
+					范围		NN
+					现代化		NN
+					前往		NN
+					贬值		NN
+					重庆		NN
+					主办		AD
+					理事国		JJ
+					岁		CD
+					议员		NN
+					受到		PU
+					－		NR
+					取得		NN
+					英国		PU
+					纺织		NR
+					最高		DEC
+					批准		NN
+					」		NN
+					大		NR
+					群众		P
+					好		DEC
+					外国		P
+					告		AD
+					智能		PU
+					的		AD
+					都		ETC
+					采访		NN
+					至		NT-SHORT
+					条件		DEC
+					粮食		VV
+					贸易		PU
+					有关		NN
+					认识		AD
+					多		PU
+					双方		PU
+					经济		VV
+					主权		NR
+					第三		CC
+					合作		DEG
+					名		OD
+					１月		NR
+					商业		NN
+					进一步		PU
+					北约		VV
+					当		PU
+					（		PU
+					一		VV
+					资源		NN
+					葡		NR
+					工作		DEC
+					一致		NN
+					泊位		NN
+					１９９８年		P
+					“		NT
+					前		NN
+					；		PU
+					带动		PU
+					出现		AD
+					分		NN
+					现有		VV
+					两		NR
+					发展		PU
+					社会主义		VV
+					两		DEG
+					於		NN
+					市长		NR
+					人民		JJ
+					种子		M
+					年会		NN
+					规则		NN
+					大		PU
+					关注		NN
+					特点		JJ
+					受到		AD
+					方面		DT
+					人才		JJ
+					形成		AD
+					国际		DEC
+					上海		CC
+					家		CD
+					这		PU
+					终于		NN
+					主任		NN
+					联系		DEG
+					比		PU
+					发展		JJ
+					专家		NN
+					天津港		PU
+					已		NR
+					筹措		NN
+					学位		NN
+					人民币		CD
+					法国		VV
+					证件		JJ
+					呼吁		NN
+					挪威		PU
+					美国		P
+					新		M
+					澳门		CC
+					吨		CD
+					世界		DT
+					机构		JJ
+					企业		PU
+					迎接		P
+					澳		NR
+					发生		NN
+					最高		DEG
+					原则		DEC
+					两		VE
+					世纪		OD
+					与		AS
+					四		DEC
+					自治区		NR
+					香港		M
+					中华		PU
+					海军		NR
+					八月		NR
+					人民		NR
+					十一月		NT
+					也		NN
+					２８日		NR
+					优惠		DEC
+					中		NN
+					海外		DEC
+					国务院		PU
+					扩大		NN
+					战略		DEC
+					去年		NN
+					外经贸部		PU
+					海外		NN
+					竞争		VV
+					广西		PU
+					化工		PU
+					固定		P
+					只		NN
+					曾		NR
+					专业		NN
+					进出口		PU
+					建设		NN
+					五		NR
+					利益		JJ
+					能源		M
+					十五		VV
+					∶		VV
+					至今		PU
+					用		M
+					天津市		PU
+					竞争力		NN
+					整顿		NN
+					项目		PU
+					刚果		PU
+					运动员		NN
+					外长		CC
+					《		NT
+					地		ETC
+					被		CC
+					《		NN
+					伦敦		NR
+					成立		DEG
+					泊位		JJ
+					新华社		P
+					二十一日		NT
+					多		ETC
+					墨西哥		PU
+					政府		CC
+					联合国		P
+					活跃		AD
+					完整		NN
+					给		AD
+					签发		NN
+					南昌		PU
+					残疾人		VV
+					受到		NN
+					开发区		NN
+					立法会		JJ
+					十月		NT
+					成立		AD
+					政策		JJ
+					二月		NT
+					对		VV
+					等		NR
+					大会堂		NN
+					以上		NN
+					企业		M
+					认为		NR
+					之		VV
+					社会		DEG
+					或		PU
+					居		NN
+					其		P
+					国家		NN
+					联络		NN
+					兴		NN
+					用		AD
+					首先		PU
+					外商		P
+					关于		VV
+					调整		PU
+					被		VV
+					产品		DEC
+					不同		NN
+					经过		NN
+					中外		DEC
+					达		PU
+					光缆		NN
+					“		NR
+					关系		NR
+					告诉		NR
+					企业		VV
+					这		BA
+					汽车		VV
+					关注		AD
+					今后		P
+					修订		PU
+					１		PU
+					长期		NR
+					海		P
+					较		NN
+					巴西		VV
+					和		AD
+					是		DEC
+					总体		DEG
+					李鹏		PU
+					如		NN
+					中国		CC
+					一定		NN
+					同时		PU
+					欧元区		P
+					成为		PU
+					内容		NN
+					获悉		NN
+					《		VC
+					所有		PU
+					EndFlag		NT
+					流通		NN
+					占		PU
+					大中型		JJ
+					新闻		P
+					国际		CC
+					目前		P
+					会		PN
+					支持		CC
+					２月		NR
+					税收		NN
+					区		VV
+					占		MSP
+					招商		VV
+					四川		PU
+					一般		NN
+					种		CD
+					参与		NN
+					美国		PU
+					地点		NN
+					省		P
+					江苏省		PU
+					大		JJ
+					加快		NN
+					正式		NR
+					提供		NN
+					前		NR
+					保证		P
+					主要		NN
+					联合国		PU
+					及		NR
+					十		VV
+					增长		M
+					知识		VV
+					中国		JJ
+					成绩		DEG
+					通信		PU
+					于		AD
+					开始		AD
+					六		CD
+					来往		NN
+					计划		M
+					银行		NR
+					主要		VV
+					兵团		NN
+					过去		AD
+					需		AD
+					三		DEC
+					会议		NR
+					每		AD
+					市		PU
+					二十五		NN
+					日前		PU
+					增长率		NN
+					不少		AS
+					建立		VV
+					依法		PU
+					措施		JJ
+					国际		NN
+					参加		M
+					因		NN
+					，		AS
+					武汉		P
+					开始		NN
+					／		NR
+					签署		AD
+					场		DT
+					中医		NR
+					外贸		PU
+					省区		CD
+					资料		NN
+					认真		VV
+					１９９５年		P
+					商谈		JJ
+					支		CD
+					国务院		P
+					基础		VV
+					人士		NR
+					”		CD
+					完善		PU
+					负责人		DEG
+					防治		NN
+					财产		NN
+					原		P
+					持		NN
+					代表团		NR
+					小		AD
+					官方		NR
+					政策		DEC
+					劳务		NN
+					各		NR
+					医药		NN
+					共同		NN
+					开展		PU
+					成就		JJ
+					进行		PU
+					进行		VV
+					世界		VV
+					宣布		LC
+					和		LC
+					给		NN
+					工作		M
+					提出		NN
+					月		DT
+					同样		PU
+					许多		AS
+					发		NN
+					、		OD
+					却		NN
+					监督		NN
+					小于		PU
+					大量		VV
+					单位		VV
+					健康		DEG
+					突破		AD
+					系统		NN
+					知识		P
+					危机		NN
+					改善		AD
+					纪念		NN
+					条		OD
+					实际		PU
+					出口		CC
+					合作		NN
+					名列		PU
+					山东		VV
+					伊		P
+					通讯		NN
+					及		M
+					收购		NN
+					国		ETC
+					一行		NR
+					九		NR
+					韩国		CC
+					中国		AD
+					对		PU
+					特别是		NN
+					负责人		NN
+					１０月		NT
+					演出		NR
+					移民		VV
+					生命		DEG
+					商城		NR
+					台湾		DEC
+					恢复		VV
+					确定		PU
+					系		NN
+					重庆		PU
+					协作		NN
+					给予		NN
+					证明		NN
+					为		VV
+					市场		DEG
+					三		NR
+					三十日		NT
+					新		DEG
+					惯例		NN
+					中		JJ
+					经贸		NR
+					外交部		PU
+					联运		NN
+					汽车		NR
+					广东		PU
+					前景		NN
+					比赛		DEG
+					国籍法		NN
+					局势		NN
+					外交		NR
+					输出		NN
+					指出		NN
+					良好		VV
+					自然		NN
+					近年		NR
+					货物		NN
+					队员		JJ
+					阶段		JJ
+					在		CC
+					都		NN
+					制定		PU
+					研究所		NN
+					截至		PU
+					研讨会		PU
+					两		AD
+					７日		NT
+					墨		PU
+					负责		NN
+					咨询		NN
+					统计处		NN
+					後		NN
+					倾泻		NN
+					大量		VE
+					德国		VV
+					中介		NN
+					问题		CD
+					全会		NN
+					团结		NN
+					最后		NN
+					领导		M
+					从		AD
+					新		NT
+					内地		NR
+					问题		JJ
+					去年		PU
+					能源		JJ
+					上海		P
+					末		M
+					港口		NR
+					继续		NN
+					港		DT
+					２８日		NT
+					土地		PU
+					届		OD
+					作出		NN
+					正在		NR
+					总经理		NN
+					铁路		PU
+					电信		NR
+					财政		NN
+					电气		NR
+					具		AD
+					商品		DEC
+					更		CC
+					年		DT
+					，		JJ
+					行动		M
+					需求		DEG
+					希望		VV
+					期		DT
+					意义		DEC
+					建成		NN
+					自由		NN
+					最后		DEG
+					加强		CC
+					来		NN
+					今年		PU
+					我们		VC
+					增加值		NN
+					体育		NR
+					克朗		CD
+					太湖		PU
+					前		P
+					倪四义		NN
+					有限		NN
+					主办		NN
+					情况		JJ
+					保持		VV
+					内地		P
+					号		CD
+					起来		VV
+					科研		VV
+					关心		AD
+					委员会		NN
+					运动会		NR
+					出版		NN
+					任何		PU
+					台湾		P
+					共同		DEG
+					改善		JJ
+					大幅		NN
+					合资		NR
+					新		P
+					我们		VV
+					引进		P
+					、		VA
+					俄		P
+					开始		NT
+					发挥		LC
+					航空		NR
+					先后		PU
+					至		PU
+					名列		M
+					宗		CD
+					国家		CC
+					有		PU
+					具备		AD
+					业务		NN
+					获得		AD
+					正式		NN
+					技术		DEC
+					码头		NN
+					历史		NR
+					星期二		PU
+					俄罗斯		VV
+					广泛		NN
+					通行证		NN
+					依然		NN
+					图		PU
+					科威特		VV
+					同时		PN
+					及时		PU
+					介绍		PU
+					排放		NN
+					海关		PU
+					以		LC
+					，		M
+					审议		NN
+					海地		VV
+					基本		NN
+					统计		DEG
+					之		NN
+					赛季		M
+					第二		M
+					时		NN
+					者		VV
+					：		VV
+					各		ETC
+					总		DEG
+					迅猛		NN
+					本		P
+					假日		JJ
+					持续		VV
+					经济		NN
+					电话		VV
+					近日		PU
+					出身		NN
+					恢复		AD
+					科研		NN
+					影响		DEC
+					联合国		VV
+					具有		M
+					兴办		PU
+					组织		AD
+					军事		DEG
+					福建		P
+					生产		VV
+					全部		VV
+					大		CD
+					赴		M
+					个人		CC
+					可能		VV
+					成为		NN
+					然后		PU
+					莫斯科		NR
+					当选		LC
+					许多		PU
+					稳步		VV
+					交接		NN
+					吞吐量		NN
+					更加		VV
+					分别		NN
+					签署		NN
+					双方		P
+					小时		M
+					创造		PU
+					冠军		VV
+					社会		PU
+					综合		PU
+					较		PU
+					次		OD
+					越南		CC
+					一		NT
+					批		JJ
+					入狱		VV
+					来		M
+					新年		VV
+					都		PN
+					。		NT
+					免		NN
+					商品		VV
+					未来		P
+					项目		DEC
+					前来		AD
+					妊娠		AD
+					３０日		NT
+					成效		VV
+					得到		AD
+					任何		P
+					不		VV
+					半导体		NR
+					２８日		NN
+					南部		NR
+					包括		PU
+					平衡		NN
+					交通		P
+					部分		JJ
+					结果		PU
+					负责		PU
+					增长		NN
+					投资		VC
+					发行		NN
+					从		PU
+					今日		NR
+					――		NN
+					１月		NT
+					为		PU
+					和		VA
+					国旗		NR
+					栏		M
+					逐年		NN
+					保税区		NR
+					农村		VV
+					三千		VV
+					使用		VV
+					包括		NN
+					广西		VV
+					ＡＴＭ		NR
+					最为		NN
+					集中		AD
+					一九九七年		P
+					经济		M
+					首席		NN
+					出色		AD
+					给		PU
+					需		NN
+					约		NN
+					谈		NN
+					同		NR
+					现在		PU
+					统一		VV
+					发展		VV
+					间		CD
+					这		AS
+					奖		NN
+					笔		CD
+					任务		NN
+					也		M
+					其		PU
+					图案		NN
+					这		NN
+					在		VC
+					由		M
+					磋商		VV
+					坚持		NN
+					大大		AD
+					统计		JJ
+					质量		NN
+					而		VA
+					常任		NN
+					百分之十		VV
+					个		CD
+					１２月		NR
+					世界		AS
+					正式		NT
+					宣布		NT
+					表示		VV
+					友好		VV
+					任		AD
+					印尼		PU
+					芬兰		PU
+					工业		DEC
+					宣布		NN
+					提出		NR
+					儿童		DEC
+					建立		AD
+					瓦		CD
+					重大		VV
+					获悉		LC
+					外		P
+					开展		VV
+					比例		DEG
+					其		BA
+					对象		NN
+					夺得		NR
+					消息		DEC
+					根据		NN
+					计划		NR
+					机遇		DEC
+					３１日		NT
+					中期		NT
+					以		NR
+					负责		AD
+					记者		VV
+					。		SP
+					二十亿		VV
+					依据		NN
+					克		CD
+					去年		P
+					同意		AD
+					实现		PU
+					谈判		NN
+					拉美		P
+					去年		NR
+					也		LC
+					解决		PU
+					局面		JJ
+					人口		VV
+					需求		NN
+					中		VV
+					形成		NN
+					广州		NR
+					股份		NN
+					有利于		AD
+					停火		VV
+					签订		NR
+					比赛		M
+					库区		VV
+					投资		PN
+					二０００年		P
+					关于		NN
+					几		NT
+					中部		NR
+					做		AD
+					这		NT
+					部队		NN
+					高		AD
+					公顷		CD
+					位置		NN
+					祸		VC
+					提高		P
+					７		PU
+					确定		AD
+					木星		P
+					知识		NN
+					充满		NN
+					自己		VV
+					仍		NN
+					因为		VC
+					中亚		P
+					热点		NN
+					想		AD
+					产值		NN
+					了		AD
+					通车		VV
+					规模		PU
+					大		P
+					项目		JJ
+					６		P
+					中共		PU
+					四		AD
+					建立		VC
+					大陆		PU
+					应用		NN
+					特区		NR
+					十		NN
+					污水		NN
+					超过		AD
+					联合		VV
+					第一		NT
+					推进		AD
+					最		AD
+					改革		PU
+					过渡		JJ
+					周		DT
+					能		NR
+					更		PU
+					开支		NN
+					总统		NN
+					后		NN
+					１９９６年		P
+					坚实		VV
+					海峡		VV
+					五十亿		VV
+					）		PU
+					海外		VV
+					靠		AD
+					电子		NR
+					赴		NN
+					跨国		DEC
+					十月		NR
+					和平		NN
+					外汇		VV
+					着		VV
+					十分		PU
+					权		VE
+					刚果		P
+					业务		JJ
+					保护区		NN
+					足球		NR
+					重点		PU
+					九		NN
+					一九九九年		P
+					成都		NR
+					行		CD
+					稳步		NN
+					持续		NN
+					上升		CD
+					基金		NN
+					满意		VV
+					积极		NN
+					副行长		NN
+					过程		DEC
+					未来		PU
+					五十		NN
+					交通		NR
+					入境		NN
+					近		P
+					威胁		VV
+					重视		AD
+					二		VV
+					各		VC
+					再		VV
+					多		VV
+					法人		NN
+					产业		PU
+					做好		PU
+					的		CD
+					低		AD
+					名将		NR
+					商业		JJ
+					两		DEC
+					总数		NN
+					研讨会		NN
+					１９９８年		PU
+					」		VA
+					往来		NN
+					经济		PU
+					展览		NN
+					区		P
+					信息		NN
+					将		NT
+					总理		NR
+					周期		NN
+					後		VV
+					向		P
+					消费		NN
+					发现		NN
+					外资		DEC
+					技术		PU
+					越		NR
+					出口		NN
+					经验		VV
+					必须		NN
+					合		AD
+					环境		PU
+					成员		NN
+					大		NN
+					投资额		PU
+					紧密		NN
+					’		NN
+					运行		VV
+					服务		CC
+					因为		PU
+					进口		NR
+					产量		JJ
+					的		NN
+					平稳		AD
+					政治		NR
+					产品		NN
+					主管		NN
+					含量		NN
+					小		P
+					友好		DEG
+					稳定		P
+					金融		DEC
+					作出		PN
+					保障		VV
+					谘询		NN
+					设备		NN
+					！		NN
+					还是		PU
+					人民		PU
+					篇		CD
+					人		DEG
+					广西		P
+					作用		NN
+					重点		VV
+					经贸委		NN
+					计划		PU
+					有关		DT
+					贡献		VV
+					平均		PU
+					多		AD
+					能		AD
+					海外		P
+					亚洲		VV
+					举行		NR
+					一		NN
+					增长		AD
+					建成		NR
+					能耗		DEG
+					与		LC
+					了		NN
+					除		NN
+					政治		DEG
+					比		AD
+					最		PU
+					能耗		NN
+					，		VC
+					加强		VV
+					采取		NR
+					大陆		NR
+					大约		PU
+					货物		JJ
+					十六日		NT
+					签署		NT
+					３０日		NR
+					要求		VV
+					一九九四年		P
+					为		AD
+					作为		NR
+					会员		NN
+					除了		PU
+					到		NN
+					欧元		VV
+					部长		NR
+					落实		NN
+					不		CC
+					通过		AD
+					可能		VE
+					进行		PN
+					其他		NN
+					加强		NN
+					首		NR
+					已		VV
+					观测		NN
+					目前		NR
+					投资		JJ
+					已		NT
+					未		AD
+					世界		DEC
+					增加		VV
+					得		VV
+					明显		NN
+					律师		NR
+					服务		PU
+					得主		NN
+					划分		NN
+					法律		NN
+					达成		NN
+					意大利		P
+					引进		AD
+					拥有		NN
+					海协		PU
+					（		VA
+					制定		VV
+					上市		NR
+					、		DEC
+					全面		PU
+					预计		NN
+					公司		NN
+					历史		PU
+					技术		P
+					实际		NN
+					事件		NR
+					属		AD
+					处理		NN
+					人们		VV
+					方式		ETC
+					全球		P
+					基础		P
+					时刻		DEC
+					重大		AS
+					完成		AD
+					机遇		JJ
+					实施		NR
+					海内外		VV
+					设立		VV
+					末		NT
+					安哥拉		VV
+					严格		VV
+					生产		P
+					规范		PU
+					迅速		DEG
+					事		DEC
+					三日		NT
+					地球		VV
+					为		VC
+					台湾		M
+					一致		VV
+					外商		DEC
+					均		NR
+					态势		NN
+					区		JJ
+					有所		NN
+					党		DT
+					邀请		DEG
+					取得		CC
+					但		PU
+					合理		PU
+					５		VV
+					或		VV
+					建成		AD
+					商业		M
+					否则		PU
+					科技		NR
+					储量		NN
+					购物		NN
+					交通		PU
+					获		NR
+					作用		DEC
+					国家		VC
+					护照		NN
+					》		NN
+					用户		NN
+					出口		VV
+					两		CC
+					解决		P
+					条件		VE
+					九六年		P
+					座		CD
+					严重		VV
+					合作部		NN
+					中心		NN
+					２９日		NT
+					具有		LC
+					实行		PU
+					机组		NN
+					认为		PU
+					应		NR
+					极为		NN
+					可		NN
+					行为		JJ
+					科学院		NN
+					中华		VV
+					地方		CC
+					进入		NN
+					拥有		AD
+					逐渐		NN
+					待遇		NN
+					以往		P
+					对		M
+					顺利		AD
+					兴建		VV
+					美国		VV
+					能源		VV
+					土地		VV
+					交通		VV
+					１３日		NT
+					经济		DEG
+					期间		PU
+					表明		AD
+					起		NN
+					决定		VV
+					千		NN
+					因		PU
+					参与		PU
+					结果		NN
+					收入		NN
+					钱其琛		NN
+					面临		NN
+					坚持		AD
+					经济		P
+					同		NT
+					实现		VV
+					推动		DEV
+					二月		P
+					优势		DEG
+					澳门		PU
+					深圳		P
+					中央		NR
+					教育		P
+					方面		CD
+					辆		CD
+					杭州		NR
+					建设		JJ
+					一九九八年		P
+					事务处		NN
+					机会		NN
+					成功		NN
+					准备		VV
+					今年		VV
+					无		AD
+					即		NN
+					和平		NR
+					债券		VV
+					正		AD
+					社会		VV
+					二十八日		NT
+					澳门		P
+					能力		NN
+					首脑		NN
+					都		NR
+					外资		NN
+					广东省		PU
+					高于		AD
+					连续		NN
+					起		NT
+					星期五		PU
+					商品		NR
+					天津		NR
+					观察团		NR
+					协议		NN
+					”		VA
+					轨道站		P
+					有效		PU
+					各		DEC
+					和		NT
+					呈现		NN
+					参加		AD
+					接受		AD
+					铁		PU
+					控制		AD
+					大型		VV
+					地方		M
+					我		PU
+					判		SB
+					创汇		VV
+					无		NN
+					投资		NN
+					草案		NN
+					法规		NN
+					台湾		VC
+					第二		NR
+					颗		DT
+					开放		PU
+					化工		NN
+					副总理		NR
+					大型		DEC
+					美国		AD
+					日		DT
+					对		NN
+					“		VC
+					使		VV
+					新闻		DEC
+					共和国		NR
+					教授		NR
+					全球		VV
+					达		VV
+					建设		M
+					直接		NN
+					“		AS
+					水平		NN
+					总额		NN
+					四十亿		NN
+					现象		VV
+					尤其是		PU
+					显示		AD
+					格局		NN
+					记者		NR
+					到来		DEG
+					中国		NN
+					一日		NT
+					建设		PU
+					加快		AD
+					出口		PU
+					应		VC
+					大大		PU
+					继续		AD
+					夺得		PU
+					天津		NN
+					人才		NN
+					带动		NN
+					亚洲		PU
+					是否		NN
+					以		AS
+					支持		VV
+					申请		VV
+					制造业		NN
+					海外		PU
+					，		VA
+					经济		JJ
+					福建		PU
+					“		PU
+					计委		NN
+					巨大		VV
+					少		NN
+					欧分		CD
+					以		VC
+					农民		PU
+					完全		NN
+					探险者		JJ
+					欧		NR
+					届		DT
+					合约		NN
+					增强		NN
+					展览会		NN
+					同		PU
+					外		NN
+					有		NN
+					日前		P
+					武装		NN
+					资金		DEG
+					通用		NR
+					服务		NN
+					极		NN
+					行业		ETC
+					战略		NN
+					已		AD
+					恢复		NR
+					关系		DEG
+					解释		NN
+					政协		NN
+					产权		NN
+					基础		PU
+					召开		NT
+					：		VC
+					之前		NT
+					确保		P
+					好		VV
+					等		VV
+					地		CD
+					元		CD
+					香港		CC
+					国内		PU
+					石油		PU
+					准备		NN
+					十七日		NT
+					发展		DEG
+					和		NN
+					接近		AD
+					机场		NR
+					钢铁		PU
+					正式		AD
+					第一		NR
+					那些		VV
+					三峡		VV
+					市场		NR
+					提出		LC
+					两		BA
+					冲突		NN
+					国家		NR
+					俄		NR
+					年		PU
+					这些		VV
+					可以		PU
+					死亡		NN
+					机关		NN
+					积极		AS
+					面积		JJ
+					主席		NN
+					９月		NT
+					并		PU
+					相当		NN
+					企业		CC
+					一		DT
+					组建		PU
+					银行		PU
+					纽约		NR
+					应		PU
+					特色		VV
+					军队		NN
+					产品		PU
+					方面		M
+					大源渡		NR
+					运行		NN
+					。		NR
+					举行		PN
+					福州		NR
+					目前		PU
+					管理		NN
+					每		VV
+					增长		DEC
+					安理会		NR
+					成功		VV
+					官员		JJ
+					正式		VV
+					稳定		NN
+					影响		VE
+					科学家		NR
+					联赛		PU
+					９月		P
+					代表团		NN
+					“		M
+					迅速		AD
+					禁止		PU
+					５日		NT
+					「		VC
+					棋手		NR
+					成绩		JJ
+					近		PU
+					国际		NR
+					才		AD
+					现象		NN
+					网球		NR
+					北京		NN
+					综述		NN
+					做好		VV
+					部分		CD
+					我们		PU
+					农业		P
+					四日		NT
+					对		NR
+					强化		PU
+					以来		NN
+					效果		NN
+					同时		DEC
+					污染		NN
+					共同		PN
+					国		DT
+					他		AD
+					企业		DT
+					伙伴		NN
+					人口		PU
+					制度		NN
+					事务所		NN
+					金牌		M
+					卫星		M
+					群众		VV
+					同时		NN
+					都		AD
+					将		NR
+					他们		PU
+					技术		CC
+					处长		NN
+					流域		NR
+					制造		NN
+					一体化		NR
+					以及		NN
+					物价		NN
+					问题		VV
+					如果		NN
+					形式		M
+					半		DT
+					「		P
+					过去		PU
+					外商		VV
+					两		LC
+					分行		NR
+					中共		VV
+					该		P
+					潮流		NN
+					一汽		PU
+					水污染		NN
+					向		VV
+					沿岸		NR
+					先进		AD
+					结果		DEC
+					石油		NR
+					提供		NR
+					他们		P
+					不		CS
+					市		CD
+					得以		NN
+					呈现		AD
+					目标		NN
+					我们		AD
+					港口		PU
+					工业		M
+					官员		M
+					把		PU
+					澳		PU
+					进一步		NN
+					招商		NN
+					北京		PU
+					合同		VV
+					尽快		VV
+					解决		AD
+					全		DEG
+					华侨		NR
+					青年		NR
+					在		AD
+					前		VV
+					港		VV
+					国家		P
+					德国		PU
+					目的		DEG
+					特色		NR
+					全		NN
+					联合		NN
+					央行		NR
+					，		NT
+					５月		NT
+					交流		NN
+					江苏		P
+					决定		AD
+					桶		CD
+					状况		NN
+					目标		JJ
+					能源		PU
+					启动		NN
+					不		PN
+					联合会		NN
+					高速		VV
+					进出口		NN
+					使		AD
+					戒急用忍		PU
+					一		VC
+					干部		NN
+					十八		VV
+					相比		NN
+					外贸		NN
+					达		AD
+					人员		NN
+					发出		NT
+					法律		DEC
+					材料		JJ
+					适当		VV
+					秒		CD
+					努力		NN
+					外商		M
+					为		NN
+					标志		PU
+					上海		DEC
+					设立		NN
+					世纪		M
+					轮		OD
+					美		VV
+					家		DT
+					实际		NR
+					趋势		VV
+					方法		NN
+					投资		CC
+					发挥		NN
+					进行		CC
+					口岸		NN
+					将		CC
+					一九九七年		PU
+					地		NN
+					省长		NR
+					外汇		DEG
+					动工		AD
+					只		PU
+					）		M
+					石油		NN
+					采用		AD
+					中国		BA
+					实验室		NN
+					开设		NR
+					男		PU
+					７月		NT
+					上		P
+					；		VV
+					均		NN
+					一		CD
+					加工		NN
+					还		LC
+					韩国		VV
+					来		NR
+					财务		NN
+					保持		PU
+					对		CC
+					他们		VV
+					市场		M
+					有关		DEG
+					他		P
+					三		AD
+					具有		AD
+					（		M
+					责任		NN
+					发言人		M
+					“		DEG
+					；		CD
+					开放		NN
+					统计局		NN
+					欧元		P
+					累计		AD
+					参加		VV
+					进行		LC
+					贸易		VV
+					世界		M
+					可		PN
+					货币		NN
+					水		VV
+					公务员		VV
+					建立		NN
+					国有		PU
+					沈阳		NR
+					传媒		NN
+					发生		NT
+					亦		PU
+					市		M
+					风险		NN
+					科技		PU
+					及		PU
+					改革		DEG
+					开工		NN
+					欧盟		P
+					外交		DEG
+					电脑		VV
+					重点		DEC
+					信息		VV
+					天然气		VV
+					投资者		NN
+					４月		NR
+					经贸		DEG
+					的		NT
+					五月		NR
+					总		PU
+					所有		AD
+					谁		PU
+					会见		NR
+					外汇		PU
+					因素		JJ
+					未		NN
+					「		VV
+					头		NT
+					关系		JJ
+					根据		AD
+					鉴定		NN
+					证券		NN
+					」		VV
+					银行		NN
+					城市		JJ
+					能		CC
+					苏联		JJ
+					发表		NT
+					变化		NN
+					／		NN
+					联合		NR
+					办法		JJ
+					市民		NR
+					食品		JJ
+					电		NT
+					采用		PU
+					进展		DEC
+					本		VV
+					胞		CD
+					几		AD
+					方		DT
+					新		CC
+					欧元		DEC
+					调查		VV
+					两		VV
+					最		M
+					文章		NN
+					适应		P
+					粮食		PU
+					大桥		NR
+					趋势		DEC
+					选择		PU
+					问题		ETC
+					为		NR
+					有关		DEC
+					武汉		NN
+					到		PU
+					预赛		NN
+					科学院		NR
+					电脑		NR
+					位		OD
+					中华		CC
+					国家		DEC
+					机场		NN
+					只要		PU
+					生产		CC
+					开始		LC
+					上游		NR
+					状况		DEC
+					资金		VV
+					从事		NN
+					接受		P
+					金融		M
+					用		VV
+					正		NR
+					国家		M
+					对接		M
+					二十六日		NT
+					努力		VV
+					机会		DEC
+					陆上		NR
+					房地产		PU
+					促进		NN
+					具有		PU
+					加拿大		PU
+					立法		JJ
+					世界杯		VV
+					在		VV
+					研究		NN
+					向		AD
+					友好		NN
+					国		JJ
+					近		DEC
+					市		DT
+					规定		NN
+					预计		PU
+					武汉		NR
+					交流		VV
+					周年		OD
+					起		CD
+					祖国		VV
+					建设		NR
+					蓬勃		NN
+					舟山		PU
+					规定		JJ
+					普遍		NN
+					明年		PU
+					温度		JJ
+					伊拉克		P
+					产业		NN
+					不		VA
+					严重		AS
+					欧元		PU
+					纺织		PU
+					总统		NR
+					保障		NN
+					运动会		NN
+					大		DT
+					价格		NN
+					我们		P
+					讲话		VV
+					第三		PU
+					新闻		NN
+					人		VE
+					新		JJ
+					山东省		PU
+					十八日		NT
+					条约		NN
+					取消		VV
+					锦标赛		M
+					考虑		AD
+					水土		VV
+					暂		NN
+					共产党		NR
+					财团		JJ
+					会议		VV
+					百分之十五		VV
+					批		CD
+					生物		NN
+					江苏		PU
+					紧密		AD
+					国民		NR
+					上		NR
+					情况		NN
+					信息		PU
+					各		JJ
+					获得		PU
+					委员会		JJ
+					秘书长		NR
+					上海		NN
+					支持		DEG
+					建		AD
+					使		NN
+					界		DT
+					）		NR
+					日前		NN
+					加工		PU
+					加大		PU
+					工程		NN
+					原因		JJ
+					民间		VV
+					实力		DEG
+					仅		PU
+					丝		NN
+					五		PU
+					库区		NR
+					博士		NR
+					行		DT
+					运动员		JJ
+					规定		AD
+					要求		NN
+					办理		VV
+					１９９９年		PU
+					重要		DEC
+					目前		VC
+					同胞		NN
+					海外		CC
+					将		LC
+					内		PU
+					十一月		NR
+					地		DT
+					报告		M
+					工业		PU
+					品种		JJ
+					一定		VV
+					回归		NR
+					、		LC
+					灾害		NN
+					会		NR
+					董事长		NN
+					提前		NN
+					进行		MSP
+					大家		VV
+					人士		JJ
+					这		DEC
+					资产		NN
+					方向		DEC
+					小时		CD
+					大楼		NN
+					号		PU
+					工业		NR
+					那么		PU
+					名		CD
+					中国		NT
+					方式		NN
+					辜		NR
+					纽约		P
+					金		PU
+					促进		PU
+					提出		AD
+					设立		AD
+					二十		AD
+					”		NN
+					来源		NN
+					说		NT
+					甚至		PU
+					社会		DEC
+					出席		NN
+					进一步		P
+					４		VV
+					宣布		NR
+					指标		NN
+					时代		NN
+					签证		VV
+					登记		NN
+					旅游年		NR
+					约		PU
+					之间		NN
+					总裁		NN
+					报道		NN
+					开发		DEG
+					上市		NN
+					创		PU
+					工作		JJ
+					货币		NR
+					被		NR
+					通胀率		DEG
+					部门		JJ
+					人大		NN
+					艘		CD
+					积极		PU
+					来		AD
+					最高		NN
+					网络		P
+					集中		NN
+					票		CD
+					目前		NN
+					联邦		NR
+					加上		PU
+					历史		DEC
+					有效		AD
+					部队		JJ
+					这些		PU
+					法		VV
+					学习		VV
+					浙江省		PU
+					组织		JJ
+					广大		VV
+					第一		LC
+					有限		NR
+					海外		NR
+					俄罗斯		P
+					西非		PU
+					利润		VV
+					资格		VV
+					上市		PU
+					客人		NR
+					工作		NN
+					知识		PU
+					公路		NR
+					基本法		NN
+					第一		AS
+					小组		NN
+					８月		NT
+					球员		JJ
+					交通		NN
+					台		CD
+					理事会		NN
+					冬		VV
+					集团		JJ
+					能源署		NN
+					措施		NN
+					影响		DEG
+					（		NT
+					工程		M
+					安全		NN
+					越		NN
+					开始		PU
+					原		PU
+					中方		PU
+					经济		DEC
+					竞争		NN
+					得到		NN
+					勘探		VV
+					声明		JJ
+					所		NN
+					进行		NR
+					相继		AD
+					电力		NR
+					北京		VV
+					国际		AS
+					世界		DEG
+					兴建		NN
+					首		NT
+					他		VC
+					足		AD
+					土地		P
+					贸易		JJ
+					一般		PU
+					因		AD
+					贸易		AS
+					区		NN
+					较		VV
+					损失		NN
+					世界		NT
+					佳		CD
+					地		VV
+					原		NN
+					中国		VV
+					１２月		PU
+					原因		DEC
+					迅速		NN
+					七		NN
+					比		NN
+					借用		NN
+					回归		VV
+					为止		NT
+					金融		PU
+					人大		NR
+					政府		P
+					同步		NN
+					；		LC
+					秩序		JJ
+					实施		AD
+					要		VV
+					当年		PU
+					也		AD
+					比利时		PU
+					部		OD
+					上		NN
+					利用		NN
+					开发区		NR
+					选手		NN
+					认真		PU
+					区域		NN
+					安全		CC
+					邮政局		NR
+					此		PU
+					扩大		AD
+					出台		NN
+					媒体		NN
+					年		M
+					为		CC
+					建设		AD
+					国内		NN
+					重点		DEG
+					孔子		VV
+					经		AD
+					开通		NN
+					突出		AD
+					―		NR
+					环境		NN
+					扩大		VV
+					结束		NT
+					电话		JJ
+					只有		PU
+					政策		PU
+					资金		NN
+					三		VV
+					开展		LC
+					号		OD
+					席卷		NN
+					铁路		NR
+					大使		NR
+					资格		NN
+					名义		NN
+					颁发		NN
+					投产		VV
+					意见		VV
+					生产		NN
+					会		AD
+					会谈		NR
+					不仅		NN
+					大学		NN
+					达到		NN
+					人口		JJ
+					最后		PU
+					段		CD
+					田径		NN
+					销售		NN
+					３		PU
+					双边		VV
+					撤离		AD
+					：		NN
+					安盟		PU
+					奠定		NN
+					要求		AD
+					由		AS
+					平稳		DEG
+					国家		AS
+					外交		NN
+					近日		NN
+					西安市		PU
+					其		VV
+					“		VV
+					六月		NT
+					对外		NN
+					完成		NT
+					高		VV
+					的		M
+					英国		P
+					变		AD
+					人员		JJ
+					今天		VV
+					银行		VV
+					表示		LC
+					不同		VV
+					意味		AD
+					著名		NR
+					已经		PU
+					第一		NN
+					获得		VV
+					联合		AD
+					基本		PU
+					重要		NN
+					西部		NR
+					银行		OD
+					进一步		AD
+					大型		NN
+					良好		DEG
+					维护		PU
+					创汇		NN
+					开		AD
+					体育		NN
+					芬兰		P
+					「		DEC
+					“		P
+					明年		NR
+					一		LC
+					分别		NR
+					说		NN
+					推动		AD
+					完全		AD
+					这		VV
+					发言人		NR
+					作		MSP
+					五		NN
+					基本		DEC
+					美		NR
+					百分之七十		DEG
+					大陆		P
+					盆地		NR
+					实行		VV
+					东南亚		PU
+					台		P
+					时		NR
+					数量		NN
+					可能		AD
+					特别		NN
+					前		NT
+					为		LC
+					设		AD
+					深入		DEG
+					首		NN
+					贸易		CC
+					该		PU
+					段		NR
+					旨		NN
+					日前		NR
+					级		DT
+					旨		PU
+					通讯员		NR
+					进入		VV
+					去年		VV
+					不仅		PU
+					正常		VV
+					法院		JJ
+					到		VV
+					地位		NN
+					距离		JJ
+					早		NN
+					红十字会		NR
+					主要		PU
+					人才		VV
+					任何		VV
+					每		NT
+					达		NN
+					公司		NR
+					住房		VV
+					开发		JJ
+					财政		DEG
+					‘		VV
+					增幅		NN
+					展示		NN
+					工作者		NN
+					逐步		VV
+					从		PN
+					由		PU
+					二十日		NT
+					最		VV
+					兼并		NN
+					希望		PU
+					有所		AD
+					选配		NN
+					自己		AS
+					转移		NN
+					一		AD
+					时期		NN
+					到		AD
+					－－		PU
+					人民		P
+					提出		PU
+					稳定		VV
+					工程		DEC
+					著		VV
+					目前		VV
+					产业		JJ
+					今年		P
+					三百		AD
+					完成		M
+					、		PU
+					稳定		DEG
+					香港		NT
+					多		AS
+					政府		M
+					公司		JJ
+					台湾		PU
+					两		AS
+					对		DEG
+					基本法		PU
+					基础		DEC
+					通过		NR
+					有		NT
+					中国		LC
+					上半年		NT
+					要		AD
+					已		PU
+					准备		AD
+					如		PU
+					先后		NT
+					贷款		NN
+					允许		AD
+					长期		NN
+					有关		PU
+					“		JJ
+					军事		PU
+					报道		NR
+					于		PU
+					中		DEC
+					困难		VV
+					九月		NT
+					问题		DEC
+					增		AD
+					海内外		P
+					波黑		P
+					竞争		AD
+					文化		NR
+					中		OD
+					还		NR
+					著作		NN
+					一		DEC
+					有		NR
+					生产		M
+					美元		CD
+					国家		NT
+					出口		JJ
+					经验		DEG
+					成立		NR
+					正		PU
+					又		PU
+					处		DT
+					至		AD
+					只		AD
+					个人		NN
+					操作		NN
+					数字		M
+					在		M
+					首都		P
+					光纤		NR
+					地区		M
+					到位		AD
+					淮河		VV
+					各		AS
+					顺利		VV
+					领域		NN
+					在		CS
+					贬值		AD
+					首先		NN
+					中华		P
+					八		VV
+					年度		DT
+					里		NN
+					调控		JJ
+					村民		VV
+					利用		AD
+					九		ETC
+					南非		PU
+					分别		PU
+					）		NN
+					作用		JJ
+					重要		CD
+					东南亚		VV
+					国务院		VV
+					调整		AD
+					打		AD
+					省		M
+					领导		NN
+					执行		VV
+					方面		NN
+					人们		PU
+					浦东		P
+					说		PN
+					法		NR
+					东京		NR
+					经费		NN
+					采取		NN
+					风暴		NN
+					明确		AD
+					党		VV
+					文化		CC
+					自由		VV
+					水利		VV
+					实现		P
+					国家		DT
+					吉尔吉斯		P
+					纪录		NN
+					需要		DEC
+					过程		NN
+					方面		NR
+					个		DT
+					积极		P
+					素质		NN
+					直接		VV
+					基础		ETC
+					「		PU
+					上述		VV
+					外电		P
+					公路		JJ
+					１１月		NT
+					速度		NN
+					需		MSP
+					分配		AD
+					应该		NN
+					国家		VV
+					不断		PU
+					发展		DEC
+					会议		NN
+					整		VV
+					社会		NN
+					维和		NR
+					引进		NN
+					议会		NR
+					西班牙		P
+					提高		JJ
+					家庭		JJ
+					外交部		NR
+					教学		NN
+					路		DEG
+					标准		NN
+					总		P
+					８月		NR
+					亦		NN
+					合作		PU
+					通过		PU
+					最		NN
+					县		DT
+					香港		AS
+					三		JJ
+					引起		AD
+					长官		NN
+					４月		NT
+					十三		NR
+					了		VV
+					吸引		PU
+					保险		NN
+					第一		PU
+					倍		CD
+					高级		NN
+					制定		AD
+					成为		PN
+					其中		PU
+					市场		JJ
+					国际		JJ
+					积极		AD
+					时候		DEC
+					重视		DEG
+					精神		DEC
+					道路		DEC
+					是		M
+					尽管		PU
+					九月		NR
+					座谈会		NN
+					外交		P
+					处理		AD
+					成员		JJ
+					用		PU
+					仅		NR
+					三月		NT
+					地区		NN
+					由		NN
+					农业		NN
+					颗		CD
+					风险		VV
+					２９日		P
+					要求		NR
+					好		NN
+					重要		DEG
+					面积		NN
+					三		NN
+					国际		DEG
+					中国		DEG
+					已		LC
+					左右		M
+					就		PN
+					公布		NN
+					同		NN
+					最早		NR
+					合同		NN
+					。		OD
+					分开		NN
+					努力		AD
+					优秀		M
+					大		M
+					领域		ETC
+					成绩		PU
+					对		P
+					谈到		P
+					拥有		PU
+					集成		NN
+					体育		JJ
+					双方		VV
+					而		NN
+					进步		PU
+					二十五日		NT
+					重大		NN
+					欢迎		PU
+					各		P
+					中		M
+					工程		NR
+					相信		PN
+					大量		AS
+					方案		NN
+					举办		NN
+					她		PU
+					事件		NN
+					有的		PU
+					指出		AD
+					香港		VC
+					种		DT
+					关键		DEC
+					全		CC
+					政策		VV
+					大型		M
+					自		VV
+					博士后		JJ
+					三角洲		NR
+					包装		PU
+					速度		DEG
+					福州		PU
+					外贸		VV
+					它		PU
+					降低		AD
+					按照		AD
+					收入		JJ
+					』		NN
+					迎		AD
+					泰国		PU
+					层次		JJ
+					一九九六年		PU
+					所有		VV
+					问题		NN
+					批准		NR
+					取得		PU
+					五		CC
+					出现		VV
+					行政		VV
+					改革		M
+					科技		VV
+					执行		NN
+					为		M
+					初		NT
+					只		NT
+					一九九六		PU
+					华人		PU
+					每		PU
+					获得		LC
+					大厦		NN
+					当前		VV
+					广播		CC
+					等		PU
+					落实		VV
+					十一日		NT
+					难民		NR
+					实现		NN
+					主题		VV
+					现代		VV
+					及		VV
+					空间		NN
+					紧张		NN
+					减少		AD
+					材料		NN
+					金融		VV
+					仪式		NN
+					金牌		NN
+					司长		NN
+					够		AD
+					六		PU
+					上升		AD
+					发展		AD
+					充分		VV
+					代表		DEG
+					增加		AD
+					举行		NN
+					项目		VV
+					投资		AD
+					是		CD
+					知识		DEC
+					市场		PU
+					一		CC
+					、		NT
+					总		VV
+					对		LC
+					昨天		P
+					米		CD
+					方式		M
+					成为		AD
+					议会		NN
+					常务		NN
+					停止		AD
+					中心		JJ
+					签订		AD
+					要求		DEG
+					从		NN
+					湖北		PU
+					十九		NN
+					再		AD
+					指出		LC
+					经营		VV
+					工程		JJ
+					铁路		VV
+					增多		AD
+					一体化		NN
+					）		CD
+					伪造		VV
+					英		NR
+					认为		PN
+					项目		ETC
+					商业		PU
+					EndFlag		VA
+					机制		NN
+					企业		P
+					虽然		PU
+					取得		LC
+					人		M
+					帮助		PU
+					新闻		JJ
+					买卖		NN
+					投资		P
+					临时		NR
+					外资额		NN
+					专家		DEG
+					设立		PU
+					推进		VV
+					目标		DEC
+					马克		NR
+					平衡		AD
+					韩国		P
+					因素		NN
+					逾		NN
+					金属		PU
+					６		VV
+					只		CD
+					行动		NN
+					九日		NT
+					全部		NN
+					做		NN
+					教授		NN
+					合同		PU
+					开发		NR
+					制		CD
+					处理厂		NN
+					股票		VV
+					他		AS
+					加工		VV
+					安置		NN
+					日本		VV
+					现		PU
+					今日		NN
+					地方		VV
+					为主		NN
+					希望		AD
+					国际		P
+					也		NT
+					后		NR
+					区议会		JJ
+					第六		NN
+					影响		VV
+					外资		P
+					国际		VV
+					纽约		VV
+					可		AD
+					的		AS
+					美		PU
+					使用		P
+					经营		NN
+					稳定		PU
+					不断		VV
+					西门子		PU
+					行政		PU
+					冲击		DEG
+					行使		NR
+					EndFlag		VV
+					产量		NN
+					表示		NT
+					说		LC
+					一		JJ
+					二０００年		CC
+					横		CD
+					实力		NN
+					近		VV
+					和平		VV
+					快		AD
+					EndFlag		M
+					信心		VV
+					金属		JJ
+					引资		NN
+					决赛		NN
+					学生		NN
+					八日		NT
+					应		NN
+					建设		DEG
+					当地		VV
+					同比		PU
+					二十七日		NT
+					，		PN
+					下午		NT
+					根据		PU
+					由		VC
+					非常		NN
+					中国		VC
+					第一		P
+					）		VV
+					提前		AD
+					首		DEG
+					持有		AD
+					事业		NN
+					金额		JJ
+					经		PU
+					以		NN
+					当局		NN
+					大		OD
+					累计		PU
+					上午		NT
+					工作		VV
+					恶化		NN
+					决定		JJ
+					获		NN
+					零售		PU
+					电子		PU
+					安排		NN
+					香港		P
+					生产		PU
+					资产		DEG
+					包括		CC
+					国有		VV
+					强		NN
+					特别是		PU
+					出口		NR
+					访		NN
+					项		DT
+					于		NR
+					美国		VC
+					中文		P
+					电脑		JJ
+					６月		NT
+					下		VV
+					特使		NN
+					规模		VV
+					女子		NN
+					近		AS
+					对话		NN
+					开业		AD
+					欧洲		AS
+					连续		PU
+					十四日		NT
+					才		NN
+					欧洲		P
+					因为		AD
+					时间		JJ
+					当地		P
+					决定		DEG
+					交易		PU
+					１９９９年		P
+					乐观		VV
+					下		NN
+					人		DEC
+					加强		AD
+					行政区		JJ
+					手续		NN
+					居民		NR
+					项		OD
+					办公室		NN
+					政府		NN
+					参展		NN
+					千瓦		CD
+					地区		CC
+					新		NR
+					本		VC
+					医疗		NN
+					地方		NN
+					实施		NN
+					周		CD
+					千		AD
+					以及		NR
+					也		PU
+					建成		NT
+					副部长		NN
+					大约		NN
+					以		M
+					出生		NN
+					专用		NN
+					低于		AD
+					全		VC
+					财产		NR
+					零售		NN
+					发生		VV
+					结算		NN
+					希望		PN
+					２０日		NT
+					机械		PU
+					所以		PU
+					控股		NR
+					一亿		VV
+					基地		NN
+					３１日		NN
+					高速		NN
+					百分点		M
+					你们		VV
+					十		NR
+					这里		P
+					降低		NN
+					投产		AD
+					意大利		PU
+					广泛		AD
+					二十		NN
+					关税		VV
+					条例		PU
+					共识		VV
+					带来		NN
+					明年		P
+					在		NN
+					查询		NN
+					国外		P
+					对		AS
+					２９日		NR
+					联合国		VC
+					有关		P
+					出口额		NN
+					高速		NR
+					龙头		VV
+					增长点		NN
+					仪式		DEC
+					十日		NT
+					资本		NN
+					二日		NT
+					与		VV
+					法律		NR
+					增长		JJ
+					争取		PU
+					十万		VV
+					高度		PU
+					欧洲		PU
+					之前		NN
+					采用		NN
+					稳定		CC
+					建立		NR
+					一九九八年		PU
+					内需		VV
+					结合		NN
+					报纸		NN
+					所有		P
+					欢迎		NN
+					泰国		VV
+					生产		NR
+					处		AD
+					计划		NN
+					健康		NN
+					新		AD
+					法院		NN
+					社会主义		DEG
+					使用		NN
+					奥地利		PU
+					明确		NN
+					发挥		AD
+					生活		JJ
+					依法		NN
+					与		PU
+					小		VV
+					并		VV
+					特区		P
+					对		PN
+					行使		VV
+					全		PU
+					人类		PU
+					通讯员		PU
+					工作		AD
+					厂商		NR
+					二十多		VE
+					人士		DEC
+					促进		AD
+					４		P
+					武汉		PU
+					艺术		NN
+					要		PU
+					援助		NN
+					这样		PU
+					最低		PU
+					开放		VV
+					“		AD
+					七		VV
+					外资		PU
+					农业		NR
+					二０一０年		P
+					天然气		PU
+					广泛		AS
+					级		M
+					和平		DEG
+					要求		PN
+					，		SP
+					国内外		VV
+					任务		JJ
+					如下		VV
+					报道		P
+					意义		NN
+					内		NT
+					大		AS
+					公司		DT
+					十亿		AD
+					塞		VV
+					起		VV
+					希望		NN
+					长		AD
+					透露		NN
+					朝鲜		P
+					货物		VV
+					副局长		NN
+					思想		NN
+					中国		NR
+					华盛顿		NR
+					却		PU
+					宣布		PU
+					期		OD
+					课程		NN
+					教育		JJ
+					所		PU
+					既		NN
+					出台		AD
+					服务		JJ
+					旅游		NN
+					总统		JJ
+					机构		NN
+					五		AD
+					新		VV
+					来		PU
+					既		PU
+					一月		NT
+					浦东		NR
+					完善		VV
+					多云		PU
+					十八		NN
+					重大		DEC
+					中国		P
+					访问		NR
+					之间		NR
+					较大		VE
+					同意		VV
+					仍		LC
+					常委会		NN
+					工作		DEG
+					２		PU
+					健康		PU
+					六		VV
+					走私		NN
+					其他		P
+					年		NN
+					。		M
+					组织		NN
+					至		M
+					同		M
+					条件		JJ
+					访		M
+					大部分		NN
+					秩序		NN
+					转变		NN
+					要		VC
+					之后		NN
+					固定		NN
+					严重		AD
+					相应		VV
+					是		AD
+					手段		NN
+					是		VV
+					民族		NR
+					来		NT
+					与		P
+					进行		NN
+					香港		PU
+					毛里求斯		VV
+					历史		M
+					产生		AD
+					力度		NN
+					十三日		NT
+					没有		NN
+					工程		DT
+					、		JJ
+					后		M
+					她		VV
+					曾		PU
+					，		DEC
+					致力于		AD
+					田径		NR
+					强		AD
+					逆差		NN
+					之后		VV
+					难		AD
+					并		AD
+					第五		NN
+					见		AD
+					对		NT
+					首		PU
+					此		P
+					促进会		NN
+					在		LC
+					更		P
+					胜		CD
+					举行		AD
+					至		NN
+					股		CD
+					市场		NN
+					一直		PU
+					很		VV
+					日		PU
+					外国		M
+					解决		VV
+					体育		PU
+					先生		NR
+					间		M
+					的		PU
+					季		OD
+					可		PU
+					於		AD
+					出口		DEC
+					职工		NN
+					力量		JJ
+					能		NN
+					一		DEG
+					标准箱		CD
+					将		M
+					先后		NN
+					按照		PU
+					EndFlag		PU
+					十二月		P
+					重要		AS
+					外资		VV
+					植物		NN
+					中		VC
+					以来		NT
+					日本		DEC
+					进入		PU
+					工业		JJ
+					必须		AD
+					高达		NN
+					地		VA
+					股市		VV
+					不论		PU
+					由		VV
+					批		AD
+					力争		PU
+					福建		VV
+					巴西		P
+					２３日		NT
+					陆续		NN
+					一月		NR
+					参加		NN
+					电子		P
+					解决		NN
+					舞台		NN
+					中央		VV
+					案		NN
+					国有		M
+					副主席		NN
+					经济		NR
+					举行		NT
+					核电站		NR
+					第二十四		PU
+					奖励		NN
+					从		VV
+					了解		P
+					做法		DEC
+					合作		PN
+					份		CD
+					协议		PU
+					一百亿		VV
+					地位		DEG
+					幅度		NN
+					实现		NT
+					协会		NN
+					人		CD
+					八		CD
+					利用		NR
+					结构		VV
+					到		NT
+					介绍		P
+					本人		PU
+					港口		NN
+					发布会		NN
+					朝鲜		VV
+					还		PU
+					世界		NN
+					保护		PU
+					广州		P
+					影响		JJ
+					监管		NN
+					关系		DEC
+					居		M
+					加快		VV
+					广东		VV
+					百分之八		VV
+					越来越		AS
+					教育		DEG
+					生活		DEG
+					设立		NR
+					、		VV
+					建成		DEG
+					国民		P
+					有		CC
+					一		P
+					１９９７年		P
+					得到		VV
+					十二日		NT
+					所		NR
+					之外		NN
+					开展		NN
+					内容		JJ
+					高新		VV
+					大奖赛		NN
+					技术		JJ
+					继续		PU
+					投资		M
+					架构		NN
+					证券法		M
+					该		NT
+					产品		JJ
+					成立		NN
+					是		CC
+					食品		PU
+					航电		NR
+					四月		NT
+					自		NN
+					货币		JJ
+					上海		NR
+					方向		NN
+					关于		PU
+					主权		VV
+					规模		M
+					投资额		JJ
+					交换		NN
+					仍然		NN
+					费用		NN
+					摄		NR
+					二		PU
+					”		VV
+					科技		CC
+					获得		M
+					总部		NN
+					进口		NN
+					该		VV
+					即		PU
+					人民		NN
+					滑雪场		NR
+					两		P
+					交易会		NN
+					管理		PU
+					举办		AD
+					宣布		AD
+					全面		NN
+					特别		NR
+					以下		CD
+					正		NN
+					石油		VV
+					因		VV
+					法律		P
+					确定		NN
+					天津		PU
+					广州		PU
+					国务院		CC
+					超过		NN
+					人数		NN
+					进入		AD
+					之中		NN
+					每		P
+					通过		VV
+					世界		CC
+					法		PU
+					初步		PU
+					连锁		JJ
+					出席		NR
+					勘探		NN
+					治理		NN
+					一些		NN
+					销售		VV
+					合作		VV
+					农村		NR
+					冲突		NR
+					近		AD
+					人次		CD
+					标题		JJ
+					制品		NN
+					综合		NN
+					陆家嘴		NR
+					证明书		NN
+					和平		PU
+					工厂		JJ
+					步		CD
+					日期		NN
+					百		AD
+					国内		P
+					第二		NN
+					批准		P
+					我		P
+					英		PU
+					除		PU
+					通过		NN
+					云南		PU
+					一		VE
+					公斤		CD
+					新		AS
+					就		AD
+					国家		CD
+					平方米		CD
+					日本		PU
+					努力		PU
+					水		PU
+					更		VV
+					人民币		VV
+					华		VV
+					比赛		VV
+					於		VV
+					从		NR
+					核查		NN
+					国内		NR
+					外资		M
+					立即		NN
+					文明		NN
+					。		VA
+					发表		PU
+					会		NN
+					军队		NR
+					冠军		NN
+					突破		NN
+					问题		M
+					开通		AD
+					欧元区		VV
+					至		CD
+					纵		CD
+					台商		PU
+					示范区		NN
+					研制		AD
+					则		NN
+					增长		VV
+					阿拉伯		VV
+					规模		JJ
+					总量		NN
+					新翼		NN
+					平稳		NR
+					标准		NR
+					福建省		PU
+					采取		PU
+					获得		NN
+					境内		NR
+					统计		NN
+					认为		AD
+					相		NN
+					开发		VV
+					国外		VV
+					网络		NN
+					改革		NN
+					投资额		NN
+					后		PU
+					近		DEG
+					系列		CD
+					取消		AD
+					和		VV
+					国民		VV
+					北方		NR
+					将		VV
+					中国		VE
+					让		VV
+					美国		LC
+					或		M
+					城市		PU
+					定		AD
+					此间		P
+					开幕		NR
+					创造		NN
+					进一步		DEG
+					发现		NR
+					贸易		NR
+					？		NN
+					具有		VV
+					天然气		NN
+					分析		NN
+					批		DT
+					行业		NN
+					意见		DEG
+					利用		VV
+					认识		NN
+					部署		NN
+					压力		NN
+					卫星		NN
+					投入		VV
+					高速		PU
+					推动		VV
+					。		AD
+					电器		NR
+					合作		DEC
+					当		AD
+					由		AD
+					监督局		NN
+					会议		P
+					医疗		PU
+					经贸		VV
+					技术		DEG
+					唯一		NR
+					仪器		NN
+					形势		NN
+					同胞		NR
+					消费品		NN
+					地区		DT
+					金融		NN
+					公布		NT
+					新闻		VV
+					２０００年		P
+					管理		CC
+					主持		NR
+					１		NN
+					成为		NR
+					。		LC
+					主要		DEG
+					资产		PU
+					货币		VV
+					次		DT
+					具有		NN
+					不少		PU
+					贯彻		AD
+					提高		VV
+					香港		NR
+					会		CD
+					三十		VV
+					教育		NN
+					百分之五十		VV
+					（		NN
+					管理法		NN
+					管理		JJ
+					投资		NR
+					期		CD
+					奥委会		NN
+					外汇		NN
+					近		VE
+					中旬		NT
+					办法		NN
+					度		CD
+					、		NN
+					要求		DEC
+					最		LC
+					副主任		NN
+					经济		CC
+					工商		NR
+					工业		NN
+					新闻		NR
+					行政		NN
+					成		VV
+					提高		DEG
+					再次		NN
+					参与		AD
+					为期		VV
+					劳务		DEG
+					战胜		CD
+					政府		VV
+					铁路		M
+					说		NR
+					许多		VV
+					第三		VV
+					作为		NN
+					通道		JJ
+					科学		NN
+					解决		DEG
+					西班牙		PU
+					每		NN
+					小		PU
+					；		VA
+					条件		NN
+					文化		NN
+					当年		VV
+					南方		NR
+					提供		PU
+					对手		VV
+					企		NN
+					造成		VV
+					套		DT
+					分配		NN
+					日		NR
+					中国		DEC
+					联合国		CC
+					星期一		PU
+					出生		M
+					形势		JJ
+					产值		JJ
+					公报		JJ
+					三资		PU
+					以		P
+					男子		PU
+					正在		NN
+					现在		P
+					境外		VV
+					债券		NN
+					引进		NR
+					实施		VV
+					统一		PU
+					改变		AD
+					事变		NR
+					发言人		NN
+					繁荣		DEG
+					最		DEG
+					出		VV
+					外国		PU
+					就		NN
+					采取		VV
+					韩		NR
+					主要		M
+					２５日		NT
+					取得		AD
+					不		VC
+					会议		DEG
+					的		PN
+					浙江		PU
+					周年		CD
+					县		NN
+					介绍		NN
+					有		AD
+					方		CD
+					维护		P
+					间		NT
+					重要		VV
+					全		AS
+					增加		PU
+					设备		JJ
+					电子		VV
+					设施		NN
+					。		PU
+					执行		AD
+					进口		VV
+					舆论		NN
+					开放		JJ
+					，		VV
+					就		LC
+					最近		PU
+					负担		NN
+					六		NN
+					波恩		NR
+					协议		JJ
+					他		PU
+					良好		DEC
+					发展		P
+					制定		NN
+					信用		NN
+					进行		NT
+					晚		NT
+					协议		DEC
+					天文台		NR
+					严重		NN
+					看		NN
+					副委员长		NN
+					投入		NN
+					股市		NR
+					占		NN
+					等		OD
+					重组		NN
+					势头		NN
+					造成		NN
+					工业		VV
+					。		VV
+					今年		NN
+					现在		AD
+					十二月		NR
+					不断		DEG
+					品种		M
+					最高		PU
+					及		NT
+					初		NN
+					结合		AD
+					之一		NN
+					情况		M
+					列为		SB
+					直		PU
+					最		DEC
+					推行		AD
+					他		VV
+					共和军		NR
+					和		JJ
+					良好		AS
+					新		NN
+					一起		NN
+					会议		M
+					领导人		NN
+					造成		PU
+					明日		P
+					大赛		NN
+					五		VV
+					方针		PU
+					表示		PU
+					提供		VV
+					北京		P
+					做		VV
+					成功		DEG
+					还		NT
+					令		PU
+					赴		AD
+					以上		M
+					友谊		DEG
+					增幅		PU
+					株式会社		NR
+					秘书长		NN
+					多		M
+					国		PN
+					集装箱		NN
+					．		NN
+					－－		NR
+					还		AD
+					欧洲		VV
+					公司		PU
+					共		PU
+					科技		JJ
+					《		NR
+					沿海		NN
+					构成		NN
+					都		PU
+					左右		CD
+					关注		VV
+					学术		NN
+					枢纽		NN
+					余额		NN
+					代表		VV
+					发行		AD
+					地区		JJ
+					治		NN
+					是		NR
+					体育		VV
+					公里		CD
+					之		PU
+					信贷		NN
+					法律		VV
+					文件		NN
+					签订		NN
+					恢复		NT
+					中国		AS
+					市场		VV
+					欧元		NT
+					现		NN
+					原油		NN
+					发现		PU
+					同时		NR
+					需要		AD
+					突破		JJ
+					三		M
+					其他		PU
+					利用		CC
+					人员		VV
+					福		VC
+					生活		NN
+					形成		PU
+					华		P
+					向		NR
+					已经		AD
+					半岛		NR
+					平均		NN
+					刊登		NN
+					通信		NN
+					提高		NN
+					辽宁		VV
+					作为		VV
+					至		NT
+					儿童		NN
+					总理		NN
+					至		VV
+					全		P
+					南京		NR
+					联合		M
+					残疾人		NN
+					出口		M
+					教练		NN
+					粮食		NR
+					后		VV
+					EndFlag		NN
+					东北		PU
+					城市		NR
+					《		DEC
+					重点		NN
+					技术		VV
+					确保		VV
+					承包		NN
+					巨大		AS
+					国家		ETC
+					占		AD
+					农村		AS
+					官员		NN
+					俄罗斯		PU
+					世界		P
+					商品		PU
+					年		VV
+					为了		PU
+					１９９８年		VV
+					委员		NN
+					当天		NN
+					三十一日		NT
+					是		PU
+					发展		CC
+					完		PU
+					货币		DEC
+					二		NR
+					和平		DEC
+					基金会		NN
+					」		PU
+					；		NR
+					点		CD
+					坚持		PU
+					特区		PU
+					胎		M
+					对于		PU
+					一半		VV
+					第一		DEC
+					高		NN
+					市中心		NR
+					运输		NN
+					谈判		VV
+					总局		NN
+					经营		AD
+					平方公里		CD
+					可能		NN
+					连续		AD
+					武装		JJ
+					创新		NN
+					商品		NN
+					内地		PU
+					稳定		AD
+					今天		NR
+					股票		NR
+					移民		NN
+					吸引		AD
+					公司		M
+					大		VV
+					企业		JJ
+					访问		JJ
+					扩大		PU
+					比重		DEC
+					。		ETC
+					北京		NR
+					、		CD
+					代表		NN
+					仍		NR
+					各		VV
+					２		P
+					宣誓		NN
+					重大		DEG
+					汽车		CC
+					国家		JJ
+					把		NR
+					二		NN
+					人		DT
+					充分		PU
+					熊猫		JJ
+					日益		NN
+					提高		PU
+					中外		VV
+					各		DEG
+					贡献		JJ
+					协定		NN
+					到位		NN
+					俱乐部		NR
+					突破		VV
+					西南		JJ
+					品种		NN
+					而		VV
+					四月		NR
+					著名		NN
+					位		CD
+					存款		NN
+					变化		DEG
+					促进		CC
+					日报		NN
+					加紧		AD
+					中外		M
+					法律		DEG
+					保证		PU
+					共和国		NN
+					有		CS
+					全		M
+					大会		NN
+					促进		P
+					共		NN
+					“		DEC
+					报道		PU
+					立方米		CD
+					中央		PU
+					统一		DEG
+					四		CC
+					保护		NN
+					经		NN
+					合资		NN
+					发表		NN
+					代表		PN
+					以		AD
+					时期		M
+					明显		AD
+					开放		AD
+					”		NR
+					制药		NR
+					《		M
+					有关		VV
+					不断		AD
+					多		CC
+					能够		NN
+					间		NN
+					宏观		NN
+					化石		NN
+					历史		DEG
+					部分		VV
+					良好		NN
+					然而		PU
+					授权		NN
+					力量		DEG
+					一		AS
+					半		M
+					建交		NR
+					规划		NN
+					EndFlag		CD
+					产业		OD
+					启动		AD
+					证券		VV
+					招待会		NN
+					供水		NN
+					２７日		NT
+					比较		NN
+					流动		NN
+					彗星		M
+					民族		VV
+					内		M
+					完善		AD
+					行长		NN
+					安置		AD
+					跨国		M
+					其		CC
+					发现		AD
+					实施		PU
+					发生		AD
+					教育		PU
+					减少		NN
+					马		JJ
+					主体		VV
+					举办		NR
+					表明		NN
+					简讯		NN
+					协议		VV
+					资金		JJ
+					几		DT
+					集团		NN
+					曾		AD
+					应		AD
+					出现		NN
+					城市		NN
+					深业		PU
+					库区		P
+					所		VV
+					单位		NN
+					会		VV
+					曾		NN
+					楼		CD
+					吉		NR
+					百分之三十		VV
+					大力		PU
+					步伐		NN
+					锦标赛		NN
+					会		CC
+					贸易区		NN
+					改革		P
+					香港		VV
+					之		M
+					却		PN
+					开办		NR
+					就		NT
+					显示		NN
+					考察		NR
+					增加		M
+					被		PU
+					均		PU
+					是		PN
+					深圳		CC
+					旅游		PU
+					，		PU
+					再		NN
+					制裁		NR
+					雕塑		PU
+					资金		CC
+					仪式		JJ
+					一定		PU
+					一半		NN
+					精神		NN
+					大宇		NR
+					证交所		NR
+					有力		PU
+					外国		DEC
+					最		P
+					发行		VV
+					专项		NN
+					重点		M
+					增加		NT
+					支付		NN
+					从		AS
+					美国		CC
+					２３日		NR
+					组建		VV
+					１２月		NT
+					开发		PU
+					考虑		VV
+					最后		VV
+					建立		PU
+					外资		NR
+					八月		NT
+					自己		P
+					成绩		DEC
+					产		AD
+					参加		NR
+					最近		P
+					中亚		VV
+					岸		CD
+					方式		DEC
+					两		DT
+					发展		NR
+					洽谈会		NN
+					人民		CC
+					市委		NR
+					销售		PU
+					几乎		NN
+					北部		NR
+					于		VV
+					领导人		NR
+					境外		P
+					家庭		PU
+					院校		NN
+					因而		PU
+					项目		CD
+					仅		NN
+					山东		PU
+					新增		NN
+					自		PU
+					伤		VE
+					今天		PU
+					法律		JJ
+					新		PU
+					也		PN
+					将		AD
+					俄		PU
+					按		PU
+					适应		AD
+					交换机		JJ
+					辽宁		P
+					未来		VV
+					韩国		PU
+					削弱		VV
+					中共		P
+					为		PN
+					三		DT
+					份		DT
+					农村		P
+					纷纷		NN
+					条		CD
+					环境		JJ
+					钾肥		NN
+					作品		NN
+					优势		NN
+					开幕		NN
+					司法		PU
+					社会		P
+					作为		PN
+					更		AD
+					报道		NT
+					下午		CC
+					认为		NN
+					末		NN
+					科技		NN
+					投入		AD
+					船舶		NR
+					总公司		NN
+					今后		PU
+					股票		NN
+					作		NN
+					优惠		NN
+					八		NN
+					责任		JJ
+					交流		DEG
+					且		PU
+					厂家		NN
+					美国		NT
+					上海		VV
+					总		NN
+					亚洲		P
+					保证		NN
+					邱瑞金		PU
+					不		P
+					澳大利亚		PU
+					由于		PU
+					公约		NN
+					国家		PU
+					又		NR
+					与		NT
+					与		PN
+					，		NN
+					潜力		NN
+					又		NN
+					类		CD
+					规定		DEG
+					基金		DT
+					贸易		DEG
+					位		DT
+					对		AD
+					十五日		NT
+					证券		NR
+					上		PU
+					建设		CC
+					参加		PU
+					１９９７年		PU
+					二十九日		NT
+					下岗		VV
+					以来		VV
+					保持		NR
+					京		P
+					台湾		CC
+					来自		VV
+					基本		AD
+					棋手		M
+					和平		P
+					外债		NN
+					“		NN
+					法国		P
+					项目		DT
+					决定		PU
+					十		DT
+					衰退		NN
+					榜首		VV
+					港元		CD
+					有		VV
+					贷款		PU
+					开发		NN
+					上海		AS
+					印度		PU
+					把		VV
+					鼓励		NR
+					旅游		DEC
+					初步		NN
+					渠道		NN
+					货币		CC
+					吉尔吉斯		PU
+					兼		NN
+					新闻		PU
+					。		AS
+					环境		VV
+					有关		NR
+					属		MSP
+					投资		DEC
+					由于		AD
+					过		VV
+					不		AD
+					部长		NN
+					日本		P
+					中		CD
+					证券		PU
+					密集型		NN
+					九时		NT
+					申报		NN
+					增加		NN
+					数字		NN
+					１０		NN
+					古巴		VV
+					存在		AD
+					调查		M
+					施行		LC
+					和		M
+					产业		VV
+					当局		NR
+					自		NR
+					社会		NR
+					关注		DEG
+					第二		VV
+					重要		AD
+					全		NR
+					服务		VV
+					贡献		DEC
+					管理		VV
+					强		CD
+					台商		P
+					兴建		AD
+					公路		NN
+					”		M
+					有		PN
+					改革		VV
+					研究		JJ
+					成本		NN
+					最大		NN
+					所		VE
+					６		PU
+					《		P
+					主要		DEC
+					向		CC
+					强调		LC
+					数		NN
+					其他		CC
+					经过		PU
+					资源		PU
+					首都		NR
+					目标		VV
+					金融		JJ
+					产生		NN
+					形式		NN
+					跨国		JJ
+					进步		NN
+					十		PU
+					必须		PU
+					国际		PU
+					六六盐		NN
+					顺利		NN
+					统一		NN
+					－－		NN
+					三		DEG
+					程序		NN
+					国际		VC
+					洽谈		NN
+					改善		DEG
+					工程		PU
+					撞击		NN
+					吉尔吉斯		VV
+					宏观		DEC
+					涉及		AD
+					出		AD
+					也		NR
+					四		VV
+					港		NR-SHORT
+					中心		VV
+					基础		NN
+					世纪		DT
+					同		AD
+					合作		JJ
+					投资者		VV
+					表演		NN
+					有利于		PU
+					快速		PU
+					表示		AD
+					欢迎		VV
+					观念		NN
+					各		PU
+					暨		NN
+					明显		VV
+					优惠		M
+					南京		P
+					则		NR
+					继续		VV
+					电脑		NN
+					天		CD
+					及		VA
+					先后		NR
+					情况		DEC
+					把		NN
+					冠军		NR
+					于		NN
+					办法		DEC
+					浦东		VV
+					作为		AD
+					纪录		JJ
+					今天		NN
+					达成		AD
+					交流		CC
+					给		VV
+					对手		NN
+					七月		PU
+					政治		P
+					新		DEC
+					设备		CC
+					８月		P
+					旅游		JJ
+					人口		NN
+					套		CD
+					依法		VV
+					这		DEG
+					主导		VV
+					荷兰		PU
+					而且		PU
+					日本		DT
+					明年		VV
+					大		AD
+					类		NN
+					一直		NN
+					沿海		NR
+					优惠		VV
+					澳门		VV
+					努力		DEG
+					三峡		P
+					增长		DEG
+					大业		NN
+					统一		NR
+					张		CD
+					人民币		M
+					但是		PU
+					晴		PU
+					《		VV
+					最近		NN
+					实行		NN
+					经验		NN
+					三峡		NR
+					直接		PU
+					在		NT
+					独立		NR
+					单位		CC
+					能		PU
+					外贸		NR
+					已		PN
+					进程		NN
+					更		NN
+					门		CD
+					指出		PN
+					出售		NN
+					的		LC
+					安理会		VV
+					企业		NR
+					很		VE
+					沿海		VV
+					有关		CC
+					问题		DT
+					说		AD
+					其他		VV
+					达到		VV
+					验收		NN
+					科学		JJ
+					法规		JJ
+					九七年		P
+					中		P
+					已经		NN
+					创		AD
+					接受		VV
+					，		NR
+					县		PU
+					强调		AD
+					所		LC
+					有助于		AD
+					有		DEC
+					获得		NR
+					要		NN
+					人士		NN
+					申请		NN
+					发表		LC
+					地区		CD
+					三		PU
+					，		ETC
+					结束		AD
+					身份		NN
+					调查		NN
+					十九日		NT
+					访问		AD
+					一九八五年		P
+					这		AD
+					基础		DEG
+					中		NR
+					９月		NR
+					？		VV
+					活动		NN
+					受		AD
+					组织		DT
+					说		VV
+					农业		PU
+					调整		NN
+					关系		NN
+					规模		DEG
+					华人		NN
+					学生		NR
+					开始		NR
+					批准		AD
+					居		AD
+					十亿		VV
+					了		VA
+					原料		NN
+					改善		PU
+					政府		PU
+					、		AD
+					里		M
+					社会		CC
+					高		PU
+					交易		NN
+					第三		NN
+					会见		AD
+					呼吁		PU
+					２１		VV
+					特别		PU
+					统计		P
+					企业		DEC
+					部分		NN
+					多		NN
+					今天		AS
+					女		PU
+					次		CD
+					。		NN
+					批		OD
+					人		VV
+					港		P
+					布局		NN
+					残疾人		NR
+					已		NN
+					球员		M
+					高速		DEG
+					赛季		DT
+					指出		PU
+					区域		CC
+					让		PU
+					取得		VV
+					来自		PU
+					纷纷		AD
+					保险		PU
+					得		AD
+					银行		M
+					市场		DEC
+					是		NN
+					一些		VV
+					都		M
+					施工		NN
+					投资		PU
+					雇员		VV
+					拥有		NR
+					地区		VV
+					块		CD
+					分行		VV
+					阶段		NN
+					被		NN
+					交易		VV
+					涉及		NN
+					最近		NR
+					２９日		NN
+					同		P
+					没有		AD
+					稀土		NR
+					价格		JJ
+					新加坡		PU
+					。		CD
+					泰国		CC
+					《		CC
+					改造		NN
+					国际		NT
+					今日		PU
+					了解		AD
+					欧盟		VV
+					加强		PU
+					要求		PU
+					政治		NN
+					深圳		PU
+					少		AD
+					全		DEC
+					投资		VV
+					成		AD
+					！		SP
+					金融		DEG
+					”		NT
+					记者		PU
+					时间		DEG
+					就业		VV
+					原油		VV
+					时间		VV
+					的		VA
+					欧盟		CC
+					科技		P
+					座		DT
+					轮		CD
+					支持		JJ
+					东南亚		P
+					访问		NN
+					军事		CC
+					方面		ETC
+					到来		AD
+					３月		NT
+					文化		PU
+					月		M
+					商品		JJ
+					星期四		PU
+					跨国		VV
+					导弹		VV
+					程度		JJ
+					管理		DEG
+					常委		NN
+					支出		NN
+					约		M
+					如下		NN
+					工业		DEG
+					第一		VV
+					程度		NN
+					管理局		NN
+					支持		AD
+					水平		JJ
+					国内		VV
+					、		M
+					被		AD
+					三峡		PU
+					欧洲		M
+					方面		JJ
+					如果		PU
+					加强		P
+					分子		NN
+					友好		JJ
+					十二月		NT
+					三		AS
+					项目		NN
+					假		VV
+					成功		AD
+					下降		VV
+					一		NR
+					双方		NR
+					一九九九年		PU
+					中国		M
+					讨论		NN
+					意识		NN
+					公开		PU
+					小		JJ
+					国际		M
+					栗建昌		NN
+					老		NR
+					人类		VV
+					发出		NN
+					居		PU
+					（		VV
+					日		CD
+					两		PU
+					投资		DEG
+					驻		NR
+					比例		DEC
+					使		MSP
+					计划		DEC
+					董建华		NN
+					以及		PU
+					成为		VV
+					九月		P
+					巴黎		P
+					长江		VV
+					机组		M
+					进度		NN
+					社会		DT
+					最新		DEG
+					首		VV
+					政策		NN
+					基本		DEG
+					城市		M
+					户		CD
+					省		DT
+					增强		PU
+					不		PU
+					只有		NN
+					；		NN
+					我		VV
+					自治区		PU
+					一九九一年		P
+					至		NR
+					名单		NN
+					事务		NN
+					１日		NT
+					繁荣		JJ
+					对外		VV
+					怕		AD
+					木星		VV
+					级		CD
+					私营		NR
+					汽车		JJ
+					波黑		VV
+					本地化		NN
+					主席		VV
+					效率		NN
+					所有		NN
+					困境		VV
+					指出		NR
+					一些		P
+					５０		NN
+					空军		NR
+					设		NN
+					共		NR
+					试点		NN
+					出版		AD
+					预算		NN
+					主		NN
+					正确		VV
+					记者		NN
+					选手		JJ
+					逐步		PU
+					类		DT
+					合作		NR
+					云南省		PU
+					政府		NR
+					主要		PN
+					以		VV
+					金融		P
+					就		NR
+					联盟		NN
+					枚		CD
+					政治局		NN
+					完成		MSP
+					企业		NN
+					和		PU
+					江西		VV
+					很		NN
+					仅		NT
+					虽		NN
+					互联网		NN
+					届		CD
+					出来		VV
+					周刊		PU
+					去		NN
+					预测		NN
+					还		PN
+					四		NR
+					叶利钦		NN
+					感到		NN
+					俄		VV
+					一直		NR
+					二十三日		NT
+					浙江		VV
+					产业化		NN
+					措施		DEC
+					贷款		M
+					最后		NR
+					局面		NN
+					实现		AD
+					国内		NT
+					来自		AD
+					研究		AD
+					天津港		P
+					训练		NN
+					“		CC
+					学会		NN
+					海关		NN
+					发展		NN
+					年度		NT
+					需要		NN
+					结构		NN
+					全		NT
+					台湾		VV
+					把		AD
+					到		NR
+					谈话		VV
+					两		NN
+					交通		JJ
+					企业		DEG
+					欧盟		PU
+					贷款		VV
+					以上		CD
+					宁波		PU
+					产品		VV
+					努力		DEC
+					可		NT
+					李光真		PU
+					地区		DEC
+					鼓励		PU
+					、		NR
+					方式		DEG
+					年		DEG
+					部门		DT
+					病毒		NN
+					危机		NR
+					反映		AD
+					亚洲		DEC
+					大		DEG
+					有		LC
+					再		PU
+					谨		PN
+					水平		DEC
+					逾		VV
+					又		NT
+					世界		PU
+					汽车		PU
+					商务		NN
+					经济		NT
+					成果		JJ
+					项		CD
+					作为		PU
+					空		PU
+					随着		PU
+					游泳		NN
+					波罗的海		P
+					学者		NN
+					外商		PU
+					学生		VV
+					确保		PU
+					近年		PU
+					军事		M
+					集团		PU
+					项目		M
+					十二		NN
+					规模		NN
+					发电		NN
+					事		JJ
+					影响		AD
+					需要		DEG
+					江泽民		PU
+					技术		M
+					强调		NR
+					山东		P
+					按		AD
+					辽宁		PU
+					件		CD
+					――		VV
+					表示		NR
+					强调		NN
+					前来		NN
+					不		NR
+					信心		NN
+					公布		AD
+					完善		CC
+					四		NN
+					全		VV
+					利益		NN
+					逝世		NR
+					生产		AD
+					日趋		NN
+					学院		NN
+					华侨		NN
+					降低		VV
+					保税区		VV
+					深入		NN
+					祖国		P
+					荷兰		VV
+					具体		DEC
+					五日		NT
+					九五		PU
+					广州		VV
+					五月		NT
+					的		NR
+					积极		VV
+					委托		NN
+					集体		PU
+					外国		VV
+					被		M
+					正常		AD
+					重庆		P
+					将		NN
+					能源		NR
+					天		DT
+					形势		DEC
+					专员		NN
+					申请		DEG
+					《		AS
+					承建商		JJ
+					经贸		NN
+					过		NN
+					３０日		NN
+					到		CD
+					会长		NN
+					；		M
+					容量		JJ
+					一		PU
+					与		NN
+					公司		VV
+					组成		JJ
+					新疆		PU
+					记者		P
+					出口		AD
+					关于		NR
+					大陆		NN
+					”		PU
+					京九		PU
+					以		PU
+					引进		PU
+					季度		OD
+					省		VV
+					架		CD
+					增强		AD
+					可以		AD
+					一九九七年		VV
+					奖学金		NN
+					”		DEC
+					走		AD
+					政府		JJ
+					等		NN
+					问题		NR
+					计划		AD
+					会见		NN
+					―――		NN
+					古巴		PU
+					人口		DEG
+					外长		NR
+					推广		NN
+					加快		PU
+					内地		VV
+					历史		VV
+					设施		JJ
+					市场		P
+					意义		JJ
+					生产		DEG
+					三月		NR
+					推出		AD
+					加入		NN
+					这里		VV
+					币		JJ
+					祖国		PU
+					远程		PU
+					工程		VV
+					加大		AD
+					农业		VV
+					台商		VV
+					发现		DEG
+					塞族		NR
+					女子		P
+					滑雪		NN
+					以便		PU
+					汇率		NN
+					闽		VV
+					大力		AD
+					打击		NN
+					长江		NR
+					分		CD
+					一千万		VV
+					购买		NN
+					分别		AD
+					全球		PU
+					市场		CC
+					第二		CC
+					万		M
+					）		NT
+					进展		NN
+					实际		DEG
+					责任		VV
+					成果		NN
+					伊拉克		VV
+					组成		NN
+					高		M
+					条件		VV
+					设计		NN
+					中央		P
+					则		PU
+					比		CD
+					保持		NN
+					尚		NN
+					巴黎		NR
+					负		NN
+					进程		DEG
+					与		NR
+					最		VC
+					比例		NN
+					部		CD
+					使		PU
+					十分		NN
+					推行		PU
+					仍		AD
+					公民		NR
+					．		CD
+					金融		NR
+					所		CD
+					四十		NN
+					宁波		VV
+					香港		DEC
+					本		PU
+					分钟		CD
+					建设		VV
+					指数		NN
+					宪章		NR
+					总值		NN
+					代理		NN
+					三		P
+					成立		NT
+					控制		NN
+					局长		NN
+					贸易		DEC
+					十分		VV
+					主席		NR
+					快速		NN
+					工业部		NN
+					部署		VV
+					集团		NR
+					对		VC
+					情况		DEG
+					进出口		NR
+					国内外		P
+					…		PU
+					若		PU
+					内		NN
+					完成		PU
+					外贸		JJ
+					要		NR
+					海关		VV
+					全部		AD
+					三		NT
+					巴西		PU
+					省		JJ
+					研究		DEG
+					农民		VV
+					上海		PU
+					职工		VV
+					季		DT
+					更加		NN
+					评选		NN
+					处理		VV
+					日		P
+					美		P
+					，		DEG
+					努力		JJ
+					过去		P
+					下来		VV
+					政策		DEG
+					，		LC
+					其它		CC
+					保持		AD
+					台		VV
+					和		CD
+					决定		NR
+					报告		NN
+					完成		NN
+					召开		NR
+					感谢		VV
+					这		NR
+					在内		NR
+					前		M
+					合资		M
+					进行		AD
+					全球		M
+					多		P
+					中央		NN
+					个		VC
+					做出		NN
+					最		NT
+					个		OD
+					高		P
+					联盟		NR
+					必要		VV
+					场		CD
+					出口		DEG
+					航线		NN
+					安排		AD
+					报		DT
+					储备		NN
+					将		PU
+					开展		AD
+					队伍		NN
+					下半年		NT
+					配套		NN
+					出发		NN
+					达到		AD
+					为了		VC
+					不		NN
+					加大		NN
+					可以		NR
+					朋友		NN
+					布		PU
+					团长		NN
+					中华		VC
+					新		CD
+					港		PU
+					大		DEC
+					将		PN
+					桶		DT
+					资金		DEC
+					住房		NN
+					生产		DEC
+					监管		DEG
+					现		NR
+					作出		NR
+					那		PU
+					规定		P
+					成果		DEC
+					龙		JJ
+					金额		NN
+					例		VV
+					召开		VV
+					称		NR
+					农村		CC
+					行为		NN
+					一九九三年		P
+					者		NN
+					六		ETC
+					今天		P
+					天然气		JJ
+					力量		NN
+					工具		NN
+					产业		NR
+					建立		P
+					吸引		NN
+					超过		VV
+					同		VV
+					进口		PU
+					３		VV
+					总书记		NN
+					台商		DEC
+					，		OD
+					开发		AD
+					向		PU
+					任何		VE
+					注册		NN
+					证券法		PU
+					吞吐量		JJ
+					顺差		NN
+					推动		PU
+					单位		DEC
+					比赛		NN
+					底		NT
+					一九九五年		P
+					：		CD
+					成立		VV
+					此		VV
+					效益		NN
+					选手		DEC
+					包括		VV
+					一些		AS
+					国有		P
+					佳		AD
+					结束		NN
+					获		AD
+					逐步		NN
+					电路		JJ
+					采取		AD
+					国民		OD
+					提高		AD
+					建成		PU
+					法官		NN
+					海关		NR
+					。		PN
+					港口		VV
+					纠纷		NN
+					来		VV
+					知道		AD
+					扩大		CC
+					最		NR
+					江泽民		NN
+					单位		JJ
+					国		VV
+					着		VE
+					领域		M
+					消费者		VV
+					副总理		NN
+					的		VV
+					十一月		CC
+					完成		VV
+					或		NN
+					五		NT
+					──		NN
+					又		AD
+					农业		DEG
+					为		P
+					四		PU
+					政治		VV
+					图书		NN
+					有		M
+					世界		VC
+					有限		PU
+					天		OD
+					又		PN
+					下		PU
+					区		PU
+					选手		NR
+					销售		CC
+					和		NR
+					李鹏		NN
+					七月		P
+					・		NR
+					已经		NR
+					立法		NN
+					第二		DEG
+					EndFlag		NR
+					天津		VV
+					居民		NN
+					供应量		NN
+					女子		NR
+					两		VC
+					决赛		DEG
+					科学		PU
+					虽然		NN
+					地区		NR
+					它们		PU
+					中国		PU
+					会议		JJ
+					受		NN
+					”		JJ
+					事故		NN
+					国内		CC
+					无法		AD
+					产地		JJ
+					产业		DEC
+					客商		NN
+					会		P
+					上升		NN
+					粮食		NN
+					公路		PU
+					从而		PU
+					技术		NR
+					就		VV
+					等		DT
+					为		NT
+					仍		PU
+					旅游		VV
+					细胞		NN
+					吸引		NR
+					人口		NR
+					及		NN
+					历史		P
+					西藏		PU
+					供应		NN
+					大学		NR
+					试验		NN
+					实行		AD
+					线路		NN
+					坚持		VV
+					时间		NN
+					检查		NN
+					与		M
+					年龄		JJ
+					四十		AD
+					声明		VV
+					纽约		PU
+					期间		NN
+					规定		PU
+					影响		NN
+					，		AD
+					省		CD
+					「		NN
+					继续		LC
+					组委会		NN
+					转让		NN
+					最新		NN
+					代		CD
+					星期三		PU
+					药		JJ
+					大陆		VV
+					特区		VV
+					南非		P
+					功能		NN
+					巨大		NN
+					交易所		NN
+					很		AD
+					机械		NN
+					本人		PN
+					下降		NN
+					检查		JJ
+					居留权		VV
+					平均		DEG
+					海地		P
+					交往		NN
+					香港		NN
+					融资		NN
+					召开		NN
+					在		PN
+					“		LC
+					六日		NT
+					两		NT
+					越来越		NN
+					以		CC
+					在		AS
+					主体		NN
+					还		NN
+					码头		JJ
+					言		MSP
+					没有		PU
+					团体		NN
+					。		DEC
+					太湖		VV
+					都		LC
+					发达		AD
+					庆典		NN
+					意见		AS
+					十		AD
+					因此		PU
+					方针		DEC
+					法庭		NN
+					一些		PU
+					，		CD
+					今年		NR
+					利用		PU
+					货物		DEC
+					在		PU
+					职业		NN
+					而		PU
+					这些		P
+					税款		VV
+					特区		NN
+					银行		JJ
+					农村		NN
+					联赛		M
+					共同		PU
+					决定		NN
+					英国		VV
+					能力		DEC
+					一九九二年		P
+					第三		NR
+					走向		NN
+					三通		PU
+					朝鲜		PU
+					百分之六		VV
+					进一步		VV
+					的		DT
+					它		VV
+					长		NN
